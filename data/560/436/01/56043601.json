@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.209, 
+              22.207
+            ], 
+            [
+              -107.209, 
+              29.880
+            ], 
+            [
+              -97.148, 
+              29.880
+            ], 
+            [
+              -97.148, 
+              22.207
+            ], 
+            [
+              -107.209, 
+              22.207
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043601, 
+        "name": "America/Monterrey", 
+        "ne_latitude": 29.880, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -97.148, 
+        "longitude": -102.179, 
+        "placetype": "Timezone", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T17:02:03Z", 
+        "parent_woeid": 23424900, 
+        "latitude": 26.043, 
+        "sw_longitude": -107.209, 
+        "fullname": "America/Monterrey, Mexico", 
+        "sw_latitude": 22.207
+      }, 
+      "id": 56043601
+    }
+  ]
+}

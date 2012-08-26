@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -17.535, 
+              12.307
+            ], 
+            [
+              -17.535, 
+              16.692
+            ], 
+            [
+              -11.356, 
+              16.692
+            ], 
+            [
+              -11.356, 
+              12.307
+            ], 
+            [
+              -17.535, 
+              12.307
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350696, 
+        "name": "Africa/Dakar", 
+        "ne_latitude": 16.692, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -11.356, 
+        "longitude": -14.446, 
+        "placetype": "Timezone", 
+        "iso": "SN", 
+        "date_indexed": "2010-12-02T08:57:23Z", 
+        "parent_woeid": 1, 
+        "latitude": 14.499, 
+        "sw_longitude": -17.535, 
+        "fullname": "Africa/Dakar", 
+        "sw_latitude": 12.307
+      }, 
+      "id": 28350696
+    }
+  ]
+}

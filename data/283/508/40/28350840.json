@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              113.529, 
+              22.180
+            ], 
+            [
+              113.529, 
+              22.222
+            ], 
+            [
+              113.566, 
+              22.222
+            ], 
+            [
+              113.566, 
+              22.180
+            ], 
+            [
+              113.529, 
+              22.180
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350840, 
+        "name": "Asia/Macau", 
+        "ne_latitude": 22.222, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 113.566, 
+        "longitude": 113.547, 
+        "placetype": "Timezone", 
+        "iso": "MO", 
+        "date_indexed": "2010-12-02T16:32:52Z", 
+        "parent_woeid": 1, 
+        "latitude": 22.201, 
+        "sw_longitude": 113.529, 
+        "fullname": "Asia/Macau", 
+        "sw_latitude": 22.180
+      }, 
+      "id": 28350840
+    }
+  ]
+}

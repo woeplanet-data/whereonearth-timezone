@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              21.745, 
+              -13.456
+            ], 
+            [
+              21.745, 
+              5.386
+            ], 
+            [
+              31.306, 
+              5.386
+            ], 
+            [
+              31.306, 
+              -13.456
+            ], 
+            [
+              21.745, 
+              -13.456
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350713, 
+        "name": "Africa/Lubumbashi", 
+        "ne_latitude": 5.386, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 31.306, 
+        "longitude": 26.525, 
+        "placetype": "Timezone", 
+        "iso": "CD", 
+        "date_indexed": "2010-12-02T16:33:25Z", 
+        "parent_woeid": 23424780, 
+        "latitude": -4.035, 
+        "sw_longitude": 21.745, 
+        "fullname": "Africa/Lubumbashi, Democratic Republic of Congo", 
+        "sw_latitude": -13.456
+      }, 
+      "id": 28350713
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.889, 
+              41.696
+            ], 
+            [
+              -89.889, 
+              48.262
+            ], 
+            [
+              -82.418, 
+              48.262
+            ], 
+            [
+              -82.418, 
+              41.696
+            ], 
+            [
+              -89.889, 
+              41.696
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043658, 
+        "name": "America/Detroit", 
+        "ne_latitude": 48.262, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -82.418, 
+        "longitude": -85.146, 
+        "placetype": "Timezone", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
+        "parent_woeid": 23424977, 
+        "latitude": 44.755, 
+        "sw_longitude": -89.889, 
+        "fullname": "America/Detroit, United States", 
+        "sw_latitude": 41.696
+      }, 
+      "id": 56043658
+    }
+  ]
+}

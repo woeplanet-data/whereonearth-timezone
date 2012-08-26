@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -16.825, 
+              13.064
+            ], 
+            [
+              -16.825, 
+              13.827
+            ], 
+            [
+              -13.798, 
+              13.827
+            ], 
+            [
+              -13.798, 
+              13.064
+            ], 
+            [
+              -16.825, 
+              13.064
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350688, 
+        "name": "Africa/Banjul", 
+        "ne_latitude": 13.827, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -13.798, 
+        "longitude": -15.311, 
+        "placetype": "Timezone", 
+        "iso": "GM", 
+        "date_indexed": "2010-12-02T08:51:00Z", 
+        "parent_woeid": 1, 
+        "latitude": 13.445, 
+        "sw_longitude": -16.825, 
+        "fullname": "Africa/Banjul", 
+        "sw_latitude": 13.064
+      }, 
+      "id": 28350688
+    }
+  ]
+}

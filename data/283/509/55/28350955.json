@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              166.899, 
+              -0.552
+            ], 
+            [
+              166.899, 
+              -0.504
+            ], 
+            [
+              166.945, 
+              -0.504
+            ], 
+            [
+              166.945, 
+              -0.552
+            ], 
+            [
+              166.899, 
+              -0.552
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350955, 
+        "name": "Pacific/Nauru", 
+        "ne_latitude": -0.504, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 166.945, 
+        "longitude": 166.922, 
+        "placetype": "Timezone", 
+        "iso": "NR", 
+        "date_indexed": "2010-12-02T16:11:23Z", 
+        "parent_woeid": 1, 
+        "latitude": -0.528, 
+        "sw_longitude": 166.899, 
+        "fullname": "Pacific/Nauru", 
+        "sw_latitude": -0.552
+      }, 
+      "id": 28350955
+    }
+  ]
+}

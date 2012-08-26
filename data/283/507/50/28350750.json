@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -24.218, 
+              75.109
+            ], 
+            [
+              -24.218, 
+              79.175
+            ], 
+            [
+              -17.368, 
+              79.175
+            ], 
+            [
+              -17.368, 
+              75.109
+            ], 
+            [
+              -24.218, 
+              75.109
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350750, 
+        "name": "America/Danmarkshavn", 
+        "ne_latitude": 79.175, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -17.368, 
+        "longitude": -21.221, 
+        "placetype": "Timezone", 
+        "iso": "GL", 
+        "date_indexed": "2010-12-02T17:40:36Z", 
+        "parent_woeid": 23424828, 
+        "latitude": 76.543, 
+        "sw_longitude": -24.218, 
+        "fullname": "America/Danmarkshavn, Greenland", 
+        "sw_latitude": 75.109
+      }, 
+      "id": 28350750
+    }
+  ]
+}

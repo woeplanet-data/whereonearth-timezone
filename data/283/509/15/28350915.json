@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              46.306, 
+              51.743
+            ], 
+            [
+              46.306, 
+              61.072
+            ], 
+            [
+              53.924, 
+              61.072
+            ], 
+            [
+              53.924, 
+              51.743
+            ], 
+            [
+              46.306, 
+              51.743
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350915, 
+        "name": "Europe/Samara", 
+        "ne_latitude": 61.072, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 53.924, 
+        "longitude": 50.115, 
+        "placetype": "Timezone", 
+        "iso": "RU", 
+        "date_indexed": "2010-12-02T16:11:11Z", 
+        "parent_woeid": 23424936, 
+        "latitude": 58.571, 
+        "sw_longitude": 46.306, 
+        "fullname": "Europe/Samara, Russia", 
+        "sw_latitude": 51.743
+      }, 
+      "id": 28350915
+    }
+  ]
+}

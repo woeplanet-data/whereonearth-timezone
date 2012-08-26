@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.668, 
+              4.277
+            ], 
+            [
+              2.668, 
+              13.892
+            ], 
+            [
+              14.680, 
+              13.892
+            ], 
+            [
+              14.680, 
+              4.277
+            ], 
+            [
+              2.668, 
+              4.277
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350709, 
+        "name": "Africa/Lagos", 
+        "ne_latitude": 13.892, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 14.680, 
+        "longitude": 8.674, 
+        "placetype": "Timezone", 
+        "iso": "NG", 
+        "date_indexed": "2010-12-02T09:35:13Z", 
+        "parent_woeid": 1, 
+        "latitude": 9.085, 
+        "sw_longitude": 2.668, 
+        "fullname": "Africa/Lagos", 
+        "sw_latitude": 4.277
+      }, 
+      "id": 28350709
+    }
+  ]
+}

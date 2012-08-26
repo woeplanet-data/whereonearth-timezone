@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              26.619, 
+              45.468
+            ], 
+            [
+              26.619, 
+              48.492
+            ], 
+            [
+              30.165, 
+              48.492
+            ], 
+            [
+              30.165, 
+              45.468
+            ], 
+            [
+              26.619, 
+              45.468
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350894, 
+        "name": "Europe/Chisinau", 
+        "ne_latitude": 48.492, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 30.165, 
+        "longitude": 28.392, 
+        "placetype": "Timezone", 
+        "iso": "MD", 
+        "date_indexed": "2010-12-02T17:58:12Z", 
+        "parent_woeid": 1, 
+        "latitude": 46.980, 
+        "sw_longitude": 26.619, 
+        "fullname": "Europe/Chisinau", 
+        "sw_latitude": 45.468
+      }, 
+      "id": 28350894
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              79.516, 
+              5.917
+            ], 
+            [
+              79.516, 
+              9.831
+            ], 
+            [
+              81.881, 
+              9.831
+            ], 
+            [
+              81.881, 
+              5.917
+            ], 
+            [
+              79.516, 
+              5.917
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350820, 
+        "name": "Asia/Colombo", 
+        "ne_latitude": 9.831, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 81.881, 
+        "longitude": 80.790, 
+        "placetype": "Timezone", 
+        "iso": "LK", 
+        "date_indexed": "2010-12-02T17:56:39Z", 
+        "parent_woeid": 1, 
+        "latitude": 7.874, 
+        "sw_longitude": 79.516, 
+        "fullname": "Asia/Colombo", 
+        "sw_latitude": 5.917
+      }, 
+      "id": 28350820
+    }
+  ]
+}

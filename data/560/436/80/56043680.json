@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.082, 
+              48.044
+            ], 
+            [
+              -92.082, 
+              65.922
+            ], 
+            [
+              -80.135, 
+              65.922
+            ], 
+            [
+              -80.135, 
+              48.044
+            ], 
+            [
+              -92.082, 
+              48.044
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043680, 
+        "name": "America/Atikokan", 
+        "ne_latitude": 65.922, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -80.135, 
+        "longitude": -83.681, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 23424775, 
+        "latitude": 64.509, 
+        "sw_longitude": -92.082, 
+        "fullname": "America/Atikokan, Canada", 
+        "sw_latitude": 48.044
+      }, 
+      "id": 56043680
+    }
+  ]
+}

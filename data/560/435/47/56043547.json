@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.581, 
+              -32.632
+            ], 
+            [
+              -70.581, 
+              -28.374
+            ], 
+            [
+              -66.715, 
+              -28.374
+            ], 
+            [
+              -66.715, 
+              -32.632
+            ], 
+            [
+              -70.581, 
+              -32.632
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043547, 
+        "name": "America/Argentina/San_Juan", 
+        "ne_latitude": -28.374, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -66.715, 
+        "longitude": -68.648, 
+        "placetype": "Timezone", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "parent_woeid": 23424747, 
+        "latitude": -30.503, 
+        "sw_longitude": -70.581, 
+        "fullname": "America/Argentina/San_Juan, Argentina", 
+        "sw_latitude": -32.632
+      }, 
+      "id": 56043547
+    }
+  ]
+}

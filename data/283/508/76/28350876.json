@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -14.442, 
+              -40.400
+            ], 
+            [
+              -14.442, 
+              -7.878
+            ], 
+            [
+              -5.633, 
+              -7.878
+            ], 
+            [
+              -5.633, 
+              -40.400
+            ], 
+            [
+              -14.442, 
+              -40.400
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350876, 
+        "name": "Atlantic/St_Helena", 
+        "ne_latitude": -7.878, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -5.633, 
+        "longitude": -14.342, 
+        "placetype": "Timezone", 
+        "iso": "SH", 
+        "date_indexed": "2010-12-02T07:50:25Z", 
+        "parent_woeid": 1, 
+        "latitude": -7.947, 
+        "sw_longitude": -14.442, 
+        "fullname": "Atlantic/St_Helena", 
+        "sw_latitude": -40.400
+      }, 
+      "id": 28350876
+    }
+  ]
+}

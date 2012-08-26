@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -68.609, 
+              -55.066
+            ], 
+            [
+              -68.609, 
+              -52.653
+            ], 
+            [
+              -63.753, 
+              -52.653
+            ], 
+            [
+              -63.753, 
+              -55.066
+            ], 
+            [
+              -68.609, 
+              -55.066
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043550, 
+        "name": "America/Argentina/Ushuaia", 
+        "ne_latitude": -52.653, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -63.753, 
+        "longitude": -68.064, 
+        "placetype": "Timezone", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "parent_woeid": 23424747, 
+        "latitude": -53.860, 
+        "sw_longitude": -68.609, 
+        "fullname": "America/Argentina/Ushuaia, Argentina", 
+        "sw_latitude": -55.066
+      }, 
+      "id": 56043550
+    }
+  ]
+}

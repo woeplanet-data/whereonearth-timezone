@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -67.046, 
+              43.391
+            ], 
+            [
+              -67.046, 
+              48.993
+            ], 
+            [
+              -59.677, 
+              48.993
+            ], 
+            [
+              -59.677, 
+              43.391
+            ], 
+            [
+              -67.046, 
+              43.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043685, 
+        "name": "America/Halifax", 
+        "ne_latitude": 48.993, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -59.677, 
+        "longitude": -63.588, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 23424775, 
+        "latitude": 44.727, 
+        "sw_longitude": -67.046, 
+        "fullname": "America/Halifax, Canada", 
+        "sw_latitude": 43.391
+      }, 
+      "id": 56043685
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              51.498, 
+              22.644
+            ], 
+            [
+              51.498, 
+              26.060
+            ], 
+            [
+              56.383, 
+              26.060
+            ], 
+            [
+              56.383, 
+              22.644
+            ], 
+            [
+              51.498, 
+              22.644
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350824, 
+        "name": "Asia/Dubai", 
+        "ne_latitude": 26.060, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 56.383, 
+        "longitude": 55.148, 
+        "placetype": "Timezone", 
+        "iso": "AE", 
+        "date_indexed": "2010-12-02T08:58:47Z", 
+        "parent_woeid": 1, 
+        "latitude": 24.352, 
+        "sw_longitude": 51.498, 
+        "fullname": "Asia/Dubai", 
+        "sw_latitude": 22.644
+      }, 
+      "id": 28350824
+    }
+  ]
+}

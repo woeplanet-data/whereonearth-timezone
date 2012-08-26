@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -141.002, 
+              59.997
+            ], 
+            [
+              -141.002, 
+              63.580
+            ], 
+            [
+              -123.817, 
+              63.580
+            ], 
+            [
+              -123.817, 
+              59.997
+            ], 
+            [
+              -141.002, 
+              59.997
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043678, 
+        "name": "America/Whitehorse", 
+        "ne_latitude": 63.580, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.817, 
+        "longitude": -132.410, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 2344926, 
+        "latitude": 61.789, 
+        "sw_longitude": -141.002, 
+        "fullname": "America/Whitehorse, Canada", 
+        "sw_latitude": 59.997
+      }, 
+      "id": 56043678
+    }
+  ]
+}

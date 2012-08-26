@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.375, 
+              55.490
+            ], 
+            [
+              -109.375, 
+              81.846
+            ], 
+            [
+              -77.557, 
+              81.846
+            ], 
+            [
+              -77.557, 
+              55.490
+            ], 
+            [
+              -109.375, 
+              55.490
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043698, 
+        "name": "America/Rankin_Inlet", 
+        "ne_latitude": 81.846, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -77.557, 
+        "longitude": -96.891, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 20069920, 
+        "latitude": 70.922, 
+        "sw_longitude": -109.375, 
+        "fullname": "America/Rankin_Inlet, Canada", 
+        "sw_latitude": 55.490
+      }, 
+      "id": 56043698
+    }
+  ]
+}

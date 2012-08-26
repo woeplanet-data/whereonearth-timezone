@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              19.282, 
+              39.644
+            ], 
+            [
+              19.282, 
+              42.661
+            ], 
+            [
+              21.058, 
+              42.661
+            ], 
+            [
+              21.058, 
+              39.644
+            ], 
+            [
+              19.282, 
+              39.644
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350919, 
+        "name": "Europe/Tirane", 
+        "ne_latitude": 42.661, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 21.058, 
+        "longitude": 20.170, 
+        "placetype": "Timezone", 
+        "iso": "AL", 
+        "date_indexed": "2010-12-02T08:58:52Z", 
+        "parent_woeid": 1, 
+        "latitude": 41.153, 
+        "sw_longitude": 19.282, 
+        "fullname": "Europe/Tirane", 
+        "sw_latitude": 39.644
+      }, 
+      "id": 28350919
+    }
+  ]
+}

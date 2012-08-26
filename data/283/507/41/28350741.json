@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -81.728, 
+              -4.230
+            ], 
+            [
+              -81.728, 
+              13.390
+            ], 
+            [
+              -66.870, 
+              13.390
+            ], 
+            [
+              -66.870, 
+              -4.230
+            ], 
+            [
+              -81.728, 
+              -4.230
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350741, 
+        "name": "America/Bogota", 
+        "ne_latitude": 13.390, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -66.870, 
+        "longitude": -72.959, 
+        "placetype": "Timezone", 
+        "iso": "CO", 
+        "date_indexed": "2010-12-02T17:57:37Z", 
+        "parent_woeid": 1, 
+        "latitude": 4.116, 
+        "sw_longitude": -81.728, 
+        "fullname": "America/Bogota", 
+        "sw_latitude": -4.230
+      }, 
+      "id": 28350741
+    }
+  ]
+}

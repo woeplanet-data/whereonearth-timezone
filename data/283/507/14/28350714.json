@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              21.999, 
+              -18.079
+            ], 
+            [
+              21.999, 
+              -8.224
+            ], 
+            [
+              33.706, 
+              -8.224
+            ], 
+            [
+              33.706, 
+              -18.079
+            ], 
+            [
+              21.999, 
+              -18.079
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350714, 
+        "name": "Africa/Lusaka", 
+        "ne_latitude": -8.224, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 33.706, 
+        "longitude": 27.853, 
+        "placetype": "Timezone", 
+        "iso": "ZM", 
+        "date_indexed": "2010-12-02T07:50:42Z", 
+        "parent_woeid": 1, 
+        "latitude": -13.152, 
+        "sw_longitude": 21.999, 
+        "fullname": "Africa/Lusaka", 
+        "sw_latitude": -18.079
+      }, 
+      "id": 28350714
+    }
+  ]
+}

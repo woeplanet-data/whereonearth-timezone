@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              71.266, 
+              -7.334
+            ], 
+            [
+              71.266, 
+              7.279
+            ], 
+            [
+              72.417, 
+              7.279
+            ], 
+            [
+              72.417, 
+              -7.334
+            ], 
+            [
+              71.266, 
+              -7.334
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350926, 
+        "name": "Indian/Chagos", 
+        "ne_latitude": 7.279, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 72.417, 
+        "longitude": 72.252, 
+        "placetype": "Timezone", 
+        "iso": "IO", 
+        "date_indexed": "2010-12-02T16:11:57Z", 
+        "parent_woeid": 1, 
+        "latitude": 7.201, 
+        "sw_longitude": 71.266, 
+        "fullname": "Indian/Chagos", 
+        "sw_latitude": -7.334
+      }, 
+      "id": 28350926
+    }
+  ]
+}

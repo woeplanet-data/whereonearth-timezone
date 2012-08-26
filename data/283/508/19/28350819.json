@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              111.399, 
+              44.755
+            ], 
+            [
+              111.399, 
+              50.283
+            ], 
+            [
+              119.924, 
+              50.283
+            ], 
+            [
+              119.924, 
+              44.755
+            ], 
+            [
+              111.399, 
+              44.755
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350819, 
+        "name": "Asia/Choibalsan", 
+        "ne_latitude": 50.283, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 119.924, 
+        "longitude": 115.661, 
+        "placetype": "Timezone", 
+        "iso": "MN", 
+        "date_indexed": "2010-12-02T08:53:23Z", 
+        "parent_woeid": 23424887, 
+        "latitude": 47.519, 
+        "sw_longitude": 111.399, 
+        "fullname": "Asia/Choibalsan, Mongolia", 
+        "sw_latitude": 44.755
+      }, 
+      "id": 28350819
+    }
+  ]
+}

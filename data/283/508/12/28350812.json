@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              50.325, 
+              25.556
+            ], 
+            [
+              50.325, 
+              26.423
+            ], 
+            [
+              50.825, 
+              26.423
+            ], 
+            [
+              50.825, 
+              25.556
+            ], 
+            [
+              50.325, 
+              25.556
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350812, 
+        "name": "Asia/Bahrain", 
+        "ne_latitude": 26.423, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 50.825, 
+        "longitude": 50.553, 
+        "placetype": "Timezone", 
+        "iso": "BH", 
+        "date_indexed": "2010-12-02T16:12:03Z", 
+        "parent_woeid": 1, 
+        "latitude": 26.022, 
+        "sw_longitude": 50.325, 
+        "fullname": "Asia/Bahrain", 
+        "sw_latitude": 25.556
+      }, 
+      "id": 28350812
+    }
+  ]
+}

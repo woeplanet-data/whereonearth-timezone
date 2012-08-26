@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.701, 
+              14.533
+            ], 
+            [
+              -105.701, 
+              25.125
+            ], 
+            [
+              -90.368, 
+              25.125
+            ], 
+            [
+              -90.368, 
+              14.533
+            ], 
+            [
+              -105.701, 
+              14.533
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043602, 
+        "name": "America/Mexico_City", 
+        "ne_latitude": 25.125, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -90.368, 
+        "longitude": -97.573, 
+        "placetype": "Timezone", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T17:02:03Z", 
+        "parent_woeid": 23424900, 
+        "latitude": 19.742, 
+        "sw_longitude": -105.701, 
+        "fullname": "America/Mexico_City, Mexico", 
+        "sw_latitude": 14.533
+      }, 
+      "id": 56043602
+    }
+  ]
+}

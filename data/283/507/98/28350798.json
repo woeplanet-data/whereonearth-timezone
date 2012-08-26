@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.459, 
+              12.581
+            ], 
+            [
+              -61.459, 
+              13.378
+            ], 
+            [
+              -61.114, 
+              13.378
+            ], 
+            [
+              -61.114, 
+              12.581
+            ], 
+            [
+              -61.459, 
+              12.581
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350798, 
+        "name": "America/St_Vincent", 
+        "ne_latitude": 13.378, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -61.114, 
+        "longitude": -61.196, 
+        "placetype": "Timezone", 
+        "iso": "VC", 
+        "date_indexed": "2010-12-02T09:57:22Z", 
+        "parent_woeid": 1, 
+        "latitude": 13.248, 
+        "sw_longitude": -61.459, 
+        "fullname": "America/St_Vincent", 
+        "sw_latitude": 12.581
+      }, 
+      "id": 28350798
+    }
+  ]
+}

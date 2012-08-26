@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              34.268, 
+              29.497
+            ], 
+            [
+              34.268, 
+              33.434
+            ], 
+            [
+              35.935, 
+              33.434
+            ], 
+            [
+              35.935, 
+              29.497
+            ], 
+            [
+              34.268, 
+              29.497
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350832, 
+        "name": "Asia/Jerusalem", 
+        "ne_latitude": 33.434, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 35.935, 
+        "longitude": 35.422, 
+        "placetype": "Timezone", 
+        "iso": "IL", 
+        "date_indexed": "2010-12-02T08:53:18Z", 
+        "parent_woeid": 1, 
+        "latitude": 31.465, 
+        "sw_longitude": 34.268, 
+        "fullname": "Asia/Jerusalem", 
+        "sw_latitude": 29.497
+      }, 
+      "id": 28350832
+    }
+  ]
+}

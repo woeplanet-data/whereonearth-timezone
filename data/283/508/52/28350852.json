@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              102.148, 
+              8.408
+            ], 
+            [
+              102.148, 
+              23.389
+            ], 
+            [
+              109.467, 
+              23.389
+            ], 
+            [
+              109.467, 
+              8.408
+            ], 
+            [
+              102.148, 
+              8.408
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350852, 
+        "name": "Asia/Ho_Chi_Minh", 
+        "alias_ENG_V": [
+          "Asia/Saigon"
+        ], 
+        "ne_latitude": 23.389, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 109.467, 
+        "longitude": 107.868, 
+        "placetype": "Timezone", 
+        "iso": "VN", 
+        "date_indexed": "2010-12-02T08:52:50Z", 
+        "parent_woeid": 1, 
+        "latitude": 15.974, 
+        "sw_longitude": 102.148, 
+        "fullname": "Asia/Ho_Chi_Minh", 
+        "sw_latitude": 8.408
+      }, 
+      "id": 28350852
+    }
+  ]
+}

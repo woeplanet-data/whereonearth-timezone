@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -66.828, 
+              -9.046
+            ], 
+            [
+              -66.828, 
+              2.232
+            ], 
+            [
+              -56.097, 
+              2.232
+            ], 
+            [
+              -56.097, 
+              -9.046
+            ], 
+            [
+              -66.828, 
+              -9.046
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043581, 
+        "name": "America/Manaus", 
+        "ne_latitude": 2.232, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -56.097, 
+        "longitude": -64.467, 
+        "placetype": "Timezone", 
+        "iso": "BR", 
+        "date_indexed": "2010-12-02T18:03:30Z", 
+        "parent_woeid": 2344847, 
+        "latitude": -3.175, 
+        "sw_longitude": -66.828, 
+        "fullname": "America/Manaus, Brazil", 
+        "sw_latitude": -9.046
+      }, 
+      "id": 56043581
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.375, 
+              40.854
+            ], 
+            [
+              13.375, 
+              46.877
+            ], 
+            [
+              23.038, 
+              46.877
+            ], 
+            [
+              23.038, 
+              40.854
+            ], 
+            [
+              13.375, 
+              40.854
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350889, 
+        "name": "Europe/Belgrade", 
+        "ne_latitude": 46.877, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 23.038, 
+        "longitude": 18.207, 
+        "placetype": "Timezone", 
+        "iso": "ZZ", 
+        "date_indexed": "2010-12-02T16:31:49Z", 
+        "parent_woeid": 1, 
+        "latitude": 43.865, 
+        "sw_longitude": 13.375, 
+        "fullname": "Europe/Belgrade", 
+        "sw_latitude": 40.854
+      }, 
+      "id": 28350889
+    }
+  ]
+}

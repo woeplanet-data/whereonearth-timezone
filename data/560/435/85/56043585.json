@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              53.696, 
+              45.203
+            ], 
+            [
+              53.696, 
+              51.286
+            ], 
+            [
+              64.135, 
+              51.286
+            ], 
+            [
+              64.135, 
+              45.203
+            ], 
+            [
+              53.696, 
+              45.203
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043585, 
+        "name": "Asia/Aqtobe", 
+        "ne_latitude": 51.286, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 64.135, 
+        "longitude": 59.891, 
+        "placetype": "Timezone", 
+        "iso": "KZ", 
+        "date_indexed": "2010-12-02T08:54:13Z", 
+        "parent_woeid": 23424871, 
+        "latitude": 48.348, 
+        "sw_longitude": 53.696, 
+        "fullname": "Asia/Aqtobe, Kazakhstan", 
+        "sw_latitude": 45.203
+      }, 
+      "id": 56043585
+    }
+  ]
+}

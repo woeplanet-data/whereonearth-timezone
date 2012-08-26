@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              34.496, 
+              16.333
+            ], 
+            [
+              34.496, 
+              32.230
+            ], 
+            [
+              55.667, 
+              32.230
+            ], 
+            [
+              55.667, 
+              16.333
+            ], 
+            [
+              34.496, 
+              16.333
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350851, 
+        "name": "Asia/Riyadh", 
+        "ne_latitude": 32.230, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 55.667, 
+        "longitude": 45.120, 
+        "placetype": "Timezone", 
+        "iso": "SA", 
+        "date_indexed": "2010-12-02T09:34:49Z", 
+        "parent_woeid": 1, 
+        "latitude": 24.297, 
+        "sw_longitude": 34.496, 
+        "fullname": "Asia/Riyadh", 
+        "sw_latitude": 16.333
+      }, 
+      "id": 28350851
+    }
+  ]
+}

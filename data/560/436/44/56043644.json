@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -9.300, 
+              36.000
+            ], 
+            [
+              -9.300, 
+              43.790
+            ], 
+            [
+              4.328, 
+              43.790
+            ], 
+            [
+              4.328, 
+              36.000
+            ], 
+            [
+              -9.300, 
+              36.000
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043644, 
+        "name": "Europe/Madrid", 
+        "ne_latitude": 43.790, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.328, 
+        "longitude": -2.989, 
+        "placetype": "Timezone", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:40:07Z", 
+        "parent_woeid": 23424950, 
+        "latitude": 39.895, 
+        "sw_longitude": -9.300, 
+        "fullname": "Europe/Madrid, Spain", 
+        "sw_latitude": 36.000
+      }, 
+      "id": 56043644
+    }
+  ]
+}

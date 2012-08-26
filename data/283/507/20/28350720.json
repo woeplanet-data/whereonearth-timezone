@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -11.492, 
+              4.353
+            ], 
+            [
+              -11.492, 
+              8.552
+            ], 
+            [
+              -7.365, 
+              8.552
+            ], 
+            [
+              -7.365, 
+              4.353
+            ], 
+            [
+              -11.492, 
+              4.353
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350720, 
+        "name": "Africa/Monrovia", 
+        "ne_latitude": 8.552, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -7.365, 
+        "longitude": -9.429, 
+        "placetype": "Timezone", 
+        "iso": "LR", 
+        "date_indexed": "2010-12-02T17:40:22Z", 
+        "parent_woeid": 1, 
+        "latitude": 6.452, 
+        "sw_longitude": -11.492, 
+        "fullname": "Africa/Monrovia", 
+        "sw_latitude": 4.353
+      }, 
+      "id": 28350720
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.351, 
+              12.982
+            ], 
+            [
+              -89.351, 
+              17.450
+            ], 
+            [
+              -82.500, 
+              17.450
+            ], 
+            [
+              -82.500, 
+              12.982
+            ], 
+            [
+              -89.351, 
+              12.982
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350799, 
+        "name": "America/Tegucigalpa", 
+        "ne_latitude": 17.450, 
+        "ne_longitude": -82.500, 
+        "longitude": -86.253, 
+        "parent_woeid": 1, 
+        "placetype": "Timezone", 
+        "iso": "ZZ", 
+        "date_indexed": "2010-06-06T11:46:12Z", 
+        "provider": "geoplanet 7.5.1", 
+        "latitude": 14.505, 
+        "sw_longitude": -89.351, 
+        "fullname": "", 
+        "sw_latitude": 12.982
+      }, 
+      "id": 28350799
+    }
+  ]
+}

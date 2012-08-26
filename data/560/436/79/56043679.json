@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.894, 
+              44.991
+            ], 
+            [
+              -79.894, 
+              62.867
+            ], 
+            [
+              -61.574, 
+              62.867
+            ], 
+            [
+              -61.574, 
+              44.991
+            ], 
+            [
+              -79.894, 
+              44.991
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043679, 
+        "name": "America/Montreal", 
+        "ne_latitude": 62.867, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -61.574, 
+        "longitude": -70.734, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 2344924, 
+        "latitude": 54.032, 
+        "sw_longitude": -79.894, 
+        "fullname": "America/Montreal, Canada", 
+        "sw_latitude": 44.991
+      }, 
+      "id": 56043679
+    }
+  ]
+}

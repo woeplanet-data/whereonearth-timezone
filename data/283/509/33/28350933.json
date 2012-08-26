@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              56.513, 
+              -20.526
+            ], 
+            [
+              56.513, 
+              -10.319
+            ], 
+            [
+              63.525, 
+              -10.319
+            ], 
+            [
+              63.525, 
+              -20.526
+            ], 
+            [
+              56.513, 
+              -20.526
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350933, 
+        "name": "Indian/Mauritius", 
+        "ne_latitude": -10.319, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 63.525, 
+        "longitude": 57.552, 
+        "placetype": "Timezone", 
+        "iso": "MU", 
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "parent_woeid": 1, 
+        "latitude": -20.255, 
+        "sw_longitude": 56.513, 
+        "fullname": "Indian/Mauritius", 
+        "sw_latitude": -20.526
+      }, 
+      "id": 28350933
+    }
+  ]
+}

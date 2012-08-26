@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              32.266, 
+              34.564
+            ], 
+            [
+              32.266, 
+              35.702
+            ], 
+            [
+              34.598, 
+              35.702
+            ], 
+            [
+              34.598, 
+              34.564
+            ], 
+            [
+              32.266, 
+              34.564
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350845, 
+        "name": "Asia/Nicosia", 
+        "ne_latitude": 35.702, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 34.598, 
+        "longitude": 33.436, 
+        "placetype": "Timezone", 
+        "iso": "CY", 
+        "date_indexed": "2010-12-02T09:35:31Z", 
+        "parent_woeid": 1, 
+        "latitude": 35.133, 
+        "sw_longitude": 32.266, 
+        "fullname": "Asia/Nicosia", 
+        "sw_latitude": 34.564
+      }, 
+      "id": 28350845
+    }
+  ]
+}

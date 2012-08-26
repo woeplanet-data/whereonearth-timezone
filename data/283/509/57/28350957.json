@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              167.949, 
+              -29.119
+            ], 
+            [
+              167.949, 
+              -28.995
+            ], 
+            [
+              168.092, 
+              -28.995
+            ], 
+            [
+              168.092, 
+              -29.119
+            ], 
+            [
+              167.949, 
+              -29.119
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350957, 
+        "name": "Pacific/Norfolk", 
+        "ne_latitude": -28.995, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 168.092, 
+        "longitude": 168.050, 
+        "placetype": "Timezone", 
+        "iso": "NF", 
+        "date_indexed": "2010-12-02T16:42:51Z", 
+        "parent_woeid": 1, 
+        "latitude": -29.025, 
+        "sw_longitude": 167.949, 
+        "fullname": "Pacific/Norfolk", 
+        "sw_latitude": -29.119
+      }, 
+      "id": 28350957
+    }
+  ]
+}

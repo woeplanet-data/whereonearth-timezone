@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.074, 
+              13.705
+            ], 
+            [
+              -61.074, 
+              14.103
+            ], 
+            [
+              -60.866, 
+              14.103
+            ], 
+            [
+              -60.866, 
+              13.705
+            ], 
+            [
+              -61.074, 
+              13.705
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350796, 
+        "name": "America/St_Lucia", 
+        "ne_latitude": 14.103, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -60.866, 
+        "longitude": -60.974, 
+        "placetype": "Timezone", 
+        "iso": "LC", 
+        "date_indexed": "2010-12-02T18:18:47Z", 
+        "parent_woeid": 1, 
+        "latitude": 13.904, 
+        "sw_longitude": -61.074, 
+        "fullname": "America/St_Lucia", 
+        "sw_latitude": 13.705
+      }, 
+      "id": 28350796
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -160.550, 
+              18.911
+            ], 
+            [
+              -160.550, 
+              22.236
+            ], 
+            [
+              -154.807, 
+              22.236
+            ], 
+            [
+              -154.807, 
+              18.911
+            ], 
+            [
+              -160.550, 
+              18.911
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350949, 
+        "name": "Pacific/Honolulu", 
+        "ne_latitude": 22.236, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -154.807, 
+        "longitude": -155.434, 
+        "placetype": "Timezone", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
+        "parent_woeid": 23424977, 
+        "latitude": 19.590, 
+        "sw_longitude": -160.550, 
+        "fullname": "Pacific/Honolulu, United States", 
+        "sw_latitude": 18.911
+      }, 
+      "id": 28350949
+    }
+  ]
+}

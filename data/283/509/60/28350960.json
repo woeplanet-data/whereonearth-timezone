@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              131.169, 
+              3.001
+            ], 
+            [
+              131.169, 
+              8.093
+            ], 
+            [
+              134.724, 
+              8.093
+            ], 
+            [
+              134.724, 
+              3.001
+            ], 
+            [
+              131.169, 
+              3.001
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350960, 
+        "name": "Pacific/Palau", 
+        "ne_latitude": 8.093, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 134.724, 
+        "longitude": 134.564, 
+        "placetype": "Timezone", 
+        "iso": "PW", 
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "parent_woeid": 1, 
+        "latitude": 7.531, 
+        "sw_longitude": 131.169, 
+        "fullname": "Pacific/Palau", 
+        "sw_latitude": 3.001
+      }, 
+      "id": 28350960
+    }
+  ]
+}

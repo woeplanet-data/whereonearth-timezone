@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              108.593, 
+              -3.570
+            ], 
+            [
+              108.593, 
+              2.083
+            ], 
+            [
+              115.858, 
+              2.083
+            ], 
+            [
+              115.858, 
+              -3.570
+            ], 
+            [
+              108.593, 
+              -3.570
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043584, 
+        "name": "Asia/Pontianak", 
+        "ne_latitude": 2.083, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 115.858, 
+        "longitude": 111.644, 
+        "placetype": "Timezone", 
+        "iso": "ID", 
+        "date_indexed": "2010-12-02T16:55:18Z", 
+        "parent_woeid": 23424846, 
+        "latitude": -0.442, 
+        "sw_longitude": 108.593, 
+        "fullname": "Asia/Pontianak, Indonesia", 
+        "sw_latitude": -3.570
+      }, 
+      "id": 56043584
+    }
+  ]
+}

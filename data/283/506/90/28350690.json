@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              32.674, 
+              -17.125
+            ], 
+            [
+              32.674, 
+              -9.368
+            ], 
+            [
+              35.917, 
+              -9.368
+            ], 
+            [
+              35.917, 
+              -17.125
+            ], 
+            [
+              32.674, 
+              -17.125
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350690, 
+        "name": "Africa/Blantyre", 
+        "ne_latitude": -9.368, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 35.917, 
+        "longitude": 34.295, 
+        "placetype": "Timezone", 
+        "iso": "MW", 
+        "date_indexed": "2010-12-02T17:40:29Z", 
+        "parent_woeid": 1, 
+        "latitude": -13.246, 
+        "sw_longitude": 32.674, 
+        "fullname": "Africa/Blantyre", 
+        "sw_latitude": -17.125
+      }, 
+      "id": 28350690
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.807, 
+              50.082
+            ], 
+            [
+              -61.807, 
+              52.000
+            ], 
+            [
+              -57.107, 
+              52.000
+            ], 
+            [
+              -57.107, 
+              50.082
+            ], 
+            [
+              -61.807, 
+              50.082
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043675, 
+        "name": "America/Blanc-Sablon", 
+        "ne_latitude": 52.000, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -57.107, 
+        "longitude": -59.457, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 2344924, 
+        "latitude": 51.041, 
+        "sw_longitude": -61.807, 
+        "fullname": "America/Blanc-Sablon, Canada", 
+        "sw_latitude": 50.082
+      }, 
+      "id": 56043675
+    }
+  ]
+}

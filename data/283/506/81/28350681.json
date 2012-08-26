@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -8.599, 
+              4.357
+            ], 
+            [
+              -8.599, 
+              10.737
+            ], 
+            [
+              -2.495, 
+              10.737
+            ], 
+            [
+              -2.495, 
+              4.357
+            ], 
+            [
+              -8.599, 
+              4.357
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350681, 
+        "name": "Africa/Abidjan", 
+        "ne_latitude": 10.737, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -2.495, 
+        "longitude": -5.547, 
+        "placetype": "Timezone", 
+        "iso": "CI", 
+        "date_indexed": "2010-12-02T09:35:19Z", 
+        "parent_woeid": 1, 
+        "latitude": 7.547, 
+        "sw_longitude": -8.599, 
+        "fullname": "Africa/Abidjan", 
+        "sw_latitude": 4.357
+      }, 
+      "id": 28350681
+    }
+  ]
+}

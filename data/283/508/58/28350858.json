@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              40.010, 
+              41.039
+            ], 
+            [
+              40.010, 
+              43.585
+            ], 
+            [
+              46.721, 
+              43.585
+            ], 
+            [
+              46.721, 
+              41.039
+            ], 
+            [
+              40.010, 
+              41.039
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350858, 
+        "name": "Asia/Tbilisi", 
+        "ne_latitude": 43.585, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 46.721, 
+        "longitude": 43.366, 
+        "placetype": "Timezone", 
+        "iso": "GE", 
+        "date_indexed": "2010-12-02T17:52:09Z", 
+        "parent_woeid": 1, 
+        "latitude": 42.312, 
+        "sw_longitude": 40.010, 
+        "fullname": "Asia/Tbilisi", 
+        "sw_latitude": 41.039
+      }, 
+      "id": 28350858
+    }
+  ]
+}

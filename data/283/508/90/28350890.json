@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.866, 
+              47.270
+            ], 
+            [
+              5.866, 
+              55.058
+            ], 
+            [
+              15.042, 
+              55.058
+            ], 
+            [
+              15.042, 
+              47.270
+            ], 
+            [
+              5.866, 
+              47.270
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350890, 
+        "name": "Europe/Berlin", 
+        "ne_latitude": 55.058, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.042, 
+        "longitude": 10.454, 
+        "placetype": "Timezone", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:54:20Z", 
+        "parent_woeid": 1, 
+        "latitude": 51.164, 
+        "sw_longitude": 5.866, 
+        "fullname": "Europe/Berlin", 
+        "sw_latitude": 47.270
+      }, 
+      "id": 28350890
+    }
+  ]
+}

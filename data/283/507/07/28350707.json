@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              28.857, 
+              -2.841
+            ], 
+            [
+              28.857, 
+              -1.053
+            ], 
+            [
+              30.896, 
+              -1.053
+            ], 
+            [
+              30.896, 
+              -2.841
+            ], 
+            [
+              28.857, 
+              -2.841
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350707, 
+        "name": "Africa/Kigali", 
+        "ne_latitude": -1.053, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 30.896, 
+        "longitude": 29.876, 
+        "placetype": "Timezone", 
+        "iso": "RW", 
+        "date_indexed": "2010-12-02T09:35:48Z", 
+        "parent_woeid": 1, 
+        "latitude": -1.947, 
+        "sw_longitude": 28.857, 
+        "fullname": "Africa/Kigali", 
+        "sw_latitude": -2.841
+      }, 
+      "id": 28350707
+    }
+  ]
+}

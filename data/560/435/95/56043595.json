@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              73.558, 
+              35.458
+            ], 
+            [
+              73.558, 
+              41.415
+            ], 
+            [
+              79.880, 
+              41.415
+            ], 
+            [
+              79.880, 
+              35.458
+            ], 
+            [
+              73.558, 
+              35.458
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043595, 
+        "name": "Asia/Kashgar", 
+        "ne_latitude": 41.415, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 79.880, 
+        "longitude": 76.719, 
+        "placetype": "Timezone", 
+        "iso": "CN", 
+        "date_indexed": "2010-12-02T08:52:12Z", 
+        "parent_woeid": 23424781, 
+        "latitude": 38.437, 
+        "sw_longitude": 73.558, 
+        "fullname": "Asia/Kashgar, China", 
+        "sw_latitude": 35.458
+      }, 
+      "id": 56043595
+    }
+  ]
+}

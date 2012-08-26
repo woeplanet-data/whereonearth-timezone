@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.679, 
+              -18.042
+            ], 
+            [
+              11.679, 
+              -4.373
+            ], 
+            [
+              24.082, 
+              -4.373
+            ], 
+            [
+              24.082, 
+              -18.042
+            ], 
+            [
+              11.679, 
+              -18.042
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350712, 
+        "name": "Africa/Luanda", 
+        "ne_latitude": -4.373, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 24.082, 
+        "longitude": 17.907, 
+        "placetype": "Timezone", 
+        "iso": "AO", 
+        "date_indexed": "2010-12-02T17:52:20Z", 
+        "parent_woeid": 1, 
+        "latitude": -11.942, 
+        "sw_longitude": 11.679, 
+        "fullname": "Africa/Luanda", 
+        "sw_latitude": -18.042
+      }, 
+      "id": 28350712
+    }
+  ]
+}

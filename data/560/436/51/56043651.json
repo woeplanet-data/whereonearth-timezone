@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -86.931, 
+              40.910
+            ], 
+            [
+              -86.931, 
+              41.172
+            ], 
+            [
+              -86.467, 
+              41.172
+            ], 
+            [
+              -86.467, 
+              40.910
+            ], 
+            [
+              -86.931, 
+              40.910
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043651, 
+        "name": "America/Indiana/Winamac", 
+        "ne_latitude": 41.172, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -86.467, 
+        "longitude": -86.672, 
+        "placetype": "Timezone", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
+        "parent_woeid": 23424977, 
+        "latitude": 41.065, 
+        "sw_longitude": -86.931, 
+        "fullname": "America/Indiana/Winamac, United States", 
+        "sw_latitude": 40.910
+      }, 
+      "id": 56043651
+    }
+  ]
+}

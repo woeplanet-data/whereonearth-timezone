@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              166.593, 
+              -0.389
+            ], 
+            [
+              166.593, 
+              19.320
+            ], 
+            [
+              -160.005, 
+              19.320
+            ], 
+            [
+              -160.005, 
+              -0.389
+            ], 
+            [
+              166.593, 
+              -0.389
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350970, 
+        "name": "Pacific/Wake", 
+        "ne_latitude": 19.320, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -160.005, 
+        "longitude": 166.645, 
+        "placetype": "Timezone", 
+        "iso": "UM", 
+        "date_indexed": "2010-12-02T16:52:36Z", 
+        "parent_woeid": 28289407, 
+        "latitude": 19.290, 
+        "sw_longitude": 166.593, 
+        "fullname": "Pacific/Wake, United States Minor Outlying Islands", 
+        "sw_latitude": -0.389
+      }, 
+      "id": 28350970
+    }
+  ]
+}

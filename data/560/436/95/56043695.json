@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.406, 
+              46.464
+            ], 
+            [
+              -89.406, 
+              53.804
+            ], 
+            [
+              -79.503, 
+              53.804
+            ], 
+            [
+              -79.503, 
+              46.464
+            ], 
+            [
+              -89.406, 
+              46.464
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043695, 
+        "name": "America/Nipigon", 
+        "ne_latitude": 53.804, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -79.503, 
+        "longitude": -84.455, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 2344922, 
+        "latitude": 50.134, 
+        "sw_longitude": -89.406, 
+        "fullname": "America/Nipigon, Canada", 
+        "sw_latitude": 46.464
+      }, 
+      "id": 56043695
+    }
+  ]
+}

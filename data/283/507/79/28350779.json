@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.499, 
+              20.916
+            ], 
+            [
+              -80.499, 
+              27.934
+            ], 
+            [
+              -72.650, 
+              27.934
+            ], 
+            [
+              -72.650, 
+              20.916
+            ], 
+            [
+              -80.499, 
+              20.916
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350779, 
+        "name": "America/Nassau", 
+        "ne_latitude": 27.934, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -72.650, 
+        "longitude": -78.080, 
+        "placetype": "Timezone", 
+        "iso": "BS", 
+        "date_indexed": "2010-12-02T07:50:25Z", 
+        "parent_woeid": 1, 
+        "latitude": 24.741, 
+        "sw_longitude": -80.499, 
+        "fullname": "America/Nassau", 
+        "sw_latitude": 20.916
+      }, 
+      "id": 28350779
+    }
+  ]
+}

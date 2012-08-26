@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              55.219, 
+              -21.372
+            ], 
+            [
+              55.219, 
+              -20.857
+            ], 
+            [
+              55.845, 
+              -20.857
+            ], 
+            [
+              55.845, 
+              -21.372
+            ], 
+            [
+              55.219, 
+              -21.372
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350935, 
+        "name": "Indian/Reunion", 
+        "ne_latitude": -20.857, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 55.845, 
+        "longitude": 55.532, 
+        "placetype": "Timezone", 
+        "iso": "RE", 
+        "date_indexed": "2010-12-02T09:35:31Z", 
+        "parent_woeid": 1, 
+        "latitude": -21.115, 
+        "sw_longitude": 55.219, 
+        "fullname": "Indian/Reunion", 
+        "sw_latitude": -21.372
+      }, 
+      "id": 28350935
+    }
+  ]
+}

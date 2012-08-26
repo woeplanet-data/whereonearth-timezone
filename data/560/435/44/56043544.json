@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.580, 
+              -37.578
+            ], 
+            [
+              -70.580, 
+              -31.968
+            ], 
+            [
+              -66.502, 
+              -31.968
+            ], 
+            [
+              -66.502, 
+              -37.578
+            ], 
+            [
+              -70.580, 
+              -37.578
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043544, 
+        "name": "America/Argentina/Mendoza", 
+        "ne_latitude": -31.968, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -66.502, 
+        "longitude": -68.541, 
+        "placetype": "Timezone", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "parent_woeid": 23424747, 
+        "latitude": -34.773, 
+        "sw_longitude": -70.580, 
+        "fullname": "America/Argentina/Mendoza, Argentina", 
+        "sw_latitude": -37.578
+      }, 
+      "id": 56043544
+    }
+  ]
+}

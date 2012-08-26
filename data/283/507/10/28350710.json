@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.695, 
+              -3.979
+            ], 
+            [
+              8.695, 
+              2.323
+            ], 
+            [
+              14.502, 
+              2.323
+            ], 
+            [
+              14.502, 
+              -3.979
+            ], 
+            [
+              8.695, 
+              -3.979
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350710, 
+        "name": "Africa/Libreville", 
+        "ne_latitude": 2.323, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 14.502, 
+        "longitude": 11.599, 
+        "placetype": "Timezone", 
+        "iso": "GA", 
+        "date_indexed": "2010-12-02T08:50:01Z", 
+        "parent_woeid": 1, 
+        "latitude": -0.828, 
+        "sw_longitude": 8.695, 
+        "fullname": "Africa/Libreville", 
+        "sw_latitude": -3.979
+      }, 
+      "id": 28350710
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -86.930, 
+              41.171
+            ], 
+            [
+              -86.930, 
+              41.433
+            ], 
+            [
+              -86.466, 
+              41.433
+            ], 
+            [
+              -86.466, 
+              41.171
+            ], 
+            [
+              -86.930, 
+              41.171
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043650, 
+        "name": "America/Indiana/Knox", 
+        "ne_latitude": 41.433, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -86.466, 
+        "longitude": -86.611, 
+        "placetype": "Timezone", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
+        "parent_woeid": 23424977, 
+        "latitude": 41.337, 
+        "sw_longitude": -86.930, 
+        "fullname": "America/Indiana/Knox, United States", 
+        "sw_latitude": 41.171
+      }, 
+      "id": 56043650
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              33.909, 
+              -4.717
+            ], 
+            [
+              33.909, 
+              4.629
+            ], 
+            [
+              41.899, 
+              4.629
+            ], 
+            [
+              41.899, 
+              -4.717
+            ], 
+            [
+              33.909, 
+              -4.717
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350721, 
+        "name": "Africa/Nairobi", 
+        "ne_latitude": 4.629, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 41.899, 
+        "longitude": 37.904, 
+        "placetype": "Timezone", 
+        "iso": "KE", 
+        "date_indexed": "2010-12-02T08:54:03Z", 
+        "parent_woeid": 1, 
+        "latitude": -0.024, 
+        "sw_longitude": 33.909, 
+        "fullname": "Africa/Nairobi", 
+        "sw_latitude": -4.717
+      }, 
+      "id": 28350721
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              99.613, 
+              1.222
+            ], 
+            [
+              99.613, 
+              6.726
+            ], 
+            [
+              104.620, 
+              6.726
+            ], 
+            [
+              104.620, 
+              1.222
+            ], 
+            [
+              99.613, 
+              1.222
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043603, 
+        "name": "Asia/Kuala_Lumpur", 
+        "ne_latitude": 6.726, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 104.620, 
+        "longitude": 102.116, 
+        "placetype": "Timezone", 
+        "iso": "MY", 
+        "date_indexed": "2010-12-02T18:05:31Z", 
+        "parent_woeid": 23424901, 
+        "latitude": 3.974, 
+        "sw_longitude": 99.613, 
+        "fullname": "Asia/Kuala_Lumpur, Malaysia", 
+        "sw_latitude": 1.222
+      }, 
+      "id": 56043603
+    }
+  ]
+}

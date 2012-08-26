@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              46.927, 
+              41.240
+            ], 
+            [
+              46.927, 
+              49.129
+            ], 
+            [
+              56.936, 
+              49.129
+            ], 
+            [
+              56.936, 
+              41.240
+            ], 
+            [
+              46.927, 
+              41.240
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043587, 
+        "name": "Asia/Aqtau", 
+        "ne_latitude": 49.129, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 56.936, 
+        "longitude": 54.856, 
+        "placetype": "Timezone", 
+        "iso": "KZ", 
+        "date_indexed": "2010-12-02T08:54:13Z", 
+        "parent_woeid": 23424871, 
+        "latitude": 46.503, 
+        "sw_longitude": 46.927, 
+        "fullname": "Asia/Aqtau, Kazakhstan", 
+        "sw_latitude": 41.240
+      }, 
+      "id": 56043587
+    }
+  ]
+}

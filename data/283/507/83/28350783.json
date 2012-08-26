@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -58.087, 
+              1.831
+            ], 
+            [
+              -58.087, 
+              6.005
+            ], 
+            [
+              -53.977, 
+              6.005
+            ], 
+            [
+              -53.977, 
+              1.831
+            ], 
+            [
+              -58.087, 
+              1.831
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350783, 
+        "name": "America/Paramaribo", 
+        "ne_latitude": 6.005, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -53.977, 
+        "longitude": -56.032, 
+        "placetype": "Timezone", 
+        "iso": "SR", 
+        "date_indexed": "2010-12-02T12:16:16Z", 
+        "parent_woeid": 1, 
+        "latitude": 3.918, 
+        "sw_longitude": -58.087, 
+        "fullname": "America/Paramaribo", 
+        "sw_latitude": 1.831
+      }, 
+      "id": 28350783
+    }
+  ]
+}

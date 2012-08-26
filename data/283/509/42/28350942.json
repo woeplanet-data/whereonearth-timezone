@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -172.517, 
+              -9.434
+            ], 
+            [
+              -172.517, 
+              -8.533
+            ], 
+            [
+              -171.182, 
+              -8.533
+            ], 
+            [
+              -171.182, 
+              -9.434
+            ], 
+            [
+              -172.517, 
+              -9.434
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350942, 
+        "name": "Pacific/Fakaofo", 
+        "ne_latitude": -8.533, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -171.182, 
+        "longitude": -171.250, 
+        "placetype": "Timezone", 
+        "iso": "TK", 
+        "date_indexed": "2010-12-02T08:53:23Z", 
+        "parent_woeid": 1, 
+        "latitude": -9.383, 
+        "sw_longitude": -172.517, 
+        "fullname": "Pacific/Fakaofo", 
+        "sw_latitude": -9.434
+      }, 
+      "id": 28350942
+    }
+  ]
+}

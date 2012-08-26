@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              100.093, 
+              13.910
+            ], 
+            [
+              100.093, 
+              22.500
+            ], 
+            [
+              107.697, 
+              22.500
+            ], 
+            [
+              107.697, 
+              13.910
+            ], 
+            [
+              100.093, 
+              13.910
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350863, 
+        "name": "Asia/Vientiane", 
+        "ne_latitude": 22.500, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 107.697, 
+        "longitude": 105.451, 
+        "placetype": "Timezone", 
+        "iso": "LA", 
+        "date_indexed": "2010-12-02T16:42:51Z", 
+        "parent_woeid": 1, 
+        "latitude": 18.205, 
+        "sw_longitude": 100.093, 
+        "fullname": "Asia/Vientiane", 
+        "sw_latitude": 13.910
+      }, 
+      "id": 28350863
+    }
+  ]
+}

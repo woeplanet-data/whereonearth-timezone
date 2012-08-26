@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              113.835, 
+              22.154
+            ], 
+            [
+              113.835, 
+              22.562
+            ], 
+            [
+              114.442, 
+              22.562
+            ], 
+            [
+              114.442, 
+              22.154
+            ], 
+            [
+              113.835, 
+              22.154
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350827, 
+        "name": "Asia/Hong_Kong", 
+        "ne_latitude": 22.562, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 114.442, 
+        "longitude": 114.154, 
+        "placetype": "Timezone", 
+        "iso": "HK", 
+        "date_indexed": "2010-12-02T12:08:18Z", 
+        "parent_woeid": 1, 
+        "latitude": 22.411, 
+        "sw_longitude": 113.835, 
+        "fullname": "Asia/Hong_Kong", 
+        "sw_latitude": 22.154
+      }, 
+      "id": 28350827
+    }
+  ]
+}

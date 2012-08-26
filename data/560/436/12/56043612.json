@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              155.547, 
+              50.869
+            ], 
+            [
+              155.547, 
+              64.721
+            ], 
+            [
+              174.305, 
+              64.721
+            ], 
+            [
+              174.305, 
+              50.869
+            ], 
+            [
+              155.547, 
+              50.869
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043612, 
+        "name": "Asia/Kamchatka", 
+        "ne_latitude": 64.721, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 174.305, 
+        "longitude": 162.871, 
+        "placetype": "Timezone", 
+        "iso": "RU", 
+        "date_indexed": "2010-12-02T16:11:11Z", 
+        "parent_woeid": 23424936, 
+        "latitude": 57.795, 
+        "sw_longitude": 155.547, 
+        "fullname": "Asia/Kamchatka, Russia", 
+        "sw_latitude": 50.869
+      }, 
+      "id": 56043612
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -178.207, 
+              -14.388
+            ], 
+            [
+              -178.207, 
+              -13.173
+            ], 
+            [
+              -176.083, 
+              -13.173
+            ], 
+            [
+              -176.083, 
+              -14.388
+            ], 
+            [
+              -178.207, 
+              -14.388
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350971, 
+        "name": "Pacific/Wallis", 
+        "ne_latitude": -13.173, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -176.083, 
+        "longitude": -176.173, 
+        "placetype": "Timezone", 
+        "iso": "WF", 
+        "date_indexed": "2010-12-02T09:35:31Z", 
+        "parent_woeid": 1, 
+        "latitude": -13.283, 
+        "sw_longitude": -178.207, 
+        "fullname": "Pacific/Wallis", 
+        "sw_latitude": -14.388
+      }, 
+      "id": 28350971
+    }
+  ]
+}

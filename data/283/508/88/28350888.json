@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              19.374, 
+              34.802
+            ], 
+            [
+              19.374, 
+              41.749
+            ], 
+            [
+              29.643, 
+              41.749
+            ], 
+            [
+              29.643, 
+              34.802
+            ], 
+            [
+              19.374, 
+              34.802
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350888, 
+        "name": "Europe/Athens", 
+        "ne_latitude": 41.749, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 29.643, 
+        "longitude": 21.973, 
+        "placetype": "Timezone", 
+        "iso": "GR", 
+        "date_indexed": "2010-12-02T16:52:29Z", 
+        "parent_woeid": 1, 
+        "latitude": 39.067, 
+        "sw_longitude": 19.374, 
+        "fullname": "Europe/Athens", 
+        "sw_latitude": 34.802
+      }, 
+      "id": 28350888
+    }
+  ]
+}

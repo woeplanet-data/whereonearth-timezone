@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.205, 
+              -5.028
+            ], 
+            [
+              11.205, 
+              3.703
+            ], 
+            [
+              18.650, 
+              3.703
+            ], 
+            [
+              18.650, 
+              -5.028
+            ], 
+            [
+              11.205, 
+              -5.028
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350691, 
+        "name": "Africa/Brazzaville", 
+        "ne_latitude": 3.703, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 18.650, 
+        "longitude": 14.927, 
+        "placetype": "Timezone", 
+        "iso": "CG", 
+        "date_indexed": "2010-12-02T18:21:30Z", 
+        "parent_woeid": 1, 
+        "latitude": -0.663, 
+        "sw_longitude": 11.205, 
+        "fullname": "Africa/Brazzaville", 
+        "sw_latitude": -5.028
+      }, 
+      "id": 28350691
+    }
+  ]
+}

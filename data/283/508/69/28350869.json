@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -64.896, 
+              32.247
+            ], 
+            [
+              -64.896, 
+              32.394
+            ], 
+            [
+              -64.654, 
+              32.394
+            ], 
+            [
+              -64.654, 
+              32.247
+            ], 
+            [
+              -64.896, 
+              32.247
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350869, 
+        "name": "Atlantic/Bermuda", 
+        "ne_latitude": 32.394, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -64.654, 
+        "longitude": -64.788, 
+        "placetype": "Timezone", 
+        "iso": "BM", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "parent_woeid": 1, 
+        "latitude": 32.303, 
+        "sw_longitude": -64.896, 
+        "fullname": "Atlantic/Bermuda", 
+        "sw_latitude": 32.247
+      }, 
+      "id": 28350869
+    }
+  ]
+}

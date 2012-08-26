@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              50.751, 
+              24.471
+            ], 
+            [
+              50.751, 
+              26.183
+            ], 
+            [
+              51.647, 
+              26.183
+            ], 
+            [
+              51.647, 
+              24.471
+            ], 
+            [
+              50.751, 
+              24.471
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350849, 
+        "name": "Asia/Qatar", 
+        "ne_latitude": 26.183, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 51.647, 
+        "longitude": 51.190, 
+        "placetype": "Timezone", 
+        "iso": "QA", 
+        "date_indexed": "2010-12-02T12:16:10Z", 
+        "parent_woeid": 1, 
+        "latitude": 25.320, 
+        "sw_longitude": 50.751, 
+        "fullname": "Asia/Qatar", 
+        "sw_latitude": 24.471
+      }, 
+      "id": 28350849
+    }
+  ]
+}

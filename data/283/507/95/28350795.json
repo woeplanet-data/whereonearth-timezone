@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -62.870, 
+              17.095
+            ], 
+            [
+              -62.870, 
+              17.420
+            ], 
+            [
+              -62.543, 
+              17.420
+            ], 
+            [
+              -62.543, 
+              17.095
+            ], 
+            [
+              -62.870, 
+              17.095
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350795, 
+        "name": "America/St_Kitts", 
+        "ne_latitude": 17.420, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -62.543, 
+        "longitude": -62.746, 
+        "placetype": "Timezone", 
+        "iso": "KN", 
+        "date_indexed": "2010-12-02T08:52:18Z", 
+        "parent_woeid": 1, 
+        "latitude": 17.318, 
+        "sw_longitude": -62.870, 
+        "fullname": "America/St_Kitts", 
+        "sw_latitude": 17.095
+      }, 
+      "id": 28350795
+    }
+  ]
+}

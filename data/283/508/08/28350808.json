@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              34.960, 
+              29.184
+            ], 
+            [
+              34.960, 
+              33.372
+            ], 
+            [
+              39.319, 
+              33.372
+            ], 
+            [
+              39.319, 
+              29.184
+            ], 
+            [
+              34.960, 
+              29.184
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350808, 
+        "name": "Asia/Amman", 
+        "ne_latitude": 33.372, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 39.319, 
+        "longitude": 37.139, 
+        "placetype": "Timezone", 
+        "iso": "JO", 
+        "date_indexed": "2010-12-02T12:08:18Z", 
+        "parent_woeid": 1, 
+        "latitude": 31.278, 
+        "sw_longitude": 34.960, 
+        "fullname": "Asia/Amman", 
+        "sw_latitude": 29.184
+      }, 
+      "id": 28350808
+    }
+  ]
+}

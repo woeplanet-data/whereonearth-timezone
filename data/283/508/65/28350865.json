@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              106.095, 
+              48.852
+            ], 
+            [
+              106.095, 
+              74.684
+            ], 
+            [
+              135.363, 
+              74.684
+            ], 
+            [
+              135.363, 
+              48.852
+            ], 
+            [
+              106.095, 
+              48.852
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350865, 
+        "name": "Asia/Yakutsk", 
+        "ne_latitude": 74.684, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 135.363, 
+        "longitude": 120.729, 
+        "placetype": "Timezone", 
+        "iso": "RU", 
+        "date_indexed": "2010-12-02T16:11:11Z", 
+        "parent_woeid": 23424936, 
+        "latitude": 61.422, 
+        "sw_longitude": 106.095, 
+        "fullname": "Asia/Yakutsk, Russia", 
+        "sw_latitude": 48.852
+      }, 
+      "id": 28350865
+    }
+  ]
+}

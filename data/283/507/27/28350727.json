@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.600, 
+              -0.014
+            ], 
+            [
+              5.600, 
+              1.734
+            ], 
+            [
+              7.466, 
+              1.734
+            ], 
+            [
+              7.466, 
+              -0.014
+            ], 
+            [
+              5.600, 
+              -0.014
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350727, 
+        "name": "Africa/Sao_Tome", 
+        "ne_latitude": 1.734, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 7.466, 
+        "longitude": 6.619, 
+        "placetype": "Timezone", 
+        "iso": "ST", 
+        "date_indexed": "2010-12-02T16:42:51Z", 
+        "parent_woeid": 1, 
+        "latitude": 0.220, 
+        "sw_longitude": 5.600, 
+        "fullname": "Africa/Sao_Tome", 
+        "sw_latitude": -0.014
+      }, 
+      "id": 28350727
+    }
+  ]
+}

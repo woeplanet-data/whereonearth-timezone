@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -9.062, 
+              49.072
+            ], 
+            [
+              -9.062, 
+              61.205
+            ], 
+            [
+              2.083, 
+              61.205
+            ], 
+            [
+              2.083, 
+              49.072
+            ], 
+            [
+              -9.062, 
+              49.072
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350903, 
+        "name": "Europe/London", 
+        "ne_latitude": 61.205, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.083, 
+        "longitude": -3.489, 
+        "placetype": "Timezone", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:22:56Z", 
+        "parent_woeid": 1, 
+        "latitude": 55.139, 
+        "sw_longitude": -9.062, 
+        "fullname": "Europe/London", 
+        "sw_latitude": 49.072
+      }, 
+      "id": 28350903
+    }
+  ]
+}

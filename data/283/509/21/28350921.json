@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.531, 
+              46.372
+            ], 
+            [
+              9.531, 
+              49.021
+            ], 
+            [
+              17.161, 
+              49.021
+            ], 
+            [
+              17.161, 
+              46.372
+            ], 
+            [
+              9.531, 
+              46.372
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350921, 
+        "name": "Europe/Vienna", 
+        "ne_latitude": 49.021, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 17.161, 
+        "longitude": 13.346, 
+        "placetype": "Timezone", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:36:15Z", 
+        "parent_woeid": 1, 
+        "latitude": 47.697, 
+        "sw_longitude": 9.531, 
+        "fullname": "Europe/Vienna", 
+        "sw_latitude": 46.372
+      }, 
+      "id": 28350921
+    }
+  ]
+}

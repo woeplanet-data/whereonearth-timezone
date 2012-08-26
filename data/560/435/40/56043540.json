@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.136, 
+              -46.023
+            ], 
+            [
+              -72.136, 
+              -25.153
+            ], 
+            [
+              -63.144, 
+              -25.153
+            ], 
+            [
+              -63.144, 
+              -46.023
+            ], 
+            [
+              -72.136, 
+              -46.023
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043540, 
+        "name": "America/Argentina/Catamarca", 
+        "ne_latitude": -25.153, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -63.144, 
+        "longitude": -67.640, 
+        "placetype": "Timezone", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "parent_woeid": 23424747, 
+        "latitude": -43.946, 
+        "sw_longitude": -72.136, 
+        "fullname": "America/Argentina/Catamarca, Argentina", 
+        "sw_latitude": -46.023
+      }, 
+      "id": 56043540
+    }
+  ]
+}

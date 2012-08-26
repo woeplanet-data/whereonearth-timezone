@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              32.481, 
+              44.385
+            ], 
+            [
+              32.481, 
+              46.232
+            ], 
+            [
+              36.648, 
+              46.232
+            ], 
+            [
+              36.648, 
+              44.385
+            ], 
+            [
+              32.481, 
+              44.385
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043615, 
+        "name": "Europe/Simferopol", 
+        "ne_latitude": 46.232, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 36.648, 
+        "longitude": 34.443, 
+        "placetype": "Timezone", 
+        "iso": "UA", 
+        "date_indexed": "2010-12-02T08:52:39Z", 
+        "parent_woeid": 23424976, 
+        "latitude": 45.084, 
+        "sw_longitude": 32.481, 
+        "fullname": "Europe/Simferopol, Ukraine", 
+        "sw_latitude": 44.385
+      }, 
+      "id": 56043615
+    }
+  ]
+}

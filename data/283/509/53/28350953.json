@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -140.721, 
+              -10.539
+            ], 
+            [
+              -140.721, 
+              -1.450
+            ], 
+            [
+              -138.594, 
+              -1.450
+            ], 
+            [
+              -138.594, 
+              -10.539
+            ], 
+            [
+              -140.721, 
+              -10.539
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350953, 
+        "name": "Pacific/Marquesas", 
+        "ne_latitude": -1.450, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -138.594, 
+        "longitude": -140.108, 
+        "placetype": "Timezone", 
+        "iso": "PF", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "parent_woeid": 23424817, 
+        "latitude": -8.891, 
+        "sw_longitude": -140.721, 
+        "fullname": "Pacific/Marquesas, French Polynesia", 
+        "sw_latitude": -10.539
+      }, 
+      "id": 28350953
+    }
+  ]
+}

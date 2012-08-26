@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              121.740, 
+              40.858
+            ], 
+            [
+              121.740, 
+              53.347
+            ], 
+            [
+              134.774, 
+              53.347
+            ], 
+            [
+              134.774, 
+              40.858
+            ], 
+            [
+              121.740, 
+              40.858
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043594, 
+        "name": "Asia/Harbin", 
+        "ne_latitude": 53.347, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 134.774, 
+        "longitude": 127.987, 
+        "placetype": "Timezone", 
+        "iso": "CN", 
+        "date_indexed": "2010-12-02T08:52:12Z", 
+        "parent_woeid": 23424781, 
+        "latitude": 47.209, 
+        "sw_longitude": 121.740, 
+        "fullname": "Asia/Harbin, China", 
+        "sw_latitude": 40.858
+      }, 
+      "id": 56043594
+    }
+  ]
+}

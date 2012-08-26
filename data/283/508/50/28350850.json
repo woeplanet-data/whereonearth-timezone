@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              92.189, 
+              9.600
+            ], 
+            [
+              92.189, 
+              28.543
+            ], 
+            [
+              101.177, 
+              28.543
+            ], 
+            [
+              101.177, 
+              9.600
+            ], 
+            [
+              92.189, 
+              9.600
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350850, 
+        "name": "Asia/Rangoon", 
+        "ne_latitude": 28.543, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 101.177, 
+        "longitude": 96.683, 
+        "placetype": "Timezone", 
+        "iso": "MM", 
+        "date_indexed": "2010-12-02T17:58:18Z", 
+        "parent_woeid": 1, 
+        "latitude": 19.258, 
+        "sw_longitude": 92.189, 
+        "fullname": "Asia/Rangoon", 
+        "sw_latitude": 9.600
+      }, 
+      "id": 28350850
+    }
+  ]
+}

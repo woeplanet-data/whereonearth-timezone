@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -54.876, 
+              -9.841
+            ], 
+            [
+              -54.876, 
+              4.449
+            ], 
+            [
+              -45.939, 
+              4.449
+            ], 
+            [
+              -45.939, 
+              -9.841
+            ], 
+            [
+              -54.876, 
+              -9.841
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043569, 
+        "name": "America/Belem", 
+        "ne_latitude": 4.449, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -45.939, 
+        "longitude": -50.407, 
+        "placetype": "Timezone", 
+        "iso": "BR", 
+        "date_indexed": "2010-12-02T18:03:30Z", 
+        "parent_woeid": 23424768, 
+        "latitude": -2.696, 
+        "sw_longitude": -54.876, 
+        "fullname": "America/Belem, Brazil", 
+        "sw_latitude": -9.841
+      }, 
+      "id": 56043569
+    }
+  ]
+}

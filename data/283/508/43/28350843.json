@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              116.837, 
+              4.492
+            ], 
+            [
+              116.837, 
+              21.187
+            ], 
+            [
+              126.808, 
+              21.187
+            ], 
+            [
+              126.808, 
+              4.492
+            ], 
+            [
+              116.837, 
+              4.492
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350843, 
+        "name": "Asia/Manila", 
+        "ne_latitude": 21.187, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 126.808, 
+        "longitude": 121.863, 
+        "placetype": "Timezone", 
+        "iso": "PH", 
+        "date_indexed": "2010-12-02T09:57:17Z", 
+        "parent_woeid": 1, 
+        "latitude": 12.908, 
+        "sw_longitude": 116.837, 
+        "fullname": "Asia/Manila", 
+        "sw_latitude": 4.492
+      }, 
+      "id": 28350843
+    }
+  ]
+}

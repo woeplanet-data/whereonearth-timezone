@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              69.277, 
+              39.173
+            ], 
+            [
+              69.277, 
+              43.238
+            ], 
+            [
+              80.283, 
+              43.238
+            ], 
+            [
+              80.283, 
+              39.173
+            ], 
+            [
+              69.277, 
+              39.173
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350816, 
+        "name": "Asia/Bishkek", 
+        "ne_latitude": 43.238, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 80.283, 
+        "longitude": 74.780, 
+        "placetype": "Timezone", 
+        "iso": "KG", 
+        "date_indexed": "2010-12-02T08:58:47Z", 
+        "parent_woeid": 1, 
+        "latitude": 41.206, 
+        "sw_longitude": 69.277, 
+        "fullname": "Asia/Bishkek", 
+        "sw_latitude": 39.173
+      }, 
+      "id": 28350816
+    }
+  ]
+}

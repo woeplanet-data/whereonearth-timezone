@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              29.327, 
+              -11.746
+            ], 
+            [
+              29.327, 
+              -0.991
+            ], 
+            [
+              40.443, 
+              -0.991
+            ], 
+            [
+              40.443, 
+              -11.746
+            ], 
+            [
+              29.327, 
+              -11.746
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350697, 
+        "name": "Africa/Dar_es_Salaam", 
+        "ne_latitude": -0.991, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 40.443, 
+        "longitude": 34.885, 
+        "placetype": "Timezone", 
+        "iso": "TZ", 
+        "date_indexed": "2010-12-02T12:16:10Z", 
+        "parent_woeid": 1, 
+        "latitude": -6.368, 
+        "sw_longitude": 29.327, 
+        "fullname": "Africa/Dar_es_Salaam", 
+        "sw_latitude": -11.746
+      }, 
+      "id": 28350697
+    }
+  ]
+}

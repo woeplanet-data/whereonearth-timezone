@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -17.103, 
+              20.774
+            ], 
+            [
+              -17.103, 
+              27.703
+            ], 
+            [
+              -8.669, 
+              27.703
+            ], 
+            [
+              -8.669, 
+              20.774
+            ], 
+            [
+              -17.103, 
+              20.774
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350700, 
+        "name": "Africa/El_Aaiun", 
+        "ne_latitude": 27.703, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -8.669, 
+        "longitude": -12.886, 
+        "placetype": "Timezone", 
+        "iso": "EH", 
+        "date_indexed": "2010-12-02T16:12:23Z", 
+        "parent_woeid": 1, 
+        "latitude": 24.238, 
+        "sw_longitude": -17.103, 
+        "fullname": "Africa/El_Aaiun", 
+        "sw_latitude": 20.774
+      }, 
+      "id": 28350700
+    }
+  ]
+}

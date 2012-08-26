@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.230, 
+              14.382
+            ], 
+            [
+              -61.230, 
+              14.879
+            ], 
+            [
+              -60.816, 
+              14.879
+            ], 
+            [
+              -60.816, 
+              14.382
+            ], 
+            [
+              -61.230, 
+              14.382
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350773, 
+        "name": "America/Martinique", 
+        "ne_latitude": 14.879, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -60.816, 
+        "longitude": -61.023, 
+        "placetype": "Timezone", 
+        "iso": "MQ", 
+        "date_indexed": "2010-12-02T17:06:00Z", 
+        "parent_woeid": 1, 
+        "latitude": 14.636, 
+        "sw_longitude": -61.230, 
+        "fullname": "America/Martinique", 
+        "sw_latitude": 14.382
+      }, 
+      "id": 28350773
+    }
+  ]
+}

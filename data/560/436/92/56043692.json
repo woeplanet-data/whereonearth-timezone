@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -136.467, 
+              60.731
+            ], 
+            [
+              -136.467, 
+              70.506
+            ], 
+            [
+              -125.038, 
+              70.506
+            ], 
+            [
+              -125.038, 
+              60.731
+            ], 
+            [
+              -136.467, 
+              60.731
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043692, 
+        "name": "America/Inuvik", 
+        "ne_latitude": 70.506, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -125.038, 
+        "longitude": -130.752, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 2344920, 
+        "latitude": 65.618, 
+        "sw_longitude": -136.467, 
+        "fullname": "America/Inuvik, Canada", 
+        "sw_latitude": 60.731
+      }, 
+      "id": 56043692
+    }
+  ]
+}

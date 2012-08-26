@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              22.641, 
+              44.595
+            ], 
+            [
+              22.641, 
+              52.381
+            ], 
+            [
+              40.227, 
+              52.381
+            ], 
+            [
+              40.227, 
+              44.595
+            ], 
+            [
+              22.641, 
+              44.595
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043618, 
+        "name": "Europe/Kiev", 
+        "ne_latitude": 52.381, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 40.227, 
+        "longitude": 31.182, 
+        "placetype": "Timezone", 
+        "iso": "UA", 
+        "date_indexed": "2010-12-02T08:52:39Z", 
+        "parent_woeid": 23424976, 
+        "latitude": 48.383, 
+        "sw_longitude": 22.641, 
+        "fullname": "Europe/Kiev, Ukraine", 
+        "sw_latitude": 44.595
+      }, 
+      "id": 56043618
+    }
+  ]
+}

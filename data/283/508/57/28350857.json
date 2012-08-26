@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              118.214, 
+              21.902
+            ], 
+            [
+              118.214, 
+              26.392
+            ], 
+            [
+              122.101, 
+              26.392
+            ], 
+            [
+              122.101, 
+              21.902
+            ], 
+            [
+              118.214, 
+              21.902
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350857, 
+        "name": "Asia/Taipei", 
+        "ne_latitude": 26.392, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 122.101, 
+        "longitude": 121.024, 
+        "placetype": "Timezone", 
+        "iso": "TW", 
+        "date_indexed": "2010-12-02T16:17:33Z", 
+        "parent_woeid": 1, 
+        "latitude": 23.600, 
+        "sw_longitude": 118.214, 
+        "fullname": "Asia/Taipei", 
+        "sw_latitude": 21.902
+      }, 
+      "id": 28350857
+    }
+  ]
+}

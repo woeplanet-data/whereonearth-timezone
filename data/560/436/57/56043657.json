@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.418, 
+              45.095
+            ], 
+            [
+              -90.418, 
+              46.766
+            ], 
+            [
+              -87.264, 
+              46.766
+            ], 
+            [
+              -87.264, 
+              45.095
+            ], 
+            [
+              -90.418, 
+              45.095
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043657, 
+        "name": "America/Menominee", 
+        "ne_latitude": 46.766, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -87.264, 
+        "longitude": -87.754, 
+        "placetype": "Timezone", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
+        "parent_woeid": 23424977, 
+        "latitude": 45.930, 
+        "sw_longitude": -90.418, 
+        "fullname": "America/Menominee, United States", 
+        "sw_latitude": 45.095
+      }, 
+      "id": 56043657
+    }
+  ]
+}

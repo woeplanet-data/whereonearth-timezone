@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              93.021, 
+              41.568
+            ], 
+            [
+              93.021, 
+              52.154
+            ], 
+            [
+              112.662, 
+              52.154
+            ], 
+            [
+              112.662, 
+              41.568
+            ], 
+            [
+              93.021, 
+              41.568
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350862, 
+        "name": "Asia/Ulaanbaatar", 
+        "ne_latitude": 52.154, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 112.662, 
+        "longitude": 102.841, 
+        "placetype": "Timezone", 
+        "iso": "MN", 
+        "date_indexed": "2010-12-02T08:53:23Z", 
+        "parent_woeid": 23424887, 
+        "latitude": 46.861, 
+        "sw_longitude": 93.021, 
+        "fullname": "Asia/Ulaanbaatar, Mongolia", 
+        "sw_latitude": 41.568
+      }, 
+      "id": 28350862
+    }
+  ]
+}

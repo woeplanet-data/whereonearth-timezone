@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.166, 
+              11.697
+            ], 
+            [
+              0.166, 
+              23.525
+            ], 
+            [
+              15.996, 
+              23.525
+            ], 
+            [
+              15.996, 
+              11.697
+            ], 
+            [
+              0.166, 
+              11.697
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350723, 
+        "name": "Africa/Niamey", 
+        "ne_latitude": 23.525, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.996, 
+        "longitude": 8.081, 
+        "placetype": "Timezone", 
+        "iso": "NE", 
+        "date_indexed": "2010-12-02T17:43:23Z", 
+        "parent_woeid": 1, 
+        "latitude": 17.611, 
+        "sw_longitude": 0.166, 
+        "fullname": "Africa/Niamey", 
+        "sw_latitude": 11.697
+      }, 
+      "id": 28350723
+    }
+  ]
+}

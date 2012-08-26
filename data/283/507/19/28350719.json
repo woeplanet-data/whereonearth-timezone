@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              40.989, 
+              -1.662
+            ], 
+            [
+              40.989, 
+              11.985
+            ], 
+            [
+              51.413, 
+              11.985
+            ], 
+            [
+              51.413, 
+              -1.662
+            ], 
+            [
+              40.989, 
+              -1.662
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350719, 
+        "name": "Africa/Mogadishu", 
+        "ne_latitude": 11.985, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 51.413, 
+        "longitude": 46.201, 
+        "placetype": "Timezone", 
+        "iso": "SO", 
+        "date_indexed": "2010-12-02T08:51:01Z", 
+        "parent_woeid": 1, 
+        "latitude": 5.162, 
+        "sw_longitude": 40.989, 
+        "fullname": "Africa/Mogadishu", 
+        "sw_latitude": -1.662
+      }, 
+      "id": 28350719
+    }
+  ]
+}

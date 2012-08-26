@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              169.523, 
+              -2.673
+            ], 
+            [
+              169.523, 
+              3.392
+            ], 
+            [
+              176.850, 
+              3.392
+            ], 
+            [
+              176.850, 
+              -2.673
+            ], 
+            [
+              169.523, 
+              -2.673
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350967, 
+        "name": "Pacific/Tarawa", 
+        "ne_latitude": 3.392, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 176.850, 
+        "longitude": 176.452, 
+        "placetype": "Timezone", 
+        "iso": "KI", 
+        "date_indexed": "2010-12-02T17:42:25Z", 
+        "parent_woeid": 23424867, 
+        "latitude": -1.361, 
+        "sw_longitude": 169.523, 
+        "fullname": "Pacific/Tarawa, Kiribati", 
+        "sw_latitude": -2.673
+      }, 
+      "id": 28350967
+    }
+  ]
+}

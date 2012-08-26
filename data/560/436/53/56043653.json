@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -85.204, 
+              38.688
+            ], 
+            [
+              -85.204, 
+              38.930
+            ], 
+            [
+              -84.785, 
+              38.930
+            ], 
+            [
+              -84.785, 
+              38.688
+            ], 
+            [
+              -85.204, 
+              38.688
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043653, 
+        "name": "America/Indiana/Vevay", 
+        "ne_latitude": 38.930, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -84.785, 
+        "longitude": -84.994, 
+        "placetype": "Timezone", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
+        "parent_woeid": 23424977, 
+        "latitude": 38.809, 
+        "sw_longitude": -85.204, 
+        "fullname": "America/Indiana/Vevay, United States", 
+        "sw_latitude": 38.688
+      }, 
+      "id": 56043653
+    }
+  ]
+}

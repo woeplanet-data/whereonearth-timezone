@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.627, 
+              35.493
+            ], 
+            [
+              6.627, 
+              47.092
+            ], 
+            [
+              18.520, 
+              47.092
+            ], 
+            [
+              18.520, 
+              35.493
+            ], 
+            [
+              6.627, 
+              35.493
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350914, 
+        "name": "Europe/Rome", 
+        "ne_latitude": 47.092, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 18.520, 
+        "longitude": 12.573, 
+        "placetype": "Timezone", 
+        "iso": "ZZ", 
+        "date_indexed": "2010-12-02T16:31:49Z", 
+        "parent_woeid": 1, 
+        "latitude": 42.504, 
+        "sw_longitude": 6.627, 
+        "fullname": "Europe/Rome", 
+        "sw_latitude": 35.493
+      }, 
+      "id": 28350914
+    }
+  ]
+}

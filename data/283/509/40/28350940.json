@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              166.525, 
+              -20.250
+            ], 
+            [
+              166.525, 
+              -13.073
+            ], 
+            [
+              170.235, 
+              -13.073
+            ], 
+            [
+              170.235, 
+              -20.250
+            ], 
+            [
+              166.525, 
+              -20.250
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350940, 
+        "name": "Pacific/Efate", 
+        "ne_latitude": -13.073, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 170.235, 
+        "longitude": 167.038, 
+        "placetype": "Timezone", 
+        "iso": "VU", 
+        "date_indexed": "2010-12-02T17:52:20Z", 
+        "parent_woeid": 1, 
+        "latitude": -15.147, 
+        "sw_longitude": 166.525, 
+        "fullname": "Pacific/Efate", 
+        "sw_latitude": -20.250
+      }, 
+      "id": 28350940
+    }
+  ]
+}

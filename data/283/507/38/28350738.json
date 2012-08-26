@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -59.649, 
+              13.040
+            ], 
+            [
+              -59.649, 
+              13.327
+            ], 
+            [
+              -59.420, 
+              13.327
+            ], 
+            [
+              -59.420, 
+              13.040
+            ], 
+            [
+              -59.649, 
+              13.040
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350738, 
+        "name": "America/Barbados", 
+        "ne_latitude": 13.327, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -59.420, 
+        "longitude": -59.535, 
+        "placetype": "Timezone", 
+        "iso": "BB", 
+        "date_indexed": "2010-12-02T09:35:19Z", 
+        "parent_woeid": 1, 
+        "latitude": 13.184, 
+        "sw_longitude": -59.649, 
+        "fullname": "America/Barbados", 
+        "sw_latitude": 13.040
+      }, 
+      "id": 28350738
+    }
+  ]
+}

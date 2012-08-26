@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              78.360, 
+              18.161
+            ], 
+            [
+              78.360, 
+              53.561
+            ], 
+            [
+              126.071, 
+              53.561
+            ], 
+            [
+              126.071, 
+              18.161
+            ], 
+            [
+              78.360, 
+              18.161
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043597, 
+        "name": "Asia/Shanghai", 
+        "ne_latitude": 53.561, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 126.071, 
+        "longitude": 102.215, 
+        "placetype": "Timezone", 
+        "iso": "CN", 
+        "date_indexed": "2010-12-02T08:52:12Z", 
+        "parent_woeid": 23424781, 
+        "latitude": 36.894, 
+        "sw_longitude": 78.360, 
+        "fullname": "Asia/Shanghai, China", 
+        "sw_latitude": 18.161
+      }, 
+      "id": 56043597
+    }
+  ]
+}

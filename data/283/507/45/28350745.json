@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -81.433, 
+              19.250
+            ], 
+            [
+              -81.433, 
+              19.762
+            ], 
+            [
+              -79.716, 
+              19.762
+            ], 
+            [
+              -79.716, 
+              19.250
+            ], 
+            [
+              -81.433, 
+              19.250
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350745, 
+        "name": "America/Cayman", 
+        "ne_latitude": 19.762, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -79.716, 
+        "longitude": -81.262, 
+        "placetype": "Timezone", 
+        "iso": "KY", 
+        "date_indexed": "2010-12-02T10:22:43Z", 
+        "parent_woeid": 1, 
+        "latitude": 19.332, 
+        "sw_longitude": -81.433, 
+        "fullname": "America/Cayman", 
+        "sw_latitude": 19.250
+      }, 
+      "id": 28350745
+    }
+  ]
+}

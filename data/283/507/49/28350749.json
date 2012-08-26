@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -69.157, 
+              11.973
+            ], 
+            [
+              -69.157, 
+              18.070
+            ], 
+            [
+              -62.944, 
+              18.070
+            ], 
+            [
+              -62.944, 
+              11.973
+            ], 
+            [
+              -69.157, 
+              11.973
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350749, 
+        "name": "America/Curacao", 
+        "ne_latitude": 18.070, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -62.944, 
+        "longitude": -69.039, 
+        "placetype": "Timezone", 
+        "iso": "AN", 
+        "date_indexed": "2010-12-02T16:42:51Z", 
+        "parent_woeid": 1, 
+        "latitude": 12.209, 
+        "sw_longitude": -69.157, 
+        "fullname": "America/Curacao", 
+        "sw_latitude": 11.973
+      }, 
+      "id": 28350749
+    }
+  ]
+}

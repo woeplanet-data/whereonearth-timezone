@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              14.420, 
+              2.221
+            ], 
+            [
+              14.420, 
+              11.008
+            ], 
+            [
+              27.463, 
+              11.008
+            ], 
+            [
+              27.463, 
+              2.221
+            ], 
+            [
+              14.420, 
+              2.221
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350687, 
+        "name": "Africa/Bangui", 
+        "ne_latitude": 11.008, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 27.463, 
+        "longitude": 20.942, 
+        "placetype": "Timezone", 
+        "iso": "CF", 
+        "date_indexed": "2010-12-02T17:43:32Z", 
+        "parent_woeid": 1, 
+        "latitude": 6.614, 
+        "sw_longitude": 14.420, 
+        "fullname": "Africa/Bangui", 
+        "sw_latitude": 2.221
+      }, 
+      "id": 28350687
+    }
+  ]
+}

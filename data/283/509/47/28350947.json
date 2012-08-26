@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              155.509, 
+              -12.292
+            ], 
+            [
+              155.509, 
+              -5.166
+            ], 
+            [
+              170.200, 
+              -5.166
+            ], 
+            [
+              170.200, 
+              -12.292
+            ], 
+            [
+              155.509, 
+              -12.292
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350947, 
+        "name": "Pacific/Guadalcanal", 
+        "ne_latitude": -5.166, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 170.200, 
+        "longitude": 160.209, 
+        "placetype": "Timezone", 
+        "iso": "SB", 
+        "date_indexed": "2010-12-02T09:35:31Z", 
+        "parent_woeid": 1, 
+        "latitude": -9.596, 
+        "sw_longitude": 155.509, 
+        "fullname": "Pacific/Guadalcanal", 
+        "sw_latitude": -12.292
+      }, 
+      "id": 28350947
+    }
+  ]
+}

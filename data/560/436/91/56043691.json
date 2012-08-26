@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -135.979, 
+              60.000
+            ], 
+            [
+              -135.979, 
+              80.174
+            ], 
+            [
+              -101.983, 
+              80.174
+            ], 
+            [
+              -101.983, 
+              60.000
+            ], 
+            [
+              -135.979, 
+              60.000
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043691, 
+        "name": "America/Yellowknife", 
+        "ne_latitude": 80.174, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -101.983, 
+        "longitude": -115.505, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 2344920, 
+        "latitude": 65.979, 
+        "sw_longitude": -135.979, 
+        "fullname": "America/Yellowknife, Canada", 
+        "sw_latitude": 60.000
+      }, 
+      "id": 56043691
+    }
+  ]
+}

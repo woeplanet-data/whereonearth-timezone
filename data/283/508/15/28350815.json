@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              35.114, 
+              33.054
+            ], 
+            [
+              35.114, 
+              34.691
+            ], 
+            [
+              36.639, 
+              34.691
+            ], 
+            [
+              36.639, 
+              33.054
+            ], 
+            [
+              35.114, 
+              33.054
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350815, 
+        "name": "Asia/Beirut", 
+        "ne_latitude": 34.691, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 36.639, 
+        "longitude": 35.877, 
+        "placetype": "Timezone", 
+        "iso": "LB", 
+        "date_indexed": "2010-12-02T16:50:25Z", 
+        "parent_woeid": 1, 
+        "latitude": 33.872, 
+        "sw_longitude": 35.114, 
+        "fullname": "Asia/Beirut", 
+        "sw_latitude": 33.054
+      }, 
+      "id": 28350815
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              144.619, 
+              13.241
+            ], 
+            [
+              144.619, 
+              13.652
+            ], 
+            [
+              144.954, 
+              13.652
+            ], 
+            [
+              144.954, 
+              13.241
+            ], 
+            [
+              144.619, 
+              13.241
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350948, 
+        "name": "Pacific/Guam", 
+        "ne_latitude": 13.652, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 144.954, 
+        "longitude": 144.787, 
+        "placetype": "Timezone", 
+        "iso": "GU", 
+        "date_indexed": "2010-12-02T18:21:30Z", 
+        "parent_woeid": 1, 
+        "latitude": 13.446, 
+        "sw_longitude": 144.619, 
+        "fullname": "Pacific/Guam", 
+        "sw_latitude": 13.241
+      }, 
+      "id": 28350948
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -172.799, 
+              -14.064
+            ], 
+            [
+              -172.799, 
+              -13.432
+            ], 
+            [
+              -171.333, 
+              -13.432
+            ], 
+            [
+              -171.333, 
+              -14.064
+            ], 
+            [
+              -172.799, 
+              -14.064
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350936, 
+        "name": "Pacific/Apia", 
+        "ne_latitude": -13.432, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -171.333, 
+        "longitude": -172.482, 
+        "placetype": "Timezone", 
+        "iso": "WS", 
+        "date_indexed": "2010-12-02T16:50:25Z", 
+        "parent_woeid": 1, 
+        "latitude": -13.617, 
+        "sw_longitude": -172.799, 
+        "fullname": "Pacific/Apia", 
+        "sw_latitude": -14.064
+      }, 
+      "id": 28350936
+    }
+  ]
+}

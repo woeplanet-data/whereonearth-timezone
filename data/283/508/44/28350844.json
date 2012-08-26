@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              42.278, 
+              15.659
+            ], 
+            [
+              42.278, 
+              26.388
+            ], 
+            [
+              59.837, 
+              26.388
+            ], 
+            [
+              59.837, 
+              15.659
+            ], 
+            [
+              42.278, 
+              15.659
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350844, 
+        "name": "Asia/Muscat", 
+        "ne_latitude": 26.388, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 59.837, 
+        "longitude": 55.918, 
+        "placetype": "Timezone", 
+        "iso": "OM", 
+        "date_indexed": "2010-12-02T09:35:43Z", 
+        "parent_woeid": 1, 
+        "latitude": 20.810, 
+        "sw_longitude": 42.278, 
+        "fullname": "Asia/Muscat", 
+        "sw_latitude": 15.659
+      }, 
+      "id": 28350844
+    }
+  ]
+}

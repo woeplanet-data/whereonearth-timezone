@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.982, 
+              55.337
+            ], 
+            [
+              10.982, 
+              69.060
+            ], 
+            [
+              24.166, 
+              69.060
+            ], 
+            [
+              24.166, 
+              55.337
+            ], 
+            [
+              10.982, 
+              55.337
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350917, 
+        "name": "Europe/Stockholm", 
+        "ne_latitude": 69.060, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 24.166, 
+        "longitude": 17.551, 
+        "placetype": "Timezone", 
+        "iso": "SE", 
+        "date_indexed": "2010-12-02T16:49:06Z", 
+        "parent_woeid": 1, 
+        "latitude": 62.198, 
+        "sw_longitude": 10.982, 
+        "fullname": "Europe/Stockholm", 
+        "sw_latitude": 55.337
+      }, 
+      "id": 28350917
+    }
+  ]
+}

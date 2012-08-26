@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              26.945, 
+              41.189
+            ], 
+            [
+              26.945, 
+              81.857
+            ], 
+            [
+              69.070, 
+              81.857
+            ], 
+            [
+              69.070, 
+              41.189
+            ], 
+            [
+              26.945, 
+              41.189
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043614, 
+        "name": "Europe/Moscow", 
+        "ne_latitude": 81.857, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 69.070, 
+        "longitude": 46.699, 
+        "placetype": "Timezone", 
+        "iso": "RU", 
+        "date_indexed": "2010-12-02T16:11:11Z", 
+        "parent_woeid": 23424936, 
+        "latitude": 55.571, 
+        "sw_longitude": 26.945, 
+        "fullname": "Europe/Moscow, Russia", 
+        "sw_latitude": 41.189
+      }, 
+      "id": 56043614
+    }
+  ]
+}

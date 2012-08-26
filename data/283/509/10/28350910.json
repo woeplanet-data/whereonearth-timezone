@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -9.080, 
+              57.781
+            ], 
+            [
+              -9.080, 
+              80.897
+            ], 
+            [
+              36.815, 
+              80.897
+            ], 
+            [
+              36.815, 
+              57.781
+            ], 
+            [
+              -9.080, 
+              57.781
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350910, 
+        "name": "Europe/Oslo", 
+        "ne_latitude": 80.897, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 36.815, 
+        "longitude": 11.394, 
+        "placetype": "Timezone", 
+        "iso": "ZZ", 
+        "date_indexed": "2010-12-02T16:31:49Z", 
+        "parent_woeid": 1, 
+        "latitude": 64.547, 
+        "sw_longitude": -9.080, 
+        "fullname": "Europe/Oslo", 
+        "sw_latitude": 57.781
+      }, 
+      "id": 28350910
+    }
+  ]
+}

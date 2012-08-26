@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.241, 
+              13.737
+            ], 
+            [
+              -92.241, 
+              17.815
+            ], 
+            [
+              -88.223, 
+              17.815
+            ], 
+            [
+              -88.223, 
+              13.737
+            ], 
+            [
+              -92.241, 
+              13.737
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350761, 
+        "name": "America/Guatemala", 
+        "ne_latitude": 17.815, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -88.223, 
+        "longitude": -90.232, 
+        "placetype": "Timezone", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "parent_woeid": 1, 
+        "latitude": 15.776, 
+        "sw_longitude": -92.241, 
+        "fullname": "America/Guatemala", 
+        "sw_latitude": 13.737
+      }, 
+      "id": 28350761
+    }
+  ]
+}

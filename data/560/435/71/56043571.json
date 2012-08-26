@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -50.742, 
+              -13.467
+            ], 
+            [
+              -50.742, 
+              -5.168
+            ], 
+            [
+              -45.696, 
+              -5.168
+            ], 
+            [
+              -45.696, 
+              -13.467
+            ], 
+            [
+              -50.742, 
+              -13.467
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043571, 
+        "name": "America/Araguaina", 
+        "ne_latitude": -5.168, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -45.696, 
+        "longitude": -48.111, 
+        "placetype": "Timezone", 
+        "iso": "BR", 
+        "date_indexed": "2010-12-02T18:03:30Z", 
+        "parent_woeid": 23424768, 
+        "latitude": -9.114, 
+        "sw_longitude": -50.742, 
+        "fullname": "America/Araguaina, Brazil", 
+        "sw_latitude": -13.467
+      }, 
+      "id": 56043571
+    }
+  ]
+}

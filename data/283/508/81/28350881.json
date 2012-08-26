@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              149.035, 
+              -20.528
+            ], 
+            [
+              149.035, 
+              -20.433
+            ], 
+            [
+              149.107, 
+              -20.433
+            ], 
+            [
+              149.107, 
+              -20.528
+            ], 
+            [
+              149.035, 
+              -20.528
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350881, 
+        "name": "Australia/Lindeman", 
+        "ne_latitude": -20.433, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 149.107, 
+        "longitude": 149.071, 
+        "placetype": "Timezone", 
+        "iso": "AU", 
+        "date_indexed": "2010-12-02T17:47:57Z", 
+        "parent_woeid": 23424748, 
+        "latitude": -20.481, 
+        "sw_longitude": 149.035, 
+        "fullname": "Australia/Lindeman, Australia", 
+        "sw_latitude": -20.528
+      }, 
+      "id": 28350881
+    }
+  ]
+}

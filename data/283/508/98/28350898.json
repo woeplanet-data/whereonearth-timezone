@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              19.198, 
+              59.630
+            ], 
+            [
+              19.198, 
+              70.092
+            ], 
+            [
+              31.587, 
+              70.092
+            ], 
+            [
+              31.587, 
+              59.630
+            ], 
+            [
+              19.198, 
+              59.630
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350898, 
+        "name": "Europe/Helsinki", 
+        "ne_latitude": 70.092, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 31.587, 
+        "longitude": 25.392, 
+        "placetype": "Timezone", 
+        "iso": "ZZ", 
+        "date_indexed": "2010-12-02T16:31:49Z", 
+        "parent_woeid": 1, 
+        "latitude": 64.861, 
+        "sw_longitude": 19.198, 
+        "fullname": "Europe/Helsinki", 
+        "sw_latitude": 59.630
+      }, 
+      "id": 28350898
+    }
+  ]
+}

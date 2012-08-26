@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              20.264, 
+              43.620
+            ], 
+            [
+              20.264, 
+              48.266
+            ], 
+            [
+              29.719, 
+              48.266
+            ], 
+            [
+              29.719, 
+              43.620
+            ], 
+            [
+              20.264, 
+              43.620
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350892, 
+        "name": "Europe/Bucharest", 
+        "ne_latitude": 48.266, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 29.719, 
+        "longitude": 24.992, 
+        "placetype": "Timezone", 
+        "iso": "RO", 
+        "date_indexed": "2010-12-02T16:39:35Z", 
+        "parent_woeid": 1, 
+        "latitude": 45.943, 
+        "sw_longitude": 20.264, 
+        "fullname": "Europe/Bucharest", 
+        "sw_latitude": 43.620
+      }, 
+      "id": 28350892
+    }
+  ]
+}

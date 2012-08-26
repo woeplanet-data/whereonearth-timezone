@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.765, 
+              46.981
+            ], 
+            [
+              -101.765, 
+              47.296
+            ], 
+            [
+              -100.878, 
+              47.296
+            ], 
+            [
+              -100.878, 
+              46.981
+            ], 
+            [
+              -101.765, 
+              46.981
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043659, 
+        "name": "America/North_Dakota/Center", 
+        "ne_latitude": 47.296, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -100.878, 
+        "longitude": -101.226, 
+        "placetype": "Timezone", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
+        "parent_woeid": 23424977, 
+        "latitude": 47.201, 
+        "sw_longitude": -101.765, 
+        "fullname": "America/North_Dakota/Center, United States", 
+        "sw_latitude": 46.981
+      }, 
+      "id": 56043659
+    }
+  ]
+}

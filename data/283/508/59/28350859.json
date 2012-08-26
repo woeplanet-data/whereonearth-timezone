@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              44.047, 
+              25.064
+            ], 
+            [
+              44.047, 
+              39.777
+            ], 
+            [
+              63.317, 
+              39.777
+            ], 
+            [
+              63.317, 
+              25.064
+            ], 
+            [
+              44.047, 
+              25.064
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350859, 
+        "name": "Asia/Tehran", 
+        "ne_latitude": 39.777, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 63.317, 
+        "longitude": 53.682, 
+        "placetype": "Timezone", 
+        "iso": "IR", 
+        "date_indexed": "2010-12-02T08:53:52Z", 
+        "parent_woeid": 1, 
+        "latitude": 32.421, 
+        "sw_longitude": 44.047, 
+        "fullname": "Asia/Tehran", 
+        "sw_latitude": 25.064
+      }, 
+      "id": 28350859
+    }
+  ]
+}

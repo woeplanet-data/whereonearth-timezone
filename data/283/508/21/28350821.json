@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              35.727, 
+              32.311
+            ], 
+            [
+              35.727, 
+              37.319
+            ], 
+            [
+              42.385, 
+              37.319
+            ], 
+            [
+              42.385, 
+              32.311
+            ], 
+            [
+              35.727, 
+              32.311
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350821, 
+        "name": "Asia/Damascus", 
+        "ne_latitude": 37.319, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 42.385, 
+        "longitude": 39.056, 
+        "placetype": "Timezone", 
+        "iso": "SY", 
+        "date_indexed": "2010-12-02T07:50:25Z", 
+        "parent_woeid": 1, 
+        "latitude": 34.815, 
+        "sw_longitude": 35.727, 
+        "fullname": "Asia/Damascus", 
+        "sw_latitude": 32.311
+      }, 
+      "id": 28350821
+    }
+  ]
+}

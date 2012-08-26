@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -58.163, 
+              -24.068
+            ], 
+            [
+              -58.163, 
+              -17.166
+            ], 
+            [
+              -50.922, 
+              -17.166
+            ], 
+            [
+              -50.922, 
+              -24.068
+            ], 
+            [
+              -58.163, 
+              -24.068
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043574, 
+        "name": "America/Campo_Grande", 
+        "ne_latitude": -17.166, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -50.922, 
+        "longitude": -54.724, 
+        "placetype": "Timezone", 
+        "iso": "BR", 
+        "date_indexed": "2010-12-02T18:03:30Z", 
+        "parent_woeid": 23424768, 
+        "latitude": -20.192, 
+        "sw_longitude": -58.163, 
+        "fullname": "America/Campo_Grande, Brazil", 
+        "sw_latitude": -24.068
+      }, 
+      "id": 56043574
+    }
+  ]
+}

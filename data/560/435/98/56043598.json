@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.074, 
+              25.560
+            ], 
+            [
+              -109.074, 
+              31.784
+            ], 
+            [
+              -103.299, 
+              31.784
+            ], 
+            [
+              -103.299, 
+              25.560
+            ], 
+            [
+              -109.074, 
+              25.560
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043598, 
+        "name": "America/Chihuahua", 
+        "ne_latitude": 31.784, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -103.299, 
+        "longitude": -106.186, 
+        "placetype": "Timezone", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T17:02:03Z", 
+        "parent_woeid": 23424900, 
+        "latitude": 29.019, 
+        "sw_longitude": -109.074, 
+        "fullname": "America/Chihuahua, Mexico", 
+        "sw_latitude": 25.560
+      }, 
+      "id": 56043598
+    }
+  ]
+}

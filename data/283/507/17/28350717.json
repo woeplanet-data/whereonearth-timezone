@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              27.029, 
+              -30.669
+            ], 
+            [
+              27.029, 
+              -28.572
+            ], 
+            [
+              29.466, 
+              -28.572
+            ], 
+            [
+              29.466, 
+              -30.669
+            ], 
+            [
+              27.029, 
+              -30.669
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350717, 
+        "name": "Africa/Maseru", 
+        "ne_latitude": -28.572, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 29.466, 
+        "longitude": 28.247, 
+        "placetype": "Timezone", 
+        "iso": "LS", 
+        "date_indexed": "2010-12-02T08:57:23Z", 
+        "parent_woeid": 1, 
+        "latitude": -29.621, 
+        "sw_longitude": 27.029, 
+        "fullname": "Africa/Maseru", 
+        "sw_latitude": -30.669
+      }, 
+      "id": 28350717
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -8.674, 
+              18.960
+            ], 
+            [
+              -8.674, 
+              37.094
+            ], 
+            [
+              11.980, 
+              37.094
+            ], 
+            [
+              11.980, 
+              18.960
+            ], 
+            [
+              -8.674, 
+              18.960
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350684, 
+        "name": "Africa/Algiers", 
+        "ne_latitude": 37.094, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.980, 
+        "longitude": 1.653, 
+        "placetype": "Timezone", 
+        "iso": "DZ", 
+        "date_indexed": "2010-12-02T17:07:37Z", 
+        "parent_woeid": 1, 
+        "latitude": 28.027, 
+        "sw_longitude": -8.674, 
+        "fullname": "Africa/Algiers", 
+        "sw_latitude": 18.960
+      }, 
+      "id": 28350684
+    }
+  ]
+}

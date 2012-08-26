@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              43.216, 
+              -12.414
+            ], 
+            [
+              43.216, 
+              -11.362
+            ], 
+            [
+              44.538, 
+              -11.362
+            ], 
+            [
+              44.538, 
+              -12.414
+            ], 
+            [
+              43.216, 
+              -12.414
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350929, 
+        "name": "Indian/Comoro", 
+        "ne_latitude": -11.362, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 44.538, 
+        "longitude": 43.360, 
+        "placetype": "Timezone", 
+        "iso": "KM", 
+        "date_indexed": "2010-12-02T17:06:00Z", 
+        "parent_woeid": 1, 
+        "latitude": -11.652, 
+        "sw_longitude": 43.216, 
+        "fullname": "Indian/Comoro", 
+        "sw_latitude": -12.414
+      }, 
+      "id": 28350929
+    }
+  ]
+}

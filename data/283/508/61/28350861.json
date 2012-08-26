@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              122.939, 
+              20.529
+            ], 
+            [
+              122.939, 
+              45.523
+            ], 
+            [
+              153.984, 
+              45.523
+            ], 
+            [
+              153.984, 
+              20.529
+            ], 
+            [
+              122.939, 
+              20.529
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350861, 
+        "name": "Asia/Tokyo", 
+        "ne_latitude": 45.523, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 153.984, 
+        "longitude": 139.838, 
+        "placetype": "Timezone", 
+        "iso": "JP", 
+        "date_indexed": "2010-12-02T08:41:47Z", 
+        "parent_woeid": 1, 
+        "latitude": 37.488, 
+        "sw_longitude": 122.939, 
+        "fullname": "Asia/Tokyo", 
+        "sw_latitude": 20.529
+      }, 
+      "id": 28350861
+    }
+  ]
+}

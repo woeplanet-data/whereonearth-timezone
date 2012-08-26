@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.473, 
+              7.441
+            ], 
+            [
+              13.473, 
+              23.450
+            ], 
+            [
+              24.003, 
+              23.450
+            ], 
+            [
+              24.003, 
+              7.441
+            ], 
+            [
+              13.473, 
+              7.441
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350722, 
+        "name": "Africa/Ndjamena", 
+        "ne_latitude": 23.450, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 24.003, 
+        "longitude": 18.738, 
+        "placetype": "Timezone", 
+        "iso": "TD", 
+        "date_indexed": "2010-12-02T08:53:23Z", 
+        "parent_woeid": 1, 
+        "latitude": 15.446, 
+        "sw_longitude": 13.473, 
+        "fullname": "Africa/Ndjamena", 
+        "sw_latitude": 7.441
+      }, 
+      "id": 28350722
+    }
+  ]
+}

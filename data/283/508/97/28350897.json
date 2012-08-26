@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.358, 
+              36.108
+            ], 
+            [
+              -5.358, 
+              36.156
+            ], 
+            [
+              -5.339, 
+              36.156
+            ], 
+            [
+              -5.339, 
+              36.108
+            ], 
+            [
+              -5.358, 
+              36.108
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350897, 
+        "name": "Europe/Gibraltar", 
+        "ne_latitude": 36.156, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -5.339, 
+        "longitude": -5.348, 
+        "placetype": "Timezone", 
+        "iso": "GI", 
+        "date_indexed": "2010-12-02T17:52:39Z", 
+        "parent_woeid": 1, 
+        "latitude": 36.132, 
+        "sw_longitude": -5.358, 
+        "fullname": "Europe/Gibraltar", 
+        "sw_latitude": 36.108
+      }, 
+      "id": 28350897
+    }
+  ]
+}

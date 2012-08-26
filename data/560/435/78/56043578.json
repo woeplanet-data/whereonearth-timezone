@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.986, 
+              -11.143
+            ], 
+            [
+              -73.986, 
+              -7.114
+            ], 
+            [
+              -66.618, 
+              -7.114
+            ], 
+            [
+              -66.618, 
+              -11.143
+            ], 
+            [
+              -73.986, 
+              -11.143
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043578, 
+        "name": "America/Rio_Branco", 
+        "ne_latitude": -7.114, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -66.618, 
+        "longitude": -70.302, 
+        "placetype": "Timezone", 
+        "iso": "BR", 
+        "date_indexed": "2010-12-02T18:03:30Z", 
+        "parent_woeid": 23424768, 
+        "latitude": -9.128, 
+        "sw_longitude": -73.986, 
+        "fullname": "America/Rio_Branco, Brazil", 
+        "sw_latitude": -11.143
+      }, 
+      "id": 56043578
+    }
+  ]
+}

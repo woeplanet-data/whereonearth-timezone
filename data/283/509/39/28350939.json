@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.475, 
+              -27.202
+            ], 
+            [
+              -109.475, 
+              -26.466
+            ], 
+            [
+              -105.466, 
+              -26.466
+            ], 
+            [
+              -105.466, 
+              -27.202
+            ], 
+            [
+              -109.475, 
+              -27.202
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350939, 
+        "name": "Pacific/Easter", 
+        "ne_latitude": -26.466, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -105.466, 
+        "longitude": -109.474, 
+        "placetype": "Timezone", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:51Z", 
+        "parent_woeid": 28358162, 
+        "latitude": -27.202, 
+        "sw_longitude": -109.475, 
+        "fullname": "Pacific/Easter, Chile", 
+        "sw_latitude": -27.202
+      }, 
+      "id": 28350939
+    }
+  ]
+}

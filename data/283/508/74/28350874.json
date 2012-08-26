@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -38.241, 
+              -59.450
+            ], 
+            [
+              -38.241, 
+              -53.970
+            ], 
+            [
+              -26.332, 
+              -53.970
+            ], 
+            [
+              -26.332, 
+              -59.450
+            ], 
+            [
+              -38.241, 
+              -59.450
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350874, 
+        "name": "Atlantic/South_Georgia", 
+        "ne_latitude": -53.970, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -26.332, 
+        "longitude": -36.498, 
+        "placetype": "Timezone", 
+        "iso": "GS", 
+        "date_indexed": "2010-12-02T08:50:01Z", 
+        "parent_woeid": 1, 
+        "latitude": -54.428, 
+        "sw_longitude": -38.241, 
+        "fullname": "Atlantic/South_Georgia", 
+        "sw_latitude": -59.450
+      }, 
+      "id": 28350874
+    }
+  ]
+}

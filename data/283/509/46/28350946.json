@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -148.715, 
+              -23.334
+            ], 
+            [
+              -148.715, 
+              -14.092
+            ], 
+            [
+              -134.483, 
+              -14.092
+            ], 
+            [
+              -134.483, 
+              -23.334
+            ], 
+            [
+              -148.715, 
+              -23.334
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350946, 
+        "name": "Pacific/Gambier", 
+        "ne_latitude": -14.092, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -134.483, 
+        "longitude": -140.635, 
+        "placetype": "Timezone", 
+        "iso": "PF", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "parent_woeid": 23424817, 
+        "latitude": -21.688, 
+        "sw_longitude": -148.715, 
+        "fullname": "Pacific/Gambier, French Polynesia", 
+        "sw_latitude": -23.334
+      }, 
+      "id": 28350946
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              176.065, 
+              -10.750
+            ], 
+            [
+              176.065, 
+              -5.642
+            ], 
+            [
+              179.884, 
+              -5.642
+            ], 
+            [
+              179.884, 
+              -10.750
+            ], 
+            [
+              176.065, 
+              -10.750
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350944, 
+        "name": "Pacific/Funafuti", 
+        "ne_latitude": -5.642, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 179.884, 
+        "longitude": 178.691, 
+        "placetype": "Timezone", 
+        "iso": "TV", 
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "parent_woeid": 1, 
+        "latitude": -7.472, 
+        "sw_longitude": 176.065, 
+        "fullname": "Pacific/Funafuti", 
+        "sw_latitude": -10.750
+      }, 
+      "id": 28350944
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              41.816, 
+              12.111
+            ], 
+            [
+              41.816, 
+              19.000
+            ], 
+            [
+              54.531, 
+              19.000
+            ], 
+            [
+              54.531, 
+              12.111
+            ], 
+            [
+              41.816, 
+              12.111
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350806, 
+        "name": "Asia/Aden", 
+        "ne_latitude": 19.000, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 54.531, 
+        "longitude": 47.790, 
+        "placetype": "Timezone", 
+        "iso": "YE", 
+        "date_indexed": "2010-12-02T16:39:41Z", 
+        "parent_woeid": 1, 
+        "latitude": 15.796, 
+        "sw_longitude": 41.816, 
+        "fullname": "Asia/Aden", 
+        "sw_latitude": 12.111
+      }, 
+      "id": 28350806
+    }
+  ]
+}

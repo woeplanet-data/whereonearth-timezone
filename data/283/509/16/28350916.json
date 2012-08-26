@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              22.357, 
+              41.236
+            ], 
+            [
+              22.357, 
+              44.227
+            ], 
+            [
+              28.609, 
+              44.227
+            ], 
+            [
+              28.609, 
+              41.236
+            ], 
+            [
+              22.357, 
+              41.236
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350916, 
+        "name": "Europe/Sofia", 
+        "ne_latitude": 44.227, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 28.609, 
+        "longitude": 25.483, 
+        "placetype": "Timezone", 
+        "iso": "BG", 
+        "date_indexed": "2010-12-02T16:15:11Z", 
+        "parent_woeid": 1, 
+        "latitude": 42.732, 
+        "sw_longitude": 22.357, 
+        "fullname": "Europe/Sofia", 
+        "sw_latitude": 41.236
+      }, 
+      "id": 28350916
+    }
+  ]
+}

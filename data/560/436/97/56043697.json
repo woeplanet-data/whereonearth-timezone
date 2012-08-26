@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.706, 
+              41.720
+            ], 
+            [
+              -90.706, 
+              56.852
+            ], 
+            [
+              -74.343, 
+              56.852
+            ], 
+            [
+              -74.343, 
+              41.720
+            ], 
+            [
+              -90.706, 
+              41.720
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043697, 
+        "name": "America/Toronto", 
+        "ne_latitude": 56.852, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -74.343, 
+        "longitude": -86.417, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 2344922, 
+        "latitude": 53.980, 
+        "sw_longitude": -90.706, 
+        "fullname": "America/Toronto, Canada", 
+        "sw_latitude": 41.720
+      }, 
+      "id": 56043697
+    }
+  ]
+}

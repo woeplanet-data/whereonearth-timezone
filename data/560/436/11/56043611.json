@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              157.634, 
+              61.801
+            ], 
+            [
+              157.634, 
+              71.612
+            ], 
+            [
+              -169.002, 
+              71.612
+            ], 
+            [
+              -169.002, 
+              61.801
+            ], 
+            [
+              157.634, 
+              61.801
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043611, 
+        "name": "Asia/Anadyr", 
+        "ne_latitude": 71.612, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -169.002, 
+        "longitude": 178.150, 
+        "placetype": "Timezone", 
+        "iso": "RU", 
+        "date_indexed": "2010-12-02T16:11:11Z", 
+        "parent_woeid": 23424936, 
+        "latitude": 68.068, 
+        "sw_longitude": 157.634, 
+        "fullname": "Asia/Anadyr, Russia", 
+        "sw_latitude": 61.801
+      }, 
+      "id": 56043611
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              136.083, 
+              14.107
+            ], 
+            [
+              136.083, 
+              20.417
+            ], 
+            [
+              146.081, 
+              20.417
+            ], 
+            [
+              146.081, 
+              14.107
+            ], 
+            [
+              136.083, 
+              14.107
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350965, 
+        "name": "Pacific/Saipan", 
+        "ne_latitude": 20.417, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 146.081, 
+        "longitude": 145.765, 
+        "placetype": "Timezone", 
+        "iso": "MP", 
+        "date_indexed": "2010-12-02T12:08:44Z", 
+        "parent_woeid": 1, 
+        "latitude": 15.193, 
+        "sw_longitude": 136.083, 
+        "fullname": "Pacific/Saipan", 
+        "sw_latitude": 14.107
+      }, 
+      "id": 28350965
+    }
+  ]
+}

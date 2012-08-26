@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              162.901, 
+              5.260
+            ], 
+            [
+              162.901, 
+              5.371
+            ], 
+            [
+              163.035, 
+              5.371
+            ], 
+            [
+              163.035, 
+              5.260
+            ], 
+            [
+              162.901, 
+              5.260
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043583, 
+        "name": "Pacific/Kosrae", 
+        "ne_latitude": 5.371, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 163.035, 
+        "longitude": 162.970, 
+        "placetype": "Timezone", 
+        "iso": "FM", 
+        "date_indexed": "2010-12-02T16:11:23Z", 
+        "parent_woeid": 23424815, 
+        "latitude": 5.318, 
+        "sw_longitude": 162.901, 
+        "fullname": "Pacific/Kosrae, Federated States of Micronesia", 
+        "sw_latitude": 5.260
+      }, 
+      "id": 56043583
+    }
+  ]
+}

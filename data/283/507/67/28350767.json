@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -78.367, 
+              16.950
+            ], 
+            [
+              -78.367, 
+              18.527
+            ], 
+            [
+              -75.983, 
+              18.527
+            ], 
+            [
+              -75.983, 
+              16.950
+            ], 
+            [
+              -78.367, 
+              16.950
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350767, 
+        "name": "America/Jamaica", 
+        "ne_latitude": 18.527, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -75.983, 
+        "longitude": -77.273, 
+        "placetype": "Timezone", 
+        "iso": "JM", 
+        "date_indexed": "2010-12-02T08:59:07Z", 
+        "parent_woeid": 1, 
+        "latitude": 18.115, 
+        "sw_longitude": -78.367, 
+        "fullname": "America/Jamaica", 
+        "sw_latitude": 16.950
+      }, 
+      "id": 28350767
+    }
+  ]
+}

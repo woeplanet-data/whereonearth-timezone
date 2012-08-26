@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              103.618, 
+              1.116
+            ], 
+            [
+              103.618, 
+              1.471
+            ], 
+            [
+              104.408, 
+              1.471
+            ], 
+            [
+              104.408, 
+              1.116
+            ], 
+            [
+              103.618, 
+              1.116
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350856, 
+        "name": "Asia/Singapore", 
+        "ne_latitude": 1.471, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 104.408, 
+        "longitude": 103.828, 
+        "placetype": "Timezone", 
+        "iso": "SG", 
+        "date_indexed": "2010-12-02T08:53:28Z", 
+        "parent_woeid": 1, 
+        "latitude": 1.366, 
+        "sw_longitude": 103.618, 
+        "fullname": "Asia/Singapore", 
+        "sw_latitude": 1.116
+      }, 
+      "id": 28350856
+    }
+  ]
+}

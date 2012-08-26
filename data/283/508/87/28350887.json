@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.414, 
+              42.429
+            ], 
+            [
+              1.414, 
+              42.656
+            ], 
+            [
+              1.787, 
+              42.656
+            ], 
+            [
+              1.787, 
+              42.429
+            ], 
+            [
+              1.414, 
+              42.429
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350887, 
+        "name": "Europe/Andorra", 
+        "ne_latitude": 42.656, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.787, 
+        "longitude": 1.591, 
+        "placetype": "Timezone", 
+        "iso": "AD", 
+        "date_indexed": "2010-12-02T07:50:33Z", 
+        "parent_woeid": 1, 
+        "latitude": 42.530, 
+        "sw_longitude": 1.414, 
+        "fullname": "Europe/Andorra", 
+        "sw_latitude": 42.429
+      }, 
+      "id": 28350887
+    }
+  ]
+}

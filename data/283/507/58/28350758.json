@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.484, 
+              21.170
+            ], 
+            [
+              -72.484, 
+              21.974
+            ], 
+            [
+              -71.080, 
+              21.974
+            ], 
+            [
+              -71.080, 
+              21.170
+            ], 
+            [
+              -72.484, 
+              21.170
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350758, 
+        "name": "America/Grand_Turk", 
+        "ne_latitude": 21.974, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -71.080, 
+        "longitude": -71.745, 
+        "placetype": "Timezone", 
+        "iso": "TC", 
+        "date_indexed": "2010-12-02T07:50:42Z", 
+        "parent_woeid": 1, 
+        "latitude": 21.797, 
+        "sw_longitude": -72.484, 
+        "fullname": "America/Grand_Turk", 
+        "sw_latitude": 21.170
+      }, 
+      "id": 28350758
+    }
+  ]
+}

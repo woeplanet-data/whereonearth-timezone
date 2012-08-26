@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              16.468, 
+              -34.834
+            ], 
+            [
+              16.468, 
+              -22.125
+            ], 
+            [
+              32.892, 
+              -22.125
+            ], 
+            [
+              32.892, 
+              -34.834
+            ], 
+            [
+              16.468, 
+              -34.834
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350704, 
+        "name": "Africa/Johannesburg", 
+        "ne_latitude": -22.125, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 32.892, 
+        "longitude": 24.680, 
+        "placetype": "Timezone", 
+        "iso": "ZA", 
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "parent_woeid": 1, 
+        "latitude": -28.479, 
+        "sw_longitude": 16.468, 
+        "fullname": "Africa/Johannesburg", 
+        "sw_latitude": -34.834
+      }, 
+      "id": 28350704
+    }
+  ]
+}

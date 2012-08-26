@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              72.616, 
+              -2.900
+            ], 
+            [
+              72.616, 
+              7.117
+            ], 
+            [
+              73.767, 
+              7.117
+            ], 
+            [
+              73.767, 
+              -2.900
+            ], 
+            [
+              72.616, 
+              -2.900
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350932, 
+        "name": "Indian/Maldives", 
+        "ne_latitude": 7.117, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 73.767, 
+        "longitude": 73.155, 
+        "placetype": "Timezone", 
+        "iso": "MV", 
+        "date_indexed": "2010-12-02T09:35:37Z", 
+        "parent_woeid": 1, 
+        "latitude": 6.758, 
+        "sw_longitude": 72.616, 
+        "fullname": "Indian/Maldives", 
+        "sw_latitude": -2.900
+      }, 
+      "id": 28350932
+    }
+  ]
+}

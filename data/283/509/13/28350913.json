@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              20.968, 
+              55.675
+            ], 
+            [
+              20.968, 
+              58.086
+            ], 
+            [
+              28.244, 
+              58.086
+            ], 
+            [
+              28.244, 
+              55.675
+            ], 
+            [
+              20.968, 
+              55.675
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350913, 
+        "name": "Europe/Riga", 
+        "ne_latitude": 58.086, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 28.244, 
+        "longitude": 24.606, 
+        "placetype": "Timezone", 
+        "iso": "LV", 
+        "date_indexed": "2010-12-02T08:50:01Z", 
+        "parent_woeid": 1, 
+        "latitude": 56.880, 
+        "sw_longitude": 20.968, 
+        "fullname": "Europe/Riga", 
+        "sw_latitude": 55.675
+      }, 
+      "id": 28350913
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.396, 
+              1.175
+            ], 
+            [
+              -61.396, 
+              8.558
+            ], 
+            [
+              -56.480, 
+              8.558
+            ], 
+            [
+              -56.480, 
+              1.175
+            ], 
+            [
+              -61.396, 
+              1.175
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350763, 
+        "name": "America/Guyana", 
+        "ne_latitude": 8.558, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -56.480, 
+        "longitude": -58.938, 
+        "placetype": "Timezone", 
+        "iso": "GY", 
+        "date_indexed": "2010-12-02T16:33:25Z", 
+        "parent_woeid": 1, 
+        "latitude": 4.866, 
+        "sw_longitude": -61.396, 
+        "fullname": "America/Guyana", 
+        "sw_latitude": 1.175
+      }, 
+      "id": 28350763
+    }
+  ]
+}

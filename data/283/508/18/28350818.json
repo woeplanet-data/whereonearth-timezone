@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              68.136, 
+              6.738
+            ], 
+            [
+              68.136, 
+              36.266
+            ], 
+            [
+              97.411, 
+              36.266
+            ], 
+            [
+              97.411, 
+              6.738
+            ], 
+            [
+              68.136, 
+              6.738
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350818, 
+        "name": "Asia/Kolkata", 
+        "alias_ENG_V": [
+          "Asia/Calcutta"
+        ], 
+        "ne_latitude": 36.266, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 97.411, 
+        "longitude": 82.774, 
+        "placetype": "Timezone", 
+        "iso": "IN", 
+        "date_indexed": "2010-12-02T09:31:04Z", 
+        "parent_woeid": 1, 
+        "latitude": 22.172, 
+        "sw_longitude": 68.136, 
+        "fullname": "Asia/Kolkata", 
+        "sw_latitude": 6.738
+      }, 
+      "id": 28350818
+    }
+  ]
+}

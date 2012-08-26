@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.141, 
+              41.334
+            ], 
+            [
+              -5.141, 
+              51.089
+            ], 
+            [
+              9.559, 
+              51.089
+            ], 
+            [
+              9.559, 
+              41.334
+            ], 
+            [
+              -5.141, 
+              41.334
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 28350911, 
+        "name": "Europe/Paris", 
+        "ne_latitude": 51.089, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.559, 
+        "longitude": 1.718, 
+        "placetype": "Timezone", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:07:02Z", 
+        "parent_woeid": 1, 
+        "latitude": 46.711, 
+        "sw_longitude": -5.141, 
+        "fullname": "Europe/Paris", 
+        "sw_latitude": 41.334
+      }, 
+      "id": 28350911
+    }
+  ]
+}

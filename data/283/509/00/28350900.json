@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              19.645, 
+              54.317
+            ], 
+            [
+              19.645, 
+              55.291
+            ], 
+            [
+              22.893, 
+              55.291
+            ], 
+            [
+              22.893, 
+              54.317
+            ], 
+            [
+              19.645, 
+              54.317
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350900, 
+        "name": "Europe/Kaliningrad", 
+        "ne_latitude": 55.291, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 22.893, 
+        "longitude": 21.345, 
+        "placetype": "Timezone", 
+        "iso": "RU", 
+        "date_indexed": "2010-12-02T16:11:11Z", 
+        "parent_woeid": 23424936, 
+        "latitude": 54.804, 
+        "sw_longitude": 19.645, 
+        "fullname": "Europe/Kaliningrad, Russia", 
+        "sw_latitude": 54.317
+      }, 
+      "id": 28350900
+    }
+  ]
+}

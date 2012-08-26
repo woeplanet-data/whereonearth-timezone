@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -115.053, 
+              26.297
+            ], 
+            [
+              -115.053, 
+              32.494
+            ], 
+            [
+              -108.424, 
+              32.494
+            ], 
+            [
+              -108.424, 
+              26.297
+            ], 
+            [
+              -115.053, 
+              26.297
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350766, 
+        "name": "America/Hermosillo", 
+        "ne_latitude": 32.494, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -108.424, 
+        "longitude": -111.738, 
+        "placetype": "Timezone", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T17:02:03Z", 
+        "parent_woeid": 23424900, 
+        "latitude": 29.395, 
+        "sw_longitude": -115.053, 
+        "fullname": "America/Hermosillo, Mexico", 
+        "sw_latitude": 26.297
+      }, 
+      "id": 28350766
+    }
+  ]
+}

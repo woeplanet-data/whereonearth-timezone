@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              97.358, 
+              20.907
+            ], 
+            [
+              97.358, 
+              39.619
+            ], 
+            [
+              112.049, 
+              39.619
+            ], 
+            [
+              112.049, 
+              20.907
+            ], 
+            [
+              97.358, 
+              20.907
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043593, 
+        "name": "Asia/Chongqing", 
+        "ne_latitude": 39.619, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 112.049, 
+        "longitude": 104.704, 
+        "placetype": "Timezone", 
+        "iso": "CN", 
+        "date_indexed": "2010-12-02T08:52:12Z", 
+        "parent_woeid": 23424781, 
+        "latitude": 30.379, 
+        "sw_longitude": 97.358, 
+        "fullname": "Asia/Chongqing, China", 
+        "sw_latitude": 20.907
+      }, 
+      "id": 56043593
+    }
+  ]
+}

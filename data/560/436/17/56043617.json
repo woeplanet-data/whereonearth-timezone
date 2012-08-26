@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              22.137, 
+              47.897
+            ], 
+            [
+              22.137, 
+              49.097
+            ], 
+            [
+              24.626, 
+              49.097
+            ], 
+            [
+              24.626, 
+              47.897
+            ], 
+            [
+              22.137, 
+              47.897
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043617, 
+        "name": "Europe/Uzhgorod", 
+        "ne_latitude": 49.097, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 24.626, 
+        "longitude": 23.128, 
+        "placetype": "Timezone", 
+        "iso": "UA", 
+        "date_indexed": "2010-12-02T08:52:39Z", 
+        "parent_woeid": 23424976, 
+        "latitude": 48.180, 
+        "sw_longitude": 22.137, 
+        "fullname": "Europe/Uzhgorod, Ukraine", 
+        "sw_latitude": 47.897
+      }, 
+      "id": 56043617
+    }
+  ]
+}

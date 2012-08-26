@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.956, 
+              45.818
+            ], 
+            [
+              5.956, 
+              47.808
+            ], 
+            [
+              10.492, 
+              47.808
+            ], 
+            [
+              10.492, 
+              45.818
+            ], 
+            [
+              5.956, 
+              45.818
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350924, 
+        "name": "Europe/Zurich", 
+        "ne_latitude": 47.808, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.492, 
+        "longitude": 8.224, 
+        "placetype": "Timezone", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:21:22Z", 
+        "parent_woeid": 1, 
+        "latitude": 46.813, 
+        "sw_longitude": 5.956, 
+        "fullname": "Europe/Zurich", 
+        "sw_latitude": 45.818
+      }, 
+      "id": 28350924
+    }
+  ]
+}

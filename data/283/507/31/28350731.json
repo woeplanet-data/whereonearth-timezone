@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -179.147, 
+              51.215
+            ], 
+            [
+              -179.147, 
+              54.300
+            ], 
+            [
+              -164.765, 
+              54.300
+            ], 
+            [
+              -164.765, 
+              51.215
+            ], 
+            [
+              -179.147, 
+              51.215
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350731, 
+        "name": "America/Adak", 
+        "ne_latitude": 54.300, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -164.765, 
+        "longitude": -166.967, 
+        "placetype": "Timezone", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
+        "parent_woeid": 23424977, 
+        "latitude": 53.629, 
+        "sw_longitude": -179.147, 
+        "fullname": "America/Adak, United States", 
+        "sw_latitude": 51.215
+      }, 
+      "id": 28350731
+    }
+  ]
+}

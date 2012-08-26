@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              21.839, 
+              3.486
+            ], 
+            [
+              21.839, 
+              23.147
+            ], 
+            [
+              38.834, 
+              23.147
+            ], 
+            [
+              38.834, 
+              3.486
+            ], 
+            [
+              21.839, 
+              3.486
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350706, 
+        "name": "Africa/Khartoum", 
+        "ne_latitude": 23.147, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 38.834, 
+        "longitude": 30.209, 
+        "placetype": "Timezone", 
+        "iso": "SD", 
+        "date_indexed": "2010-12-02T08:51:00Z", 
+        "parent_woeid": 1, 
+        "latitude": 13.317, 
+        "sw_longitude": 21.839, 
+        "fullname": "Africa/Khartoum", 
+        "sw_latitude": 3.486
+      }, 
+      "id": 28350706
+    }
+  ]
+}

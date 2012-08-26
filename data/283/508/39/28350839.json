@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              46.558, 
+              28.525
+            ], 
+            [
+              46.558, 
+              30.104
+            ], 
+            [
+              48.784, 
+              30.104
+            ], 
+            [
+              48.784, 
+              28.525
+            ], 
+            [
+              46.558, 
+              28.525
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350839, 
+        "name": "Asia/Kuwait", 
+        "ne_latitude": 30.104, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 48.784, 
+        "longitude": 47.494, 
+        "placetype": "Timezone", 
+        "iso": "KW", 
+        "date_indexed": "2010-12-02T08:53:01Z", 
+        "parent_woeid": 1, 
+        "latitude": 29.314, 
+        "sw_longitude": 46.558, 
+        "fullname": "Asia/Kuwait", 
+        "sw_latitude": 28.525
+      }, 
+      "id": 28350839
+    }
+  ]
+}

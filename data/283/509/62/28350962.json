@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              157.148, 
+              5.777
+            ], 
+            [
+              157.148, 
+              9.796
+            ], 
+            [
+              160.992, 
+              9.796
+            ], 
+            [
+              160.992, 
+              5.777
+            ], 
+            [
+              157.148, 
+              5.777
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350962, 
+        "name": "Pacific/Ponape", 
+        "ne_latitude": 9.796, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 160.992, 
+        "longitude": 158.223, 
+        "placetype": "Timezone", 
+        "iso": "FM", 
+        "date_indexed": "2010-12-02T16:11:23Z", 
+        "parent_woeid": 23424815, 
+        "latitude": 6.885, 
+        "sw_longitude": 157.148, 
+        "fullname": "Pacific/Ponape, Federated States of Micronesia", 
+        "sw_latitude": 5.777
+      }, 
+      "id": 28350962
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              127.773, 
+              42.284
+            ], 
+            [
+              127.773, 
+              76.300
+            ], 
+            [
+              150.984, 
+              76.300
+            ], 
+            [
+              150.984, 
+              42.284
+            ], 
+            [
+              127.773, 
+              42.284
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043609, 
+        "name": "Asia/Vladivostok", 
+        "ne_latitude": 76.300, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 150.984, 
+        "longitude": 137.287, 
+        "placetype": "Timezone", 
+        "iso": "RU", 
+        "date_indexed": "2010-12-02T16:11:11Z", 
+        "parent_woeid": 23424936, 
+        "latitude": 57.583, 
+        "sw_longitude": 127.773, 
+        "fullname": "Asia/Vladivostok, Russia", 
+        "sw_latitude": 42.284
+      }, 
+      "id": 56043609
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              102.340, 
+              9.283
+            ], 
+            [
+              102.340, 
+              14.686
+            ], 
+            [
+              107.628, 
+              14.686
+            ], 
+            [
+              107.628, 
+              9.283
+            ], 
+            [
+              102.340, 
+              9.283
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350847, 
+        "name": "Asia/Phnom_Penh", 
+        "ne_latitude": 14.686, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 107.628, 
+        "longitude": 104.984, 
+        "placetype": "Timezone", 
+        "iso": "KH", 
+        "date_indexed": "2010-12-02T16:11:23Z", 
+        "parent_woeid": 1, 
+        "latitude": 12.548, 
+        "sw_longitude": 102.340, 
+        "fullname": "Asia/Phnom_Penh", 
+        "sw_latitude": 9.283
+      }, 
+      "id": 28350847
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.484, 
+              15.202
+            ], 
+            [
+              -61.484, 
+              15.632
+            ], 
+            [
+              -61.244, 
+              15.632
+            ], 
+            [
+              -61.244, 
+              15.202
+            ], 
+            [
+              -61.484, 
+              15.202
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350753, 
+        "name": "America/Dominica", 
+        "ne_latitude": 15.632, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -61.244, 
+        "longitude": -61.364, 
+        "placetype": "Timezone", 
+        "iso": "DM", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "parent_woeid": 1, 
+        "latitude": 15.417, 
+        "sw_longitude": -61.484, 
+        "fullname": "America/Dominica", 
+        "sw_latitude": 15.202
+      }, 
+      "id": 28350753
+    }
+  ]
+}

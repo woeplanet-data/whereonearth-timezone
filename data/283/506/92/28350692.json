@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              28.993, 
+              -4.466
+            ], 
+            [
+              28.993, 
+              -2.310
+            ], 
+            [
+              30.848, 
+              -2.310
+            ], 
+            [
+              30.848, 
+              -4.466
+            ], 
+            [
+              28.993, 
+              -4.466
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350692, 
+        "name": "Africa/Bujumbura", 
+        "ne_latitude": -2.310, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 30.848, 
+        "longitude": 29.920, 
+        "placetype": "Timezone", 
+        "iso": "BI", 
+        "date_indexed": "2010-12-02T08:58:52Z", 
+        "parent_woeid": 1, 
+        "latitude": -3.388, 
+        "sw_longitude": 28.993, 
+        "fullname": "Africa/Bujumbura", 
+        "sw_latitude": -4.466
+      }, 
+      "id": 28350692
+    }
+  ]
+}

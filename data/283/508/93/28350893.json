@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              16.113, 
+              45.737
+            ], 
+            [
+              16.113, 
+              48.585
+            ], 
+            [
+              22.897, 
+              48.585
+            ], 
+            [
+              22.897, 
+              45.737
+            ], 
+            [
+              16.113, 
+              45.737
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350893, 
+        "name": "Europe/Budapest", 
+        "ne_latitude": 48.585, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 22.897, 
+        "longitude": 19.505, 
+        "placetype": "Timezone", 
+        "iso": "HU", 
+        "date_indexed": "2010-12-02T09:56:41Z", 
+        "parent_woeid": 1, 
+        "latitude": 47.161, 
+        "sw_longitude": 16.113, 
+        "fullname": "Europe/Budapest", 
+        "sw_latitude": 45.737
+      }, 
+      "id": 28350893
+    }
+  ]
+}

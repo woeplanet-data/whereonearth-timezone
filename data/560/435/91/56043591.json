@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              166.818, 
+              8.712
+            ], 
+            [
+              166.818, 
+              9.403
+            ], 
+            [
+              167.776, 
+              9.403
+            ], 
+            [
+              167.776, 
+              8.712
+            ], 
+            [
+              166.818, 
+              8.712
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043591, 
+        "name": "Pacific/Kwajalein", 
+        "ne_latitude": 9.403, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 167.776, 
+        "longitude": 167.485, 
+        "placetype": "Timezone", 
+        "iso": "MH", 
+        "date_indexed": "2010-12-02T09:35:37Z", 
+        "parent_woeid": 23424932, 
+        "latitude": 9.392, 
+        "sw_longitude": 166.818, 
+        "fullname": "Pacific/Kwajalein, Marshall Islands", 
+        "sw_latitude": 8.712
+      }, 
+      "id": 56043591
+    }
+  ]
+}

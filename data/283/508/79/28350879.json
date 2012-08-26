@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              128.802, 
+              -25.999
+            ], 
+            [
+              128.802, 
+              -10.786
+            ], 
+            [
+              138.202, 
+              -10.786
+            ], 
+            [
+              138.202, 
+              -25.999
+            ], 
+            [
+              128.802, 
+              -25.999
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350879, 
+        "name": "Australia/Darwin", 
+        "ne_latitude": -10.786, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 138.202, 
+        "longitude": 133.502, 
+        "placetype": "Timezone", 
+        "iso": "AU", 
+        "date_indexed": "2010-12-02T17:47:57Z", 
+        "parent_woeid": 23424748, 
+        "latitude": -18.392, 
+        "sw_longitude": 128.802, 
+        "fullname": "Australia/Darwin, Australia", 
+        "sw_latitude": -25.999
+      }, 
+      "id": 28350879
+    }
+  ]
+}

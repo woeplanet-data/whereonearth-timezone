@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.546, 
+              49.497
+            ], 
+            [
+              2.546, 
+              51.505
+            ], 
+            [
+              6.408, 
+              51.505
+            ], 
+            [
+              6.408, 
+              49.497
+            ], 
+            [
+              2.546, 
+              49.497
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350891, 
+        "name": "Europe/Brussels", 
+        "ne_latitude": 51.505, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.408, 
+        "longitude": 4.477, 
+        "placetype": "Timezone", 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:39Z", 
+        "parent_woeid": 1, 
+        "latitude": 50.501, 
+        "sw_longitude": 2.546, 
+        "fullname": "Europe/Brussels", 
+        "sw_latitude": 49.497
+      }, 
+      "id": 28350891
+    }
+  ]
+}

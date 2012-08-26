@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              41.773, 
+              10.910
+            ], 
+            [
+              41.773, 
+              12.707
+            ], 
+            [
+              43.450, 
+              12.707
+            ], 
+            [
+              43.450, 
+              10.910
+            ], 
+            [
+              41.773, 
+              10.910
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350698, 
+        "name": "Africa/Djibouti", 
+        "ne_latitude": 12.707, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 43.450, 
+        "longitude": 42.595, 
+        "placetype": "Timezone", 
+        "iso": "DJ", 
+        "date_indexed": "2010-12-02T16:14:08Z", 
+        "parent_woeid": 1, 
+        "latitude": 11.808, 
+        "sw_longitude": 41.773, 
+        "fullname": "Africa/Djibouti", 
+        "sw_latitude": 10.910
+      }, 
+      "id": 28350698
+    }
+  ]
+}

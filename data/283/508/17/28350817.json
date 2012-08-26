@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              114.081, 
+              4.022
+            ], 
+            [
+              114.081, 
+              5.047
+            ], 
+            [
+              115.362, 
+              5.047
+            ], 
+            [
+              115.362, 
+              4.022
+            ], 
+            [
+              114.081, 
+              4.022
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350817, 
+        "name": "Asia/Brunei", 
+        "ne_latitude": 5.047, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 115.362, 
+        "longitude": 114.604, 
+        "placetype": "Timezone", 
+        "iso": "BN", 
+        "date_indexed": "2010-12-02T17:58:12Z", 
+        "parent_woeid": 1, 
+        "latitude": 4.535, 
+        "sw_longitude": 114.081, 
+        "fullname": "Asia/Brunei", 
+        "sw_latitude": 4.022
+      }, 
+      "id": 28350817
+    }
+  ]
+}

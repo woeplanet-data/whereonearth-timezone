@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -160.778, 
+              -11.437
+            ], 
+            [
+              -160.778, 
+              4.720
+            ], 
+            [
+              -150.208, 
+              4.720
+            ], 
+            [
+              -150.208, 
+              -11.437
+            ], 
+            [
+              -160.778, 
+              -11.437
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350951, 
+        "name": "Pacific/Kiritimati", 
+        "ne_latitude": 4.720, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -150.208, 
+        "longitude": -157.663, 
+        "placetype": "Timezone", 
+        "iso": "KI", 
+        "date_indexed": "2010-12-02T17:42:25Z", 
+        "parent_woeid": 23424867, 
+        "latitude": 1.881, 
+        "sw_longitude": -160.778, 
+        "fullname": "Pacific/Kiritimati, Kiribati", 
+        "sw_latitude": -11.437
+      }, 
+      "id": 28350951
+    }
+  ]
+}

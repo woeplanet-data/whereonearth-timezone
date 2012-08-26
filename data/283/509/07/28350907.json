@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              23.179, 
+              51.256
+            ], 
+            [
+              23.179, 
+              56.166
+            ], 
+            [
+              32.771, 
+              56.166
+            ], 
+            [
+              32.771, 
+              51.256
+            ], 
+            [
+              23.179, 
+              51.256
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350907, 
+        "name": "Europe/Minsk", 
+        "ne_latitude": 56.166, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 32.771, 
+        "longitude": 27.975, 
+        "placetype": "Timezone", 
+        "iso": "BY", 
+        "date_indexed": "2010-12-02T16:33:06Z", 
+        "parent_woeid": 1, 
+        "latitude": 53.711, 
+        "sw_longitude": 23.179, 
+        "fullname": "Europe/Minsk", 
+        "sw_latitude": 51.256
+      }, 
+      "id": 28350907
+    }
+  ]
+}

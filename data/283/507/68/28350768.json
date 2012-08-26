@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -69.641, 
+              -22.896
+            ], 
+            [
+              -69.641, 
+              -9.681
+            ], 
+            [
+              -57.458, 
+              -9.681
+            ], 
+            [
+              -57.458, 
+              -22.896
+            ], 
+            [
+              -69.641, 
+              -22.896
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350768, 
+        "name": "America/La_Paz", 
+        "ne_latitude": -9.681, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -57.458, 
+        "longitude": -63.549, 
+        "placetype": "Timezone", 
+        "iso": "BO", 
+        "date_indexed": "2010-12-02T17:57:50Z", 
+        "parent_woeid": 1, 
+        "latitude": -16.288, 
+        "sw_longitude": -69.641, 
+        "fullname": "America/La_Paz", 
+        "sw_latitude": -22.896
+      }, 
+      "id": 28350768
+    }
+  ]
+}

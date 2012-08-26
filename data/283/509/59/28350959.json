@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -171.092, 
+              -14.382
+            ], 
+            [
+              -171.092, 
+              -11.050
+            ], 
+            [
+              -169.416, 
+              -11.050
+            ], 
+            [
+              -169.416, 
+              -14.382
+            ], 
+            [
+              -171.092, 
+              -14.382
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350959, 
+        "name": "Pacific/Pago_Pago", 
+        "ne_latitude": -11.050, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -169.416, 
+        "longitude": -170.702, 
+        "placetype": "Timezone", 
+        "iso": "AS", 
+        "date_indexed": "2010-12-02T17:40:22Z", 
+        "parent_woeid": 1, 
+        "latitude": -14.310, 
+        "sw_longitude": -171.092, 
+        "fullname": "Pacific/Pago_Pago", 
+        "sw_latitude": -14.382
+      }, 
+      "id": 28350959
+    }
+  ]
+}

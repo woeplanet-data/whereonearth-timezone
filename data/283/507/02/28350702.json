@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              20.000, 
+              -26.907
+            ], 
+            [
+              20.000, 
+              -17.781
+            ], 
+            [
+              29.361, 
+              -17.781
+            ], 
+            [
+              29.361, 
+              -26.907
+            ], 
+            [
+              20.000, 
+              -26.907
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350702, 
+        "name": "Africa/Gaborone", 
+        "ne_latitude": -17.781, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 29.361, 
+        "longitude": 24.680, 
+        "placetype": "Timezone", 
+        "iso": "BW", 
+        "date_indexed": "2010-12-02T10:22:50Z", 
+        "parent_woeid": 1, 
+        "latitude": -22.344, 
+        "sw_longitude": 20.000, 
+        "fullname": "Africa/Gaborone", 
+        "sw_latitude": -26.907
+      }, 
+      "id": 28350702
+    }
+  ]
+}

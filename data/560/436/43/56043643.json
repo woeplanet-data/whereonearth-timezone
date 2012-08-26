@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              55.997, 
+              37.184
+            ], 
+            [
+              55.997, 
+              45.605
+            ], 
+            [
+              68.668, 
+              45.605
+            ], 
+            [
+              68.668, 
+              37.184
+            ], 
+            [
+              55.997, 
+              37.184
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043643, 
+        "name": "Asia/Samarkand", 
+        "ne_latitude": 45.605, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 68.668, 
+        "longitude": 64.564, 
+        "placetype": "Timezone", 
+        "iso": "UZ", 
+        "date_indexed": "2010-12-02T18:18:54Z", 
+        "parent_woeid": 23424980, 
+        "latitude": 41.395, 
+        "sw_longitude": 55.997, 
+        "fullname": "Asia/Samarkand, Uzbekistan", 
+        "sw_latitude": 37.184
+      }, 
+      "id": 56043643
+    }
+  ]
+}

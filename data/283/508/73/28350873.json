@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -24.547, 
+              63.287
+            ], 
+            [
+              -24.547, 
+              67.117
+            ], 
+            [
+              -13.232, 
+              67.117
+            ], 
+            [
+              -13.232, 
+              63.287
+            ], 
+            [
+              -24.547, 
+              63.287
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350873, 
+        "name": "Atlantic/Reykjavik", 
+        "ne_latitude": 67.117, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -13.232, 
+        "longitude": -19.021, 
+        "placetype": "Timezone", 
+        "iso": "JM", 
+        "date_indexed": "2010-12-02T09:55:38Z", 
+        "parent_woeid": 1, 
+        "latitude": 64.964, 
+        "sw_longitude": -24.547, 
+        "fullname": "Atlantic/Reykjavik", 
+        "sw_latitude": 63.287
+      }, 
+      "id": 28350873
+    }
+  ]
+}

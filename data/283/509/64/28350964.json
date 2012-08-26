@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -165.858, 
+              -21.944
+            ], 
+            [
+              -165.858, 
+              -8.944
+            ], 
+            [
+              -157.312, 
+              -8.944
+            ], 
+            [
+              -157.312, 
+              -21.944
+            ], 
+            [
+              -165.858, 
+              -21.944
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350964, 
+        "name": "Pacific/Rarotonga", 
+        "ne_latitude": -8.944, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -157.312, 
+        "longitude": -159.771, 
+        "placetype": "Timezone", 
+        "iso": "CK", 
+        "date_indexed": "2010-12-02T17:57:50Z", 
+        "parent_woeid": 1, 
+        "latitude": -21.227, 
+        "sw_longitude": -165.858, 
+        "fullname": "Pacific/Rarotonga", 
+        "sw_latitude": -21.944
+      }, 
+      "id": 28350964
+    }
+  ]
+}

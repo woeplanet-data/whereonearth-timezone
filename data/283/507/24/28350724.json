@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -17.067, 
+              14.716
+            ], 
+            [
+              -17.067, 
+              27.298
+            ], 
+            [
+              -4.835, 
+              27.298
+            ], 
+            [
+              -4.835, 
+              14.716
+            ], 
+            [
+              -17.067, 
+              14.716
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350724, 
+        "name": "Africa/Nouakchott", 
+        "ne_latitude": 27.298, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -4.835, 
+        "longitude": -10.951, 
+        "placetype": "Timezone", 
+        "iso": "MR", 
+        "date_indexed": "2010-12-02T16:11:57Z", 
+        "parent_woeid": 1, 
+        "latitude": 21.007, 
+        "sw_longitude": -17.067, 
+        "fullname": "Africa/Nouakchott", 
+        "sw_latitude": 14.716
+      }, 
+      "id": 28350724
+    }
+  ]
+}

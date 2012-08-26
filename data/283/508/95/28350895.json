@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.074, 
+              54.559
+            ], 
+            [
+              8.074, 
+              57.751
+            ], 
+            [
+              15.193, 
+              57.751
+            ], 
+            [
+              15.193, 
+              54.559
+            ], 
+            [
+              8.074, 
+              54.559
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350895, 
+        "name": "Europe/Copenhagen", 
+        "ne_latitude": 57.751, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.193, 
+        "longitude": 9.517, 
+        "placetype": "Timezone", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:13:39Z", 
+        "parent_woeid": 1, 
+        "latitude": 56.276, 
+        "sw_longitude": 8.074, 
+        "fullname": "Europe/Copenhagen", 
+        "sw_latitude": 54.559
+      }, 
+      "id": 28350895
+    }
+  ]
+}

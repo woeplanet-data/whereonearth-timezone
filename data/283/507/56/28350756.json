@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.900, 
+              59.777
+            ], 
+            [
+              -72.900, 
+              83.627
+            ], 
+            [
+              -11.312, 
+              83.627
+            ], 
+            [
+              -11.312, 
+              59.777
+            ], 
+            [
+              -72.900, 
+              59.777
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350756, 
+        "name": "America/Godthab", 
+        "ne_latitude": 83.627, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -11.312, 
+        "longitude": -39.749, 
+        "placetype": "Timezone", 
+        "iso": "GL", 
+        "date_indexed": "2010-12-02T17:40:36Z", 
+        "parent_woeid": 23424828, 
+        "latitude": 71.802, 
+        "sw_longitude": -72.900, 
+        "fullname": "America/Godthab, Greenland", 
+        "sw_latitude": 59.777
+      }, 
+      "id": 28350756
+    }
+  ]
+}

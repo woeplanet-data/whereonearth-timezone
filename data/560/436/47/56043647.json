@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.417, 
+              36.497
+            ], 
+            [
+              -89.417, 
+              39.148
+            ], 
+            [
+              -81.965, 
+              39.148
+            ], 
+            [
+              -81.965, 
+              36.497
+            ], 
+            [
+              -89.417, 
+              36.497
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043647, 
+        "name": "America/Kentucky/Louisville", 
+        "ne_latitude": 39.148, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -81.965, 
+        "longitude": -85.651, 
+        "placetype": "Timezone", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
+        "parent_woeid": 23424977, 
+        "latitude": 37.884, 
+        "sw_longitude": -89.417, 
+        "fullname": "America/Kentucky/Louisville, United States", 
+        "sw_latitude": 36.497
+      }, 
+      "id": 56043647
+    }
+  ]
+}

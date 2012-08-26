@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              88.760, 
+              26.707
+            ], 
+            [
+              88.760, 
+              28.323
+            ], 
+            [
+              92.125, 
+              28.323
+            ], 
+            [
+              92.125, 
+              26.707
+            ], 
+            [
+              88.760, 
+              26.707
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350860, 
+        "name": "Asia/Thimphu", 
+        "ne_latitude": 28.323, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 92.125, 
+        "longitude": 90.442, 
+        "placetype": "Timezone", 
+        "iso": "BT", 
+        "date_indexed": "2010-12-02T17:56:39Z", 
+        "parent_woeid": 1, 
+        "latitude": 27.515, 
+        "sw_longitude": 88.760, 
+        "fullname": "Asia/Thimphu", 
+        "sw_latitude": 26.707
+      }, 
+      "id": 28350860
+    }
+  ]
+}

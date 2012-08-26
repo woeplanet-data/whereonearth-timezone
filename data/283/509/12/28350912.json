@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.091, 
+              47.728
+            ], 
+            [
+              12.091, 
+              51.056
+            ], 
+            [
+              22.568, 
+              51.056
+            ], 
+            [
+              22.568, 
+              47.728
+            ], 
+            [
+              12.091, 
+              47.728
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350912, 
+        "name": "Europe/Prague", 
+        "ne_latitude": 51.056, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 22.568, 
+        "longitude": 17.330, 
+        "placetype": "Timezone", 
+        "iso": "ZZ", 
+        "date_indexed": "2010-12-02T16:31:49Z", 
+        "parent_woeid": 1, 
+        "latitude": 49.392, 
+        "sw_longitude": 12.091, 
+        "fullname": "Europe/Prague", 
+        "sw_latitude": 47.728
+      }, 
+      "id": 28350912
+    }
+  ]
+}

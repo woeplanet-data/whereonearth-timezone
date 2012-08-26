@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -86.681, 
+              38.105
+            ], 
+            [
+              -86.681, 
+              38.423
+            ], 
+            [
+              -86.246, 
+              38.423
+            ], 
+            [
+              -86.246, 
+              38.105
+            ], 
+            [
+              -86.681, 
+              38.105
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043652, 
+        "name": "America/Indiana/Marengo", 
+        "ne_latitude": 38.423, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -86.246, 
+        "longitude": -86.356, 
+        "placetype": "Timezone", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
+        "parent_woeid": 23424977, 
+        "latitude": 38.291, 
+        "sw_longitude": -86.681, 
+        "fullname": "America/Indiana/Marengo, United States", 
+        "sw_latitude": 38.105
+      }, 
+      "id": 56043652
+    }
+  ]
+}

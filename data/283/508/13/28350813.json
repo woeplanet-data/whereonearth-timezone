@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              44.772, 
+              38.397
+            ], 
+            [
+              44.772, 
+              41.906
+            ], 
+            [
+              50.608, 
+              41.906
+            ], 
+            [
+              50.608, 
+              38.397
+            ], 
+            [
+              44.772, 
+              38.397
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350813, 
+        "name": "Asia/Baku", 
+        "ne_latitude": 41.906, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 50.608, 
+        "longitude": 47.687, 
+        "placetype": "Timezone", 
+        "iso": "AZ", 
+        "date_indexed": "2010-12-02T08:58:35Z", 
+        "parent_woeid": 1, 
+        "latitude": 40.151, 
+        "sw_longitude": 44.772, 
+        "fullname": "Asia/Baku", 
+        "sw_latitude": 38.397
+      }, 
+      "id": 28350813
+    }
+  ]
+}

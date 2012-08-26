@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.786, 
+              -56.534
+            ], 
+            [
+              -80.786, 
+              -17.508
+            ], 
+            [
+              -66.418, 
+              -17.508
+            ], 
+            [
+              -66.418, 
+              -56.534
+            ], 
+            [
+              -80.786, 
+              -56.534
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350790, 
+        "name": "America/Santiago", 
+        "ne_latitude": -17.508, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -66.418, 
+        "longitude": -71.341, 
+        "placetype": "Timezone", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:51Z", 
+        "parent_woeid": 23424782, 
+        "latitude": -35.705, 
+        "sw_longitude": -80.786, 
+        "fullname": "America/Santiago", 
+        "sw_latitude": -56.534
+      }, 
+      "id": 28350790
+    }
+  ]
+}

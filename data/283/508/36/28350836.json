@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              80.056, 
+              26.357
+            ], 
+            [
+              80.056, 
+              30.433
+            ], 
+            [
+              88.199, 
+              30.433
+            ], 
+            [
+              88.199, 
+              26.357
+            ], 
+            [
+              80.056, 
+              26.357
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350836, 
+        "name": "Asia/Kathmandu", 
+        "ne_latitude": 30.433, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 88.199, 
+        "longitude": 84.128, 
+        "placetype": "Timezone", 
+        "iso": "NP", 
+        "date_indexed": "2010-12-02T18:18:47Z", 
+        "parent_woeid": 1, 
+        "latitude": 28.395, 
+        "sw_longitude": 80.056, 
+        "fullname": "Asia/Kathmandu", 
+        "sw_latitude": 26.357
+      }, 
+      "id": 28350836
+    }
+  ]
+}

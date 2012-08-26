@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -85.064, 
+              36.603
+            ], 
+            [
+              -85.064, 
+              36.998
+            ], 
+            [
+              -84.572, 
+              36.998
+            ], 
+            [
+              -84.572, 
+              36.603
+            ], 
+            [
+              -85.064, 
+              36.603
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043646, 
+        "name": "America/Kentucky/Monticello", 
+        "ne_latitude": 36.998, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -84.572, 
+        "longitude": -84.745, 
+        "placetype": "Timezone", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
+        "parent_woeid": 23424977, 
+        "latitude": 36.782, 
+        "sw_longitude": -85.064, 
+        "fullname": "America/Kentucky/Monticello, United States", 
+        "sw_latitude": 36.603
+      }, 
+      "id": 56043646
+    }
+  ]
+}

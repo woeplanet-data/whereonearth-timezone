@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              67.387, 
+              36.674
+            ], 
+            [
+              67.387, 
+              41.042
+            ], 
+            [
+              75.137, 
+              41.042
+            ], 
+            [
+              75.137, 
+              36.674
+            ], 
+            [
+              67.387, 
+              36.674
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350825, 
+        "name": "Asia/Dushanbe", 
+        "ne_latitude": 41.042, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 75.137, 
+        "longitude": 71.262, 
+        "placetype": "Timezone", 
+        "iso": "TJ", 
+        "date_indexed": "2010-12-02T12:16:45Z", 
+        "parent_woeid": 1, 
+        "latitude": 38.858, 
+        "sw_longitude": 67.387, 
+        "fullname": "Asia/Dushanbe", 
+        "sw_latitude": 36.674
+      }, 
+      "id": 28350825
+    }
+  ]
+}

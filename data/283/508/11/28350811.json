@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              38.804, 
+              29.103
+            ], 
+            [
+              38.804, 
+              37.378
+            ], 
+            [
+              48.576, 
+              37.378
+            ], 
+            [
+              48.576, 
+              29.103
+            ], 
+            [
+              38.804, 
+              29.103
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350811, 
+        "name": "Asia/Baghdad", 
+        "ne_latitude": 37.378, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 48.576, 
+        "longitude": 43.690, 
+        "placetype": "Timezone", 
+        "iso": "IQ", 
+        "date_indexed": "2010-12-02T16:42:58Z", 
+        "parent_woeid": 1, 
+        "latitude": 33.241, 
+        "sw_longitude": 38.804, 
+        "fullname": "Asia/Baghdad", 
+        "sw_latitude": 29.103
+      }, 
+      "id": 28350811
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.957, 
+              19.828
+            ], 
+            [
+              -84.957, 
+              23.284
+            ], 
+            [
+              -74.132, 
+              23.284
+            ], 
+            [
+              -74.132, 
+              19.828
+            ], 
+            [
+              -84.957, 
+              19.828
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350765, 
+        "name": "America/Havana", 
+        "ne_latitude": 23.284, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -74.132, 
+        "longitude": -77.807, 
+        "placetype": "Timezone", 
+        "iso": "CU", 
+        "date_indexed": "2010-12-02T08:58:58Z", 
+        "parent_woeid": 1, 
+        "latitude": 21.511, 
+        "sw_longitude": -84.957, 
+        "fullname": "America/Havana", 
+        "sw_latitude": 19.828
+      }, 
+      "id": 28350765
+    }
+  ]
+}

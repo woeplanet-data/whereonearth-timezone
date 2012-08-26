@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.207, 
+              -8.129
+            ], 
+            [
+              12.207, 
+              5.146
+            ], 
+            [
+              24.404, 
+              5.146
+            ], 
+            [
+              24.404, 
+              -8.129
+            ], 
+            [
+              12.207, 
+              -8.129
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350708, 
+        "name": "Africa/Kinshasa", 
+        "ne_latitude": 5.146, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 24.404, 
+        "longitude": 18.305, 
+        "placetype": "Timezone", 
+        "iso": "CD", 
+        "date_indexed": "2010-12-02T16:33:25Z", 
+        "parent_woeid": 23424780, 
+        "latitude": -1.492, 
+        "sw_longitude": 12.207, 
+        "fullname": "Africa/Kinshasa, Democratic Republic of Congo", 
+        "sw_latitude": -8.129
+      }, 
+      "id": 28350708
+    }
+  ]
+}

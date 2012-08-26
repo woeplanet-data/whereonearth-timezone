@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -176.213, 
+              -22.346
+            ], 
+            [
+              -176.213, 
+              -15.553
+            ], 
+            [
+              -173.702, 
+              -15.553
+            ], 
+            [
+              -173.702, 
+              -22.346
+            ], 
+            [
+              -176.213, 
+              -22.346
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350968, 
+        "name": "Pacific/Tongatapu", 
+        "ne_latitude": -15.553, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -173.702, 
+        "longitude": -175.196, 
+        "placetype": "Timezone", 
+        "iso": "TO", 
+        "date_indexed": "2010-12-02T17:58:27Z", 
+        "parent_woeid": 1, 
+        "latitude": -21.168, 
+        "sw_longitude": -176.213, 
+        "fullname": "Pacific/Tongatapu", 
+        "sw_latitude": -22.346
+      }, 
+      "id": 28350968
+    }
+  ]
+}

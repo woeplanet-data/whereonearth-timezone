@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -67.224, 
+              -24.613
+            ], 
+            [
+              -67.224, 
+              -21.778
+            ], 
+            [
+              -64.155, 
+              -21.778
+            ], 
+            [
+              -64.155, 
+              -24.613
+            ], 
+            [
+              -67.224, 
+              -24.613
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043542, 
+        "name": "America/Argentina/Jujuy", 
+        "ne_latitude": -21.778, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -64.155, 
+        "longitude": -65.690, 
+        "placetype": "Timezone", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "parent_woeid": 23424747, 
+        "latitude": -23.196, 
+        "sw_longitude": -67.224, 
+        "fullname": "America/Argentina/Jujuy, Argentina", 
+        "sw_latitude": -24.613
+      }, 
+      "id": 56043542
+    }
+  ]
+}

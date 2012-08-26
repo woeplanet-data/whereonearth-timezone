@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -83.051, 
+              7.198
+            ], 
+            [
+              -83.051, 
+              9.650
+            ], 
+            [
+              -77.174, 
+              9.650
+            ], 
+            [
+              -77.174, 
+              7.198
+            ], 
+            [
+              -83.051, 
+              7.198
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350782, 
+        "name": "America/Panama", 
+        "ne_latitude": 9.650, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -77.174, 
+        "longitude": -80.113, 
+        "placetype": "Timezone", 
+        "iso": "PA", 
+        "date_indexed": "2010-12-02T17:52:39Z", 
+        "parent_woeid": 1, 
+        "latitude": 8.418, 
+        "sw_longitude": -83.051, 
+        "fullname": "America/Panama", 
+        "sw_latitude": 7.198
+      }, 
+      "id": 28350782
+    }
+  ]
+}

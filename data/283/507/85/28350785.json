@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.479, 
+              18.021
+            ], 
+            [
+              -74.479, 
+              20.088
+            ], 
+            [
+              -71.613, 
+              20.088
+            ], 
+            [
+              -71.613, 
+              18.021
+            ], 
+            [
+              -74.479, 
+              18.021
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350785, 
+        "name": "America/Port-au-Prince", 
+        "ne_latitude": 20.088, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -71.613, 
+        "longitude": -72.292, 
+        "placetype": "Timezone", 
+        "iso": "HT", 
+        "date_indexed": "2010-12-02T17:52:14Z", 
+        "parent_woeid": 1, 
+        "latitude": 18.986, 
+        "sw_longitude": -74.479, 
+        "fullname": "America/Port-au-Prince", 
+        "sw_latitude": 18.021
+      }, 
+      "id": 28350785
+    }
+  ]
+}

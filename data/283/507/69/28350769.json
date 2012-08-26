@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -81.327, 
+              -18.350
+            ], 
+            [
+              -81.327, 
+              -0.013
+            ], 
+            [
+              -68.678, 
+              -0.013
+            ], 
+            [
+              -68.678, 
+              -18.350
+            ], 
+            [
+              -81.327, 
+              -18.350
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350769, 
+        "name": "America/Lima", 
+        "ne_latitude": -0.013, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -68.678, 
+        "longitude": -75.002, 
+        "placetype": "Timezone", 
+        "iso": "PE", 
+        "date_indexed": "2010-12-02T16:12:16Z", 
+        "parent_woeid": 1, 
+        "latitude": -9.181, 
+        "sw_longitude": -81.327, 
+        "fullname": "America/Lima", 
+        "sw_latitude": -18.350
+      }, 
+      "id": 28350769
+    }
+  ]
+}

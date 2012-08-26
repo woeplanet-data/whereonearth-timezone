@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.225, 
+              15.889
+            ], 
+            [
+              -89.225, 
+              18.497
+            ], 
+            [
+              -87.468, 
+              18.497
+            ], 
+            [
+              -87.468, 
+              15.889
+            ], 
+            [
+              -89.225, 
+              15.889
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350740, 
+        "name": "America/Belize", 
+        "ne_latitude": 18.497, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -87.468, 
+        "longitude": -88.653, 
+        "placetype": "Timezone", 
+        "iso": "BZ", 
+        "date_indexed": "2010-12-02T16:14:08Z", 
+        "parent_woeid": 1, 
+        "latitude": 17.193, 
+        "sw_longitude": -89.225, 
+        "fullname": "America/Belize", 
+        "sw_latitude": 15.889
+      }, 
+      "id": 28350740
+    }
+  ]
+}

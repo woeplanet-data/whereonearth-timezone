@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              21.772, 
+              57.509
+            ], 
+            [
+              21.772, 
+              59.686
+            ], 
+            [
+              28.210, 
+              59.686
+            ], 
+            [
+              28.210, 
+              57.509
+            ], 
+            [
+              21.772, 
+              57.509
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350918, 
+        "name": "Europe/Tallinn", 
+        "ne_latitude": 59.686, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 28.210, 
+        "longitude": 25.807, 
+        "placetype": "Timezone", 
+        "iso": "EE", 
+        "date_indexed": "2010-12-02T16:43:41Z", 
+        "parent_woeid": 1, 
+        "latitude": 58.592, 
+        "sw_longitude": 21.772, 
+        "fullname": "Europe/Tallinn", 
+        "sw_latitude": 57.509
+      }, 
+      "id": 28350918
+    }
+  ]
+}

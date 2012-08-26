@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              25.664, 
+              35.810
+            ], 
+            [
+              25.664, 
+              42.105
+            ], 
+            [
+              44.830, 
+              42.105
+            ], 
+            [
+              44.830, 
+              35.810
+            ], 
+            [
+              25.664, 
+              35.810
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350899, 
+        "name": "Europe/Istanbul", 
+        "ne_latitude": 42.105, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 44.830, 
+        "longitude": 35.432, 
+        "placetype": "Timezone", 
+        "iso": "TR", 
+        "date_indexed": "2010-12-02T16:24:07Z", 
+        "parent_woeid": 1, 
+        "latitude": 38.958, 
+        "sw_longitude": 25.664, 
+        "fullname": "Europe/Istanbul", 
+        "sw_latitude": 35.810
+      }, 
+      "id": 28350899
+    }
+  ]
+}

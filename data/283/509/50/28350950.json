@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -178.315, 
+              0.194
+            ], 
+            [
+              -178.315, 
+              28.398
+            ], 
+            [
+              -161.881, 
+              28.398
+            ], 
+            [
+              -161.881, 
+              0.194
+            ], 
+            [
+              -178.315, 
+              0.194
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350950, 
+        "name": "Pacific/Johnston", 
+        "ne_latitude": 28.398, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -161.881, 
+        "longitude": -162.436, 
+        "placetype": "Timezone", 
+        "iso": "UM", 
+        "date_indexed": "2010-12-02T16:52:36Z", 
+        "parent_woeid": 28289407, 
+        "latitude": 5.875, 
+        "sw_longitude": -178.315, 
+        "fullname": "Pacific/Johnston, United States Minor Outlying Islands", 
+        "sw_latitude": 0.194
+      }, 
+      "id": 28350950
+    }
+  ]
+}

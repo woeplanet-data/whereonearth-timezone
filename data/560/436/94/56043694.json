@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -66.338, 
+              64.427
+            ], 
+            [
+              -66.338, 
+              66.844
+            ], 
+            [
+              -62.069, 
+              66.844
+            ], 
+            [
+              -62.069, 
+              64.427
+            ], 
+            [
+              -66.338, 
+              64.427
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043694, 
+        "name": "America/Pangnirtung", 
+        "ne_latitude": 66.844, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -62.069, 
+        "longitude": -64.204, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 20069920, 
+        "latitude": 65.636, 
+        "sw_longitude": -66.338, 
+        "fullname": "America/Pangnirtung, Canada", 
+        "sw_latitude": 64.427
+      }, 
+      "id": 56043694
+    }
+  ]
+}

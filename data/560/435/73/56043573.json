@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -46.629, 
+              -18.842
+            ], 
+            [
+              -46.629, 
+              -8.532
+            ], 
+            [
+              -36.705, 
+              -8.532
+            ], 
+            [
+              -36.705, 
+              -18.842
+            ], 
+            [
+              -46.629, 
+              -18.842
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043573, 
+        "name": "America/Bahia", 
+        "ne_latitude": -8.532, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -36.705, 
+        "longitude": -41.746, 
+        "placetype": "Timezone", 
+        "iso": "BR", 
+        "date_indexed": "2010-12-02T18:03:30Z", 
+        "parent_woeid": 23424768, 
+        "latitude": -13.687, 
+        "sw_longitude": -46.629, 
+        "fullname": "America/Bahia, Brazil", 
+        "sw_latitude": -18.842
+      }, 
+      "id": 56043573
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.924, 
+              10.036
+            ], 
+            [
+              -61.924, 
+              11.350
+            ], 
+            [
+              -60.490, 
+              11.350
+            ], 
+            [
+              -60.490, 
+              10.036
+            ], 
+            [
+              -61.924, 
+              10.036
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350786, 
+        "name": "America/Port_of_Spain", 
+        "ne_latitude": 11.350, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -60.490, 
+        "longitude": -61.417, 
+        "placetype": "Timezone", 
+        "iso": "TT", 
+        "date_indexed": "2010-12-02T18:05:31Z", 
+        "parent_woeid": 1, 
+        "latitude": 10.438, 
+        "sw_longitude": -61.924, 
+        "fullname": "America/Port_of_Spain", 
+        "sw_latitude": 10.036
+      }, 
+      "id": 28350786
+    }
+  ]
+}

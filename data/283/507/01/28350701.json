@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -13.308, 
+              6.929
+            ], 
+            [
+              -13.308, 
+              10.000
+            ], 
+            [
+              -10.284, 
+              10.000
+            ], 
+            [
+              -10.284, 
+              6.929
+            ], 
+            [
+              -13.308, 
+              6.929
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350701, 
+        "name": "Africa/Freetown", 
+        "ne_latitude": 10.000, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -10.284, 
+        "longitude": -11.796, 
+        "placetype": "Timezone", 
+        "iso": "SL", 
+        "date_indexed": "2010-12-02T12:08:44Z", 
+        "parent_woeid": 1, 
+        "latitude": 8.465, 
+        "sw_longitude": -13.308, 
+        "fullname": "Africa/Freetown", 
+        "sw_latitude": 6.929
+      }, 
+      "id": 28350701
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.387, 
+              19.508
+            ], 
+            [
+              9.387, 
+              33.169
+            ], 
+            [
+              25.151, 
+              33.169
+            ], 
+            [
+              25.151, 
+              19.508
+            ], 
+            [
+              9.387, 
+              19.508
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350728, 
+        "name": "Africa/Tripoli", 
+        "ne_latitude": 33.169, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 25.151, 
+        "longitude": 17.269, 
+        "placetype": "Timezone", 
+        "iso": "LY", 
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "parent_woeid": 1, 
+        "latitude": 26.339, 
+        "sw_longitude": 9.387, 
+        "fullname": "Africa/Tripoli", 
+        "sw_latitude": 19.508
+      }, 
+      "id": 28350728
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -139.057, 
+              48.226
+            ], 
+            [
+              -139.057, 
+              60.000
+            ], 
+            [
+              -116.026, 
+              60.000
+            ], 
+            [
+              -116.026, 
+              48.226
+            ], 
+            [
+              -139.057, 
+              48.226
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043690, 
+        "name": "America/Vancouver", 
+        "ne_latitude": 60.000, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -116.026, 
+        "longitude": -127.541, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 2344916, 
+        "latitude": 54.113, 
+        "sw_longitude": -139.057, 
+        "fullname": "America/Vancouver, Canada", 
+        "sw_latitude": 48.226
+      }, 
+      "id": 56043690
+    }
+  ]
+}

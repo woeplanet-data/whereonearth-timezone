@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              75.760, 
+              49.757
+            ], 
+            [
+              75.760, 
+              82.500
+            ], 
+            [
+              113.920, 
+              82.500
+            ], 
+            [
+              113.920, 
+              49.757
+            ], 
+            [
+              75.760, 
+              49.757
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350837, 
+        "name": "Asia/Krasnoyarsk", 
+        "ne_latitude": 82.500, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 113.920, 
+        "longitude": 94.840, 
+        "placetype": "Timezone", 
+        "iso": "RU", 
+        "date_indexed": "2010-12-02T16:11:11Z", 
+        "parent_woeid": 23424936, 
+        "latitude": 63.745, 
+        "sw_longitude": 75.760, 
+        "fullname": "Asia/Krasnoyarsk, Russia", 
+        "sw_latitude": 49.757
+      }, 
+      "id": 28350837
+    }
+  ]
+}

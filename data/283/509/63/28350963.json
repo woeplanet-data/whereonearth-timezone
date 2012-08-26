@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              140.843, 
+              -11.658
+            ], 
+            [
+              140.843, 
+              -0.866
+            ], 
+            [
+              159.484, 
+              -0.866
+            ], 
+            [
+              159.484, 
+              -11.658
+            ], 
+            [
+              140.843, 
+              -11.658
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350963, 
+        "name": "Pacific/Port_Moresby", 
+        "ne_latitude": -0.866, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 159.484, 
+        "longitude": 145.859, 
+        "placetype": "Timezone", 
+        "iso": "PG", 
+        "date_indexed": "2010-12-02T09:57:34Z", 
+        "parent_woeid": 1, 
+        "latitude": -6.656, 
+        "sw_longitude": 140.843, 
+        "fullname": "Pacific/Port_Moresby", 
+        "sw_latitude": -11.658
+      }, 
+      "id": 28350963
+    }
+  ]
+}

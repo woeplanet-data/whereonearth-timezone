@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -66.162, 
+              -28.003
+            ], 
+            [
+              -66.162, 
+              -26.058
+            ], 
+            [
+              -64.478, 
+              -26.058
+            ], 
+            [
+              -64.478, 
+              -28.003
+            ], 
+            [
+              -66.162, 
+              -28.003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043549, 
+        "name": "America/Argentina/Tucuman", 
+        "ne_latitude": -26.058, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -64.478, 
+        "longitude": -65.320, 
+        "placetype": "Timezone", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "parent_woeid": 23424747, 
+        "latitude": -27.031, 
+        "sw_longitude": -66.162, 
+        "fullname": "America/Argentina/Tucuman, Argentina", 
+        "sw_latitude": -28.003
+      }, 
+      "id": 56043549
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -29.806, 
+              70.035
+            ], 
+            [
+              -29.806, 
+              75.424
+            ], 
+            [
+              -17.321, 
+              75.424
+            ], 
+            [
+              -17.321, 
+              70.035
+            ], 
+            [
+              -29.806, 
+              70.035
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350793, 
+        "name": "America/Scoresbysund", 
+        "ne_latitude": 75.424, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -17.321, 
+        "longitude": -24.392, 
+        "placetype": "Timezone", 
+        "iso": "GL", 
+        "date_indexed": "2010-12-02T17:40:36Z", 
+        "parent_woeid": 20069859, 
+        "latitude": 72.657, 
+        "sw_longitude": -29.806, 
+        "fullname": "America/Scoresbysund, Greenland", 
+        "sw_latitude": 70.035
+      }, 
+      "id": 28350793
+    }
+  ]
+}

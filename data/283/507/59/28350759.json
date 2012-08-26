@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.800, 
+              11.983
+            ], 
+            [
+              -61.800, 
+              12.541
+            ], 
+            [
+              -61.376, 
+              12.541
+            ], 
+            [
+              -61.376, 
+              11.983
+            ], 
+            [
+              -61.800, 
+              11.983
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350759, 
+        "name": "America/Grenada", 
+        "ne_latitude": 12.541, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -61.376, 
+        "longitude": -61.699, 
+        "placetype": "Timezone", 
+        "iso": "GD", 
+        "date_indexed": "2010-12-02T17:52:39Z", 
+        "parent_woeid": 1, 
+        "latitude": 12.113, 
+        "sw_longitude": -61.800, 
+        "fullname": "America/Grenada", 
+        "sw_latitude": 11.983
+      }, 
+      "id": 28350759
+    }
+  ]
+}

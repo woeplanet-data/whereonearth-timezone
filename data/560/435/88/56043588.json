@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              46.492, 
+              48.161
+            ], 
+            [
+              46.492, 
+              51.767
+            ], 
+            [
+              54.676, 
+              51.767
+            ], 
+            [
+              54.676, 
+              48.161
+            ], 
+            [
+              46.492, 
+              48.161
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043588, 
+        "name": "Asia/Oral", 
+        "ne_latitude": 51.767, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 54.676, 
+        "longitude": 50.584, 
+        "placetype": "Timezone", 
+        "iso": "KZ", 
+        "date_indexed": "2010-12-02T08:54:13Z", 
+        "parent_woeid": 23424871, 
+        "latitude": 49.964, 
+        "sw_longitude": 46.492, 
+        "fullname": "Asia/Oral, Kazakhstan", 
+        "sw_latitude": 48.161
+      }, 
+      "id": 56043588
+    }
+  ]
+}

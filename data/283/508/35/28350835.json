@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              60.879, 
+              23.787
+            ], 
+            [
+              60.879, 
+              37.097
+            ], 
+            [
+              77.841, 
+              37.097
+            ], 
+            [
+              77.841, 
+              23.787
+            ], 
+            [
+              60.879, 
+              23.787
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350835, 
+        "name": "Asia/Karachi", 
+        "ne_latitude": 37.097, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 77.841, 
+        "longitude": 69.360, 
+        "placetype": "Timezone", 
+        "iso": "PK", 
+        "date_indexed": "2010-12-02T17:57:12Z", 
+        "parent_woeid": 1, 
+        "latitude": 30.442, 
+        "sw_longitude": 60.879, 
+        "fullname": "Asia/Karachi", 
+        "sw_latitude": 23.787
+      }, 
+      "id": 28350835
+    }
+  ]
+}

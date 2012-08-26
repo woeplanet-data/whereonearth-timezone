@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -173.126, 
+              56.537
+            ], 
+            [
+              -173.126, 
+              71.390
+            ], 
+            [
+              -154.090, 
+              71.390
+            ], 
+            [
+              -154.090, 
+              56.537
+            ], 
+            [
+              -173.126, 
+              56.537
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043670, 
+        "name": "America/Nome", 
+        "ne_latitude": 71.390, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -154.090, 
+        "longitude": -161.112, 
+        "placetype": "Timezone", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
+        "parent_woeid": 23424977, 
+        "latitude": 64.970, 
+        "sw_longitude": -173.126, 
+        "fullname": "America/Nome, United States", 
+        "sw_latitude": 56.537
+      }, 
+      "id": 56043670
+    }
+  ]
+}

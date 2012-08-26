@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              140.824, 
+              -39.204
+            ], 
+            [
+              140.824, 
+              -33.981
+            ], 
+            [
+              150.246, 
+              -33.981
+            ], 
+            [
+              150.246, 
+              -39.204
+            ], 
+            [
+              140.824, 
+              -39.204
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350883, 
+        "name": "Australia/Melbourne", 
+        "ne_latitude": -33.981, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 150.246, 
+        "longitude": 145.535, 
+        "placetype": "Timezone", 
+        "iso": "AU", 
+        "date_indexed": "2010-12-02T17:47:57Z", 
+        "parent_woeid": 23424748, 
+        "latitude": -36.592, 
+        "sw_longitude": 140.824, 
+        "fullname": "Australia/Melbourne, Australia", 
+        "sw_latitude": -39.204
+      }, 
+      "id": 28350883
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              96.821, 
+              -12.200
+            ], 
+            [
+              96.821, 
+              -11.804
+            ], 
+            [
+              96.936, 
+              -11.804
+            ], 
+            [
+              96.936, 
+              -12.200
+            ], 
+            [
+              96.821, 
+              -12.200
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350928, 
+        "name": "Indian/Cocos", 
+        "ne_latitude": -11.804, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 96.936, 
+        "longitude": 96.835, 
+        "placetype": "Timezone", 
+        "iso": "CC", 
+        "date_indexed": "2010-12-02T12:15:51Z", 
+        "parent_woeid": 1, 
+        "latitude": -12.149, 
+        "sw_longitude": 96.821, 
+        "fullname": "Indian/Cocos", 
+        "sw_latitude": -12.200
+      }, 
+      "id": 28350928
+    }
+  ]
+}

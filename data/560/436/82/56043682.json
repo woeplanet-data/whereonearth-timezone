@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -59.575, 
+              46.504
+            ], 
+            [
+              -59.575, 
+              52.721
+            ], 
+            [
+              -52.478, 
+              52.721
+            ], 
+            [
+              -52.478, 
+              46.504
+            ], 
+            [
+              -59.575, 
+              46.504
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043682, 
+        "name": "America/St_Johns", 
+        "ne_latitude": 52.721, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -52.478, 
+        "longitude": -56.026, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 2344919, 
+        "latitude": 49.613, 
+        "sw_longitude": -59.575, 
+        "fullname": "America/St_Johns, Canada", 
+        "sw_latitude": 46.504
+      }, 
+      "id": 56043682
+    }
+  ]
+}

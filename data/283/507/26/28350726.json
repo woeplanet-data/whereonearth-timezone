@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.775, 
+              6.226
+            ], 
+            [
+              0.775, 
+              12.418
+            ], 
+            [
+              3.852, 
+              12.418
+            ], 
+            [
+              3.852, 
+              6.226
+            ], 
+            [
+              0.775, 
+              6.226
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350726, 
+        "name": "Africa/Porto-Novo", 
+        "ne_latitude": 12.418, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.852, 
+        "longitude": 2.313, 
+        "placetype": "Timezone", 
+        "iso": "BJ", 
+        "date_indexed": "2010-12-02T18:16:21Z", 
+        "parent_woeid": 1, 
+        "latitude": 9.322, 
+        "sw_longitude": 0.775, 
+        "fullname": "Africa/Porto-Novo", 
+        "sw_latitude": 6.226
+      }, 
+      "id": 28350726
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.374, 
+              0.744
+            ], 
+            [
+              -73.374, 
+              12.202
+            ], 
+            [
+              -59.804, 
+              12.202
+            ], 
+            [
+              -59.804, 
+              0.744
+            ], 
+            [
+              -73.374, 
+              0.744
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350743, 
+        "name": "America/Caracas", 
+        "ne_latitude": 12.202, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -59.804, 
+        "longitude": -66.589, 
+        "placetype": "Timezone", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:50Z", 
+        "parent_woeid": 1, 
+        "latitude": 6.473, 
+        "sw_longitude": -73.374, 
+        "fullname": "America/Caracas", 
+        "sw_latitude": 0.744
+      }, 
+      "id": 28350743
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              29.573, 
+              -1.484
+            ], 
+            [
+              29.573, 
+              4.214
+            ], 
+            [
+              35.036, 
+              4.214
+            ], 
+            [
+              35.036, 
+              -1.484
+            ], 
+            [
+              29.573, 
+              -1.484
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350705, 
+        "name": "Africa/Kampala", 
+        "ne_latitude": 4.214, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 35.036, 
+        "longitude": 32.305, 
+        "placetype": "Timezone", 
+        "iso": "UG", 
+        "date_indexed": "2010-12-02T10:22:43Z", 
+        "parent_woeid": 1, 
+        "latitude": 1.365, 
+        "sw_longitude": 29.573, 
+        "fullname": "Africa/Kampala", 
+        "sw_latitude": -1.484
+      }, 
+      "id": 28350705
+    }
+  ]
+}

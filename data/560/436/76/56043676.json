@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -126.380, 
+              64.195
+            ], 
+            [
+              -126.380, 
+              78.860
+            ], 
+            [
+              -99.826, 
+              78.860
+            ], 
+            [
+              -99.826, 
+              64.195
+            ], 
+            [
+              -126.380, 
+              64.195
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043676, 
+        "name": "America/Cambridge_Bay", 
+        "ne_latitude": 78.860, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -99.826, 
+        "longitude": -113.103, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 20069920, 
+        "latitude": 71.527, 
+        "sw_longitude": -126.380, 
+        "fullname": "America/Cambridge_Bay, Canada", 
+        "sw_latitude": 64.195
+      }, 
+      "id": 56043676
+    }
+  ]
+}

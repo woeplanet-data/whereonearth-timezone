@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              105.539, 
+              -10.576
+            ], 
+            [
+              105.539, 
+              -10.416
+            ], 
+            [
+              105.720, 
+              -10.416
+            ], 
+            [
+              105.720, 
+              -10.576
+            ], 
+            [
+              105.539, 
+              -10.576
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350927, 
+        "name": "Indian/Christmas", 
+        "ne_latitude": -10.416, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 105.720, 
+        "longitude": 105.629, 
+        "placetype": "Timezone", 
+        "iso": "CX", 
+        "date_indexed": "2010-12-02T17:40:29Z", 
+        "parent_woeid": 1, 
+        "latitude": -10.496, 
+        "sw_longitude": 105.539, 
+        "fullname": "Indian/Christmas", 
+        "sw_latitude": -10.576
+      }, 
+      "id": 28350927
+    }
+  ]
+}

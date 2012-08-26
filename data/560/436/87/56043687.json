@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.006, 
+              48.999
+            ], 
+            [
+              -110.006, 
+              60.000
+            ], 
+            [
+              -101.362, 
+              60.000
+            ], 
+            [
+              -101.362, 
+              48.999
+            ], 
+            [
+              -110.006, 
+              48.999
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043687, 
+        "name": "America/Regina", 
+        "ne_latitude": 60.000, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -101.362, 
+        "longitude": -105.684, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 2344925, 
+        "latitude": 54.499, 
+        "sw_longitude": -110.006, 
+        "fullname": "America/Regina, Canada", 
+        "sw_latitude": 48.999
+      }, 
+      "id": 56043687
+    }
+  ]
+}

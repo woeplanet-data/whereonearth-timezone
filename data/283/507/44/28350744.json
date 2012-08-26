@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -54.543, 
+              2.127
+            ], 
+            [
+              -54.543, 
+              5.776
+            ], 
+            [
+              -51.614, 
+              5.776
+            ], 
+            [
+              -51.614, 
+              2.127
+            ], 
+            [
+              -54.543, 
+              2.127
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350744, 
+        "name": "America/Cayenne", 
+        "ne_latitude": 5.776, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -51.614, 
+        "longitude": -53.078, 
+        "placetype": "Timezone", 
+        "iso": "GF", 
+        "date_indexed": "2010-12-02T08:59:14Z", 
+        "parent_woeid": 1, 
+        "latitude": 3.952, 
+        "sw_longitude": -54.543, 
+        "fullname": "America/Cayenne", 
+        "sw_latitude": 2.127
+      }, 
+      "id": 28350744
+    }
+  ]
+}

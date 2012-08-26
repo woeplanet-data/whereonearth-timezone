@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.736, 
+              49.448
+            ], 
+            [
+              5.736, 
+              50.183
+            ], 
+            [
+              6.531, 
+              50.183
+            ], 
+            [
+              6.531, 
+              49.448
+            ], 
+            [
+              5.736, 
+              49.448
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350904, 
+        "name": "Europe/Luxembourg", 
+        "ne_latitude": 50.183, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.531, 
+        "longitude": 6.133, 
+        "placetype": "Timezone", 
+        "iso": "LU", 
+        "date_indexed": "2010-12-02T08:54:43Z", 
+        "parent_woeid": 1, 
+        "latitude": 49.815, 
+        "sw_longitude": 5.736, 
+        "fullname": "Europe/Luxembourg", 
+        "sw_latitude": 49.448
+      }, 
+      "id": 28350904
+    }
+  ]
+}

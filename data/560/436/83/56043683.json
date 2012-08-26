@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -60.045, 
+              46.162
+            ], 
+            [
+              -60.045, 
+              46.229
+            ], 
+            [
+              -59.934, 
+              46.229
+            ], 
+            [
+              -59.934, 
+              46.162
+            ], 
+            [
+              -60.045, 
+              46.162
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043683, 
+        "name": "America/Glace_Bay", 
+        "ne_latitude": 46.229, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -59.934, 
+        "longitude": -59.958, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 29375130, 
+        "latitude": 46.184, 
+        "sw_longitude": -60.045, 
+        "fullname": "America/Glace_Bay, Canada", 
+        "sw_latitude": 46.162
+      }, 
+      "id": 56043683
+    }
+  ]
+}

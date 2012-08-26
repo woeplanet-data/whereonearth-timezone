@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.003, 
+              17.469
+            ], 
+            [
+              -72.003, 
+              19.930
+            ], 
+            [
+              -68.320, 
+              19.930
+            ], 
+            [
+              -68.320, 
+              17.469
+            ], 
+            [
+              -72.003, 
+              17.469
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350791, 
+        "name": "America/Santo_Domingo", 
+        "ne_latitude": 19.930, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -68.320, 
+        "longitude": -70.162, 
+        "placetype": "Timezone", 
+        "iso": "DO", 
+        "date_indexed": "2010-12-02T16:32:52Z", 
+        "parent_woeid": 1, 
+        "latitude": 18.768, 
+        "sw_longitude": -72.003, 
+        "fullname": "America/Santo_Domingo", 
+        "sw_latitude": 17.469
+      }, 
+      "id": 28350791
+    }
+  ]
+}

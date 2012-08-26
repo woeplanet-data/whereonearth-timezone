@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.690, 
+              10.708
+            ], 
+            [
+              -87.690, 
+              15.026
+            ], 
+            [
+              -82.592, 
+              15.026
+            ], 
+            [
+              -82.592, 
+              10.708
+            ], 
+            [
+              -87.690, 
+              10.708
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350771, 
+        "name": "America/Managua", 
+        "ne_latitude": 15.026, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -82.592, 
+        "longitude": -85.424, 
+        "placetype": "Timezone", 
+        "iso": "NI", 
+        "date_indexed": "2010-12-02T18:19:13Z", 
+        "parent_woeid": 1, 
+        "latitude": 12.867, 
+        "sw_longitude": -87.690, 
+        "fullname": "America/Managua", 
+        "sw_latitude": 10.708
+      }, 
+      "id": 28350771
+    }
+  ]
+}

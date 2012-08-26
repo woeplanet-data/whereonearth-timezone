@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              52.441, 
+              35.141
+            ], 
+            [
+              52.441, 
+              42.796
+            ], 
+            [
+              66.684, 
+              42.796
+            ], 
+            [
+              66.684, 
+              35.141
+            ], 
+            [
+              52.441, 
+              35.141
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350810, 
+        "name": "Asia/Ashgabat", 
+        "ne_latitude": 42.796, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 66.684, 
+        "longitude": 59.563, 
+        "placetype": "Timezone", 
+        "iso": "TM", 
+        "date_indexed": "2010-12-02T18:19:07Z", 
+        "parent_woeid": 1, 
+        "latitude": 38.968, 
+        "sw_longitude": 52.441, 
+        "fullname": "Asia/Ashgabat", 
+        "sw_latitude": 35.141
+      }, 
+      "id": 28350810
+    }
+  ]
+}

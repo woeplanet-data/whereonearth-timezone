@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              159.035, 
+              -31.792
+            ], 
+            [
+              159.035, 
+              -31.488
+            ], 
+            [
+              159.279, 
+              -31.488
+            ], 
+            [
+              159.279, 
+              -31.792
+            ], 
+            [
+              159.035, 
+              -31.792
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350882, 
+        "name": "Australia/Lord_Howe", 
+        "ne_latitude": -31.488, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 159.279, 
+        "longitude": 159.085, 
+        "placetype": "Timezone", 
+        "iso": "AU", 
+        "date_indexed": "2010-12-02T17:47:57Z", 
+        "parent_woeid": 23424748, 
+        "latitude": -31.555, 
+        "sw_longitude": 159.035, 
+        "fullname": "Australia/Lord_Howe, Australia", 
+        "sw_latitude": -31.792
+      }, 
+      "id": 28350882
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -17.266, 
+              30.028
+            ], 
+            [
+              -17.266, 
+              33.107
+            ], 
+            [
+              -15.853, 
+              33.107
+            ], 
+            [
+              -15.853, 
+              30.028
+            ], 
+            [
+              -17.266, 
+              30.028
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043606, 
+        "name": "Atlantic/Madeira", 
+        "ne_latitude": 33.107, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -15.853, 
+        "longitude": -16.964, 
+        "placetype": "Timezone", 
+        "iso": "PT", 
+        "date_indexed": "2010-12-02T10:19:56Z", 
+        "parent_woeid": 23424925, 
+        "latitude": 32.752, 
+        "sw_longitude": -17.266, 
+        "fullname": "Atlantic/Madeira, Portugal", 
+        "sw_latitude": 30.028
+      }, 
+      "id": 56043606
+    }
+  ]
+}

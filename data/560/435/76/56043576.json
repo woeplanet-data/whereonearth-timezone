@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -58.898, 
+              -9.682
+            ], 
+            [
+              -58.898, 
+              2.632
+            ], 
+            [
+              -51.757, 
+              2.632
+            ], 
+            [
+              -51.757, 
+              -9.682
+            ], 
+            [
+              -58.898, 
+              -9.682
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043576, 
+        "name": "America/Santarem", 
+        "ne_latitude": 2.632, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -51.757, 
+        "longitude": -55.328, 
+        "placetype": "Timezone", 
+        "iso": "BR", 
+        "date_indexed": "2010-12-02T18:03:30Z", 
+        "parent_woeid": 2344857, 
+        "latitude": -3.525, 
+        "sw_longitude": -58.898, 
+        "fullname": "America/Santarem, Brazil", 
+        "sw_latitude": -9.682
+      }, 
+      "id": 56043576
+    }
+  ]
+}

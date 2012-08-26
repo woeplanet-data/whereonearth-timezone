@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -94.704, 
+              48.220
+            ], 
+            [
+              -94.704, 
+              49.137
+            ], 
+            [
+              -92.005, 
+              49.137
+            ], 
+            [
+              -92.005, 
+              48.220
+            ], 
+            [
+              -94.704, 
+              48.220
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043688, 
+        "name": "America/Rainy_River", 
+        "ne_latitude": 49.137, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -92.005, 
+        "longitude": -93.354, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 2344922, 
+        "latitude": 48.679, 
+        "sw_longitude": -94.704, 
+        "fullname": "America/Rainy_River, Canada", 
+        "sw_latitude": 48.220
+      }, 
+      "id": 56043688
+    }
+  ]
+}

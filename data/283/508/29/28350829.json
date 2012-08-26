@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              95.380, 
+              49.953
+            ], 
+            [
+              95.380, 
+              64.269
+            ], 
+            [
+              119.213, 
+              64.269
+            ], 
+            [
+              119.213, 
+              49.953
+            ], 
+            [
+              95.380, 
+              49.953
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350829, 
+        "name": "Asia/Irkutsk", 
+        "ne_latitude": 64.269, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 119.213, 
+        "longitude": 107.296, 
+        "placetype": "Timezone", 
+        "iso": "RU", 
+        "date_indexed": "2010-12-02T16:11:11Z", 
+        "parent_woeid": 23424936, 
+        "latitude": 57.111, 
+        "sw_longitude": 95.380, 
+        "fullname": "Asia/Irkutsk, Russia", 
+        "sw_latitude": 49.953
+      }, 
+      "id": 28350829
+    }
+  ]
+}

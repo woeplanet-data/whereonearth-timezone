@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -114.188, 
+              48.997
+            ], 
+            [
+              -114.188, 
+              52.810
+            ], 
+            [
+              -106.362, 
+              52.810
+            ], 
+            [
+              -106.362, 
+              48.997
+            ], 
+            [
+              -114.188, 
+              48.997
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043686, 
+        "name": "America/Swift_Current", 
+        "ne_latitude": 52.810, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -106.362, 
+        "longitude": -110.275, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 23424775, 
+        "latitude": 50.904, 
+        "sw_longitude": -114.188, 
+        "fullname": "America/Swift_Current, Canada", 
+        "sw_latitude": 48.997
+      }, 
+      "id": 56043686
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -164.950, 
+              54.360
+            ], 
+            [
+              -164.950, 
+              71.151
+            ], 
+            [
+              -141.000, 
+              71.151
+            ], 
+            [
+              -141.000, 
+              54.360
+            ], 
+            [
+              -164.950, 
+              54.360
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043669, 
+        "name": "America/Anchorage", 
+        "ne_latitude": 71.151, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -141.000, 
+        "longitude": -149.054, 
+        "placetype": "Timezone", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
+        "parent_woeid": 23424977, 
+        "latitude": 62.890, 
+        "sw_longitude": -164.950, 
+        "fullname": "America/Anchorage, United States", 
+        "sw_latitude": 54.360
+      }, 
+      "id": 56043669
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -13.142, 
+              27.703
+            ], 
+            [
+              -13.142, 
+              35.928
+            ], 
+            [
+              -0.992, 
+              35.928
+            ], 
+            [
+              -0.992, 
+              27.703
+            ], 
+            [
+              -13.142, 
+              27.703
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350694, 
+        "name": "Africa/Casablanca", 
+        "ne_latitude": 35.928, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -0.992, 
+        "longitude": -7.067, 
+        "placetype": "Timezone", 
+        "iso": "MA", 
+        "date_indexed": "2010-12-02T18:19:21Z", 
+        "parent_woeid": 1, 
+        "latitude": 31.815, 
+        "sw_longitude": -13.142, 
+        "fullname": "Africa/Casablanca", 
+        "sw_latitude": 27.703
+      }, 
+      "id": 28350694
+    }
+  ]
+}

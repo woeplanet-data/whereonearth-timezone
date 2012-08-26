@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.056, 
+              48.222
+            ], 
+            [
+              -102.056, 
+              60.000
+            ], 
+            [
+              -88.989, 
+              60.000
+            ], 
+            [
+              -88.989, 
+              48.222
+            ], 
+            [
+              -102.056, 
+              48.222
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043674, 
+        "name": "America/Winnipeg", 
+        "ne_latitude": 60.000, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -88.989, 
+        "longitude": -95.523, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 23424775, 
+        "latitude": 54.499, 
+        "sw_longitude": -102.056, 
+        "fullname": "America/Winnipeg, Canada", 
+        "sw_latitude": 48.222
+      }, 
+      "id": 56043674
+    }
+  ]
+}

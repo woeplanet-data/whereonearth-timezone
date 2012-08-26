@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -56.421, 
+              46.753
+            ], 
+            [
+              -56.421, 
+              47.146
+            ], 
+            [
+              -56.157, 
+              47.146
+            ], 
+            [
+              -56.157, 
+              46.753
+            ], 
+            [
+              -56.421, 
+              46.753
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350776, 
+        "name": "America/Miquelon", 
+        "ne_latitude": 47.146, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -56.157, 
+        "longitude": -56.337, 
+        "placetype": "Timezone", 
+        "iso": "PM", 
+        "date_indexed": "2010-12-02T12:15:58Z", 
+        "parent_woeid": 1, 
+        "latitude": 46.966, 
+        "sw_longitude": -56.421, 
+        "fullname": "America/Miquelon", 
+        "sw_latitude": 46.753
+      }, 
+      "id": 28350776
+    }
+  ]
+}

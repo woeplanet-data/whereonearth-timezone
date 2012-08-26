@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -12.243, 
+              10.160
+            ], 
+            [
+              -12.243, 
+              25.000
+            ], 
+            [
+              4.245, 
+              25.000
+            ], 
+            [
+              4.245, 
+              10.160
+            ], 
+            [
+              -12.243, 
+              10.160
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350686, 
+        "name": "Africa/Bamako", 
+        "ne_latitude": 25.000, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.245, 
+        "longitude": -3.999, 
+        "placetype": "Timezone", 
+        "iso": "ML", 
+        "date_indexed": "2010-12-02T08:58:41Z", 
+        "parent_woeid": 1, 
+        "latitude": 17.580, 
+        "sw_longitude": -12.243, 
+        "fullname": "Africa/Bamako", 
+        "sw_latitude": 10.160
+      }, 
+      "id": 28350686
+    }
+  ]
+}

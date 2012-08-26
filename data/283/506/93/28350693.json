@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              24.698, 
+              21.725
+            ], 
+            [
+              24.698, 
+              31.667
+            ], 
+            [
+              36.234, 
+              31.667
+            ], 
+            [
+              36.234, 
+              21.725
+            ], 
+            [
+              24.698, 
+              21.725
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350693, 
+        "name": "Africa/Cairo", 
+        "ne_latitude": 31.667, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 36.234, 
+        "longitude": 30.246, 
+        "placetype": "Timezone", 
+        "iso": "EG", 
+        "date_indexed": "2010-12-02T12:16:52Z", 
+        "parent_woeid": 1, 
+        "latitude": 26.696, 
+        "sw_longitude": 24.698, 
+        "fullname": "Africa/Cairo", 
+        "sw_latitude": 21.725
+      }, 
+      "id": 28350693
+    }
+  ]
+}

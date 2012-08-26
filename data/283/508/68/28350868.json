@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -31.266, 
+              36.926
+            ], 
+            [
+              -31.266, 
+              39.732
+            ], 
+            [
+              -24.790, 
+              39.732
+            ], 
+            [
+              -24.790, 
+              36.926
+            ], 
+            [
+              -31.266, 
+              36.926
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350868, 
+        "name": "Atlantic/Azores", 
+        "ne_latitude": 39.732, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -24.790, 
+        "longitude": -25.498, 
+        "placetype": "Timezone", 
+        "iso": "PT", 
+        "date_indexed": "2010-12-02T10:19:56Z", 
+        "parent_woeid": 23424925, 
+        "latitude": 37.805, 
+        "sw_longitude": -31.266, 
+        "fullname": "Atlantic/Azores, Portugal", 
+        "sw_latitude": 36.926
+      }, 
+      "id": 28350868
+    }
+  ]
+}

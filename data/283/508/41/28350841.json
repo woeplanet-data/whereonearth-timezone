@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              138.691, 
+              58.833
+            ], 
+            [
+              138.691, 
+              77.006
+            ], 
+            [
+              163.399, 
+              77.006
+            ], 
+            [
+              163.399, 
+              58.833
+            ], 
+            [
+              138.691, 
+              58.833
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350841, 
+        "name": "Asia/Magadan", 
+        "ne_latitude": 77.006, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 163.399, 
+        "longitude": 151.045, 
+        "placetype": "Timezone", 
+        "iso": "RU", 
+        "date_indexed": "2010-12-02T16:11:11Z", 
+        "parent_woeid": 23424936, 
+        "latitude": 65.750, 
+        "sw_longitude": 138.691, 
+        "fullname": "Asia/Magadan, Russia", 
+        "sw_latitude": 58.833
+      }, 
+      "id": 28350841
+    }
+  ]
+}

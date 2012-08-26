@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              30.794, 
+              -27.317
+            ], 
+            [
+              30.794, 
+              -25.720
+            ], 
+            [
+              32.137, 
+              -25.720
+            ], 
+            [
+              32.137, 
+              -27.317
+            ], 
+            [
+              30.794, 
+              -27.317
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350718, 
+        "name": "Africa/Mbabane", 
+        "ne_latitude": -25.720, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 32.137, 
+        "longitude": 31.466, 
+        "placetype": "Timezone", 
+        "iso": "SZ", 
+        "date_indexed": "2010-12-02T12:16:52Z", 
+        "parent_woeid": 1, 
+        "latitude": -26.518, 
+        "sw_longitude": 30.794, 
+        "fullname": "Africa/Mbabane", 
+        "sw_latitude": -27.317
+      }, 
+      "id": 28350718
+    }
+  ]
+}

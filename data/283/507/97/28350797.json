@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -65.086, 
+              17.682
+            ], 
+            [
+              -65.086, 
+              18.458
+            ], 
+            [
+              -64.565, 
+              18.458
+            ], 
+            [
+              -64.565, 
+              17.682
+            ], 
+            [
+              -65.086, 
+              17.682
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350797, 
+        "name": "America/St_Thomas", 
+        "ne_latitude": 18.458, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -64.565, 
+        "longitude": -64.736, 
+        "placetype": "Timezone", 
+        "iso": "VI", 
+        "date_indexed": "2010-12-02T16:14:08Z", 
+        "parent_woeid": 1, 
+        "latitude": 17.737, 
+        "sw_longitude": -65.086, 
+        "fullname": "America/St_Thomas", 
+        "sw_latitude": 17.682
+      }, 
+      "id": 28350797
+    }
+  ]
+}

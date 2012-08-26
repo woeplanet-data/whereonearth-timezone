@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              124.075, 
+              -9.513
+            ], 
+            [
+              124.075, 
+              -8.137
+            ], 
+            [
+              127.345, 
+              -8.137
+            ], 
+            [
+              127.345, 
+              -9.513
+            ], 
+            [
+              124.075, 
+              -9.513
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350823, 
+        "name": "Asia/Dili", 
+        "ne_latitude": -8.137, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 127.345, 
+        "longitude": 126.120, 
+        "placetype": "Timezone", 
+        "iso": "TL", 
+        "date_indexed": "2010-12-02T07:50:18Z", 
+        "parent_woeid": 1, 
+        "latitude": -8.894, 
+        "sw_longitude": 124.075, 
+        "fullname": "Asia/Dili", 
+        "sw_latitude": -9.513
+      }, 
+      "id": 28350823
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              70.356, 
+              53.445
+            ], 
+            [
+              70.356, 
+              58.408
+            ], 
+            [
+              76.410, 
+              58.408
+            ], 
+            [
+              76.410, 
+              53.445
+            ], 
+            [
+              70.356, 
+              53.445
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043608, 
+        "name": "Asia/Omsk", 
+        "ne_latitude": 58.408, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 76.410, 
+        "longitude": 73.383, 
+        "placetype": "Timezone", 
+        "iso": "RU", 
+        "date_indexed": "2010-12-02T16:11:11Z", 
+        "parent_woeid": 23424936, 
+        "latitude": 55.927, 
+        "sw_longitude": 70.356, 
+        "fullname": "Asia/Omsk, Russia", 
+        "sw_latitude": 53.445
+      }, 
+      "id": 56043608
+    }
+  ]
+}

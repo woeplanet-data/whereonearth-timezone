@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -16.718, 
+              10.860
+            ], 
+            [
+              -16.718, 
+              12.681
+            ], 
+            [
+              -13.637, 
+              12.681
+            ], 
+            [
+              -13.637, 
+              10.860
+            ], 
+            [
+              -16.718, 
+              10.860
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350689, 
+        "name": "Africa/Bissau", 
+        "ne_latitude": 12.681, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -13.637, 
+        "longitude": -15.177, 
+        "placetype": "Timezone", 
+        "iso": "GW", 
+        "date_indexed": "2010-12-02T09:57:34Z", 
+        "parent_woeid": 1, 
+        "latitude": 11.803, 
+        "sw_longitude": -16.718, 
+        "fullname": "Africa/Bissau", 
+        "sw_latitude": 10.860
+      }, 
+      "id": 28350689
+    }
+  ]
+}

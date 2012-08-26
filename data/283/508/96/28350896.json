@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -10.941, 
+              51.151
+            ], 
+            [
+              -10.941, 
+              55.549
+            ], 
+            [
+              -5.049, 
+              55.549
+            ], 
+            [
+              -5.049, 
+              51.151
+            ], 
+            [
+              -10.941, 
+              51.151
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350896, 
+        "name": "Europe/Dublin", 
+        "ne_latitude": 55.549, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -5.049, 
+        "longitude": -7.333, 
+        "placetype": "Timezone", 
+        "iso": "IE", 
+        "date_indexed": "2010-12-02T12:08:06Z", 
+        "parent_woeid": 1, 
+        "latitude": 53.363, 
+        "sw_longitude": -10.941, 
+        "fullname": "Europe/Dublin", 
+        "sw_latitude": 51.151
+      }, 
+      "id": 28350896
+    }
+  ]
+}

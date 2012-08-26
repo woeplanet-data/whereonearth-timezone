@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -62.647, 
+              -27.609
+            ], 
+            [
+              -62.647, 
+              -19.294
+            ], 
+            [
+              -54.259, 
+              -19.294
+            ], 
+            [
+              -54.259, 
+              -27.609
+            ], 
+            [
+              -62.647, 
+              -27.609
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350737, 
+        "name": "America/Asuncion", 
+        "ne_latitude": -19.294, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -54.259, 
+        "longitude": -58.453, 
+        "placetype": "Timezone", 
+        "iso": "PY", 
+        "date_indexed": "2010-12-02T12:08:44Z", 
+        "parent_woeid": 1, 
+        "latitude": -23.451, 
+        "sw_longitude": -62.647, 
+        "fullname": "America/Asuncion", 
+        "sw_latitude": -27.609
+      }, 
+      "id": 28350737
+    }
+  ]
+}

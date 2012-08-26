@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -120.957, 
+              55.576
+            ], 
+            [
+              -120.957, 
+              56.977
+            ], 
+            [
+              -120.000, 
+              56.977
+            ], 
+            [
+              -120.000, 
+              55.576
+            ], 
+            [
+              -120.957, 
+              55.576
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350751, 
+        "name": "America/Dawson_Creek", 
+        "ne_latitude": 56.977, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -120.000, 
+        "longitude": -120.443, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 2344916, 
+        "latitude": 56.277, 
+        "sw_longitude": -120.957, 
+        "fullname": "America/Dawson_Creek, Canada", 
+        "sw_latitude": 55.576
+      }, 
+      "id": 28350751
+    }
+  ]
+}

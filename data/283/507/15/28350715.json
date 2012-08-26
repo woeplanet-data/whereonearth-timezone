@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.602, 
+              -1.484
+            ], 
+            [
+              5.602, 
+              3.786
+            ], 
+            [
+              11.336, 
+              3.786
+            ], 
+            [
+              11.336, 
+              -1.484
+            ], 
+            [
+              5.602, 
+              -1.484
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350715, 
+        "name": "Africa/Malabo", 
+        "ne_latitude": 3.786, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.336, 
+        "longitude": 10.341, 
+        "placetype": "Timezone", 
+        "iso": "GQ", 
+        "date_indexed": "2010-12-02T16:55:36Z", 
+        "parent_woeid": 1, 
+        "latitude": 1.634, 
+        "sw_longitude": 5.602, 
+        "fullname": "Africa/Malabo", 
+        "sw_latitude": -1.484
+      }, 
+      "id": 28350715
+    }
+  ]
+}

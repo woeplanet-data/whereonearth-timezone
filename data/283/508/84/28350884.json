@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              112.746, 
+              -35.399
+            ], 
+            [
+              112.746, 
+              -12.142
+            ], 
+            [
+              129.002, 
+              -12.142
+            ], 
+            [
+              129.002, 
+              -35.399
+            ], 
+            [
+              112.746, 
+              -35.399
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350884, 
+        "name": "Australia/Perth", 
+        "ne_latitude": -12.142, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 129.002, 
+        "longitude": 120.874, 
+        "placetype": "Timezone", 
+        "iso": "AU", 
+        "date_indexed": "2010-12-02T17:47:57Z", 
+        "parent_woeid": 23424748, 
+        "latitude": -24.441, 
+        "sw_longitude": 112.746, 
+        "fullname": "Australia/Perth, Australia", 
+        "sw_latitude": -35.399
+      }, 
+      "id": 28350884
+    }
+  ]
+}

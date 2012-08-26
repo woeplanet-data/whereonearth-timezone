@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              60.053, 
+              40.567
+            ], 
+            [
+              60.053, 
+              55.432
+            ], 
+            [
+              87.313, 
+              55.432
+            ], 
+            [
+              87.313, 
+              40.567
+            ], 
+            [
+              60.053, 
+              40.567
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043589, 
+        "name": "Asia/Almaty", 
+        "ne_latitude": 55.432, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 87.313, 
+        "longitude": 73.683, 
+        "placetype": "Timezone", 
+        "iso": "KZ", 
+        "date_indexed": "2010-12-02T08:54:13Z", 
+        "parent_woeid": 23424871, 
+        "latitude": 47.999, 
+        "sw_longitude": 60.053, 
+        "fullname": "Asia/Almaty, Kazakhstan", 
+        "sw_latitude": 40.567
+      }, 
+      "id": 56043589
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.084, 
+              5.500
+            ], 
+            [
+              -87.084, 
+              11.217
+            ], 
+            [
+              -82.556, 
+              11.217
+            ], 
+            [
+              -82.556, 
+              5.500
+            ], 
+            [
+              -87.084, 
+              5.500
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350748, 
+        "name": "America/Costa_Rica", 
+        "ne_latitude": 11.217, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -82.556, 
+        "longitude": -84.253, 
+        "placetype": "Timezone", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "parent_woeid": 1, 
+        "latitude": 9.625, 
+        "sw_longitude": -87.084, 
+        "fullname": "America/Costa_Rica", 
+        "sw_latitude": 5.500
+      }, 
+      "id": 28350748
+    }
+  ]
+}

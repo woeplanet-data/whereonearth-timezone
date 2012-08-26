@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              124.610, 
+              33.112
+            ], 
+            [
+              124.610, 
+              38.612
+            ], 
+            [
+              130.944, 
+              38.612
+            ], 
+            [
+              130.944, 
+              33.112
+            ], 
+            [
+              124.610, 
+              33.112
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350854, 
+        "name": "Asia/Seoul", 
+        "ne_latitude": 38.612, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 130.944, 
+        "longitude": 127.844, 
+        "placetype": "Timezone", 
+        "iso": "KR", 
+        "date_indexed": "2010-12-02T17:53:23Z", 
+        "parent_woeid": 1, 
+        "latitude": 36.446, 
+        "sw_longitude": 124.610, 
+        "fullname": "Asia/Seoul", 
+        "sw_latitude": 33.112
+      }, 
+      "id": 28350854
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -63.394, 
+              -41.192
+            ], 
+            [
+              -63.394, 
+              -33.260
+            ], 
+            [
+              -56.511, 
+              -33.260
+            ], 
+            [
+              -56.511, 
+              -41.192
+            ], 
+            [
+              -63.394, 
+              -41.192
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043551, 
+        "name": "America/Argentina/Buenos_Aires", 
+        "ne_latitude": -33.260, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -56.511, 
+        "longitude": -59.953, 
+        "placetype": "Timezone", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "parent_woeid": 23424747, 
+        "latitude": -37.226, 
+        "sw_longitude": -63.394, 
+        "fullname": "America/Argentina/Buenos_Aires, Argentina", 
+        "sw_latitude": -41.192
+      }, 
+      "id": 56043551
+    }
+  ]
+}

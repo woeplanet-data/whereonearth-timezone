@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -69.053, 
+              44.563
+            ], 
+            [
+              -69.053, 
+              48.073
+            ], 
+            [
+              -63.762, 
+              48.073
+            ], 
+            [
+              -63.762, 
+              44.563
+            ], 
+            [
+              -69.053, 
+              44.563
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043684, 
+        "name": "America/Moncton", 
+        "ne_latitude": 48.073, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -63.762, 
+        "longitude": -65.007, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 2344918, 
+        "latitude": 45.760, 
+        "sw_longitude": -69.053, 
+        "fullname": "America/Moncton, Canada", 
+        "sw_latitude": 44.563
+      }, 
+      "id": 56043684
+    }
+  ]
+}

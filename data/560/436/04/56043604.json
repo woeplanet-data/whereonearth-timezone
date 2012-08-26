@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              109.538, 
+              0.855
+            ], 
+            [
+              109.538, 
+              7.467
+            ], 
+            [
+              119.359, 
+              7.467
+            ], 
+            [
+              119.359, 
+              0.855
+            ], 
+            [
+              109.538, 
+              0.855
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043604, 
+        "name": "Asia/Kuching", 
+        "ne_latitude": 7.467, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 119.359, 
+        "longitude": 114.448, 
+        "placetype": "Timezone", 
+        "iso": "MY", 
+        "date_indexed": "2010-12-02T18:05:31Z", 
+        "parent_woeid": 23424901, 
+        "latitude": 4.161, 
+        "sw_longitude": 109.538, 
+        "fullname": "Asia/Kuching, Malaysia", 
+        "sw_latitude": 0.855
+      }, 
+      "id": 56043604
+    }
+  ]
+}

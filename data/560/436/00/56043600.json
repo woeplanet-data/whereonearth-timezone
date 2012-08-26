@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.468, 
+              17.809
+            ], 
+            [
+              -92.468, 
+              22.565
+            ], 
+            [
+              -87.366, 
+              22.565
+            ], 
+            [
+              -87.366, 
+              17.809
+            ], 
+            [
+              -92.468, 
+              17.809
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043600, 
+        "name": "America/Merida", 
+        "ne_latitude": 22.565, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -87.366, 
+        "longitude": -89.917, 
+        "placetype": "Timezone", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T17:02:03Z", 
+        "parent_woeid": 23424900, 
+        "latitude": 19.710, 
+        "sw_longitude": -92.468, 
+        "fullname": "America/Merida, Mexico", 
+        "sw_latitude": 17.809
+      }, 
+      "id": 56043600
+    }
+  ]
+}

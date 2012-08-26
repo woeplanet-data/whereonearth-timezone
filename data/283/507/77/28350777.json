@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -58.443, 
+              -35.048
+            ], 
+            [
+              -58.443, 
+              -30.082
+            ], 
+            [
+              -53.074, 
+              -30.082
+            ], 
+            [
+              -53.074, 
+              -35.048
+            ], 
+            [
+              -58.443, 
+              -35.048
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350777, 
+        "name": "America/Montevideo", 
+        "ne_latitude": -30.082, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -53.074, 
+        "longitude": -55.758, 
+        "placetype": "Timezone", 
+        "iso": "UY", 
+        "date_indexed": "2010-12-02T17:58:27Z", 
+        "parent_woeid": 1, 
+        "latitude": -32.532, 
+        "sw_longitude": -58.443, 
+        "fullname": "America/Montevideo", 
+        "sw_latitude": -35.048
+      }, 
+      "id": 28350777
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.716, 
+              -28.971
+            ], 
+            [
+              11.716, 
+              -16.960
+            ], 
+            [
+              25.257, 
+              -16.960
+            ], 
+            [
+              25.257, 
+              -28.971
+            ], 
+            [
+              11.716, 
+              -28.971
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350730, 
+        "name": "Africa/Windhoek", 
+        "ne_latitude": -16.960, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 25.257, 
+        "longitude": 18.486, 
+        "placetype": "Timezone", 
+        "iso": "NA", 
+        "date_indexed": "2010-12-02T07:50:17Z", 
+        "parent_woeid": 1, 
+        "latitude": -22.966, 
+        "sw_longitude": 11.716, 
+        "fullname": "Africa/Windhoek", 
+        "sw_latitude": -28.971
+      }, 
+      "id": 28350730
+    }
+  ]
+}

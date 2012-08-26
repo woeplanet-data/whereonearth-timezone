@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              36.439, 
+              12.360
+            ], 
+            [
+              36.439, 
+              18.003
+            ], 
+            [
+              43.149, 
+              18.003
+            ], 
+            [
+              43.149, 
+              12.360
+            ], 
+            [
+              36.439, 
+              12.360
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350685, 
+        "name": "Africa/Asmara", 
+        "alias_ENG_V": [
+          "Africa/Asmera"
+        ], 
+        "ne_latitude": 18.003, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 43.149, 
+        "longitude": 39.951, 
+        "placetype": "Timezone", 
+        "iso": "ER", 
+        "date_indexed": "2010-12-02T09:57:22Z", 
+        "parent_woeid": 1, 
+        "latitude": 15.181, 
+        "sw_longitude": 36.439, 
+        "fullname": "Africa/Asmara", 
+        "sw_latitude": 12.360
+      }, 
+      "id": 28350685
+    }
+  ]
+}

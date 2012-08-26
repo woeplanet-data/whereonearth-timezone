@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              97.344, 
+              5.613
+            ], 
+            [
+              97.344, 
+              20.465
+            ], 
+            [
+              105.637, 
+              20.465
+            ], 
+            [
+              105.637, 
+              5.613
+            ], 
+            [
+              97.344, 
+              5.613
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350814, 
+        "name": "Asia/Bangkok", 
+        "ne_latitude": 20.465, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 105.637, 
+        "longitude": 101.490, 
+        "placetype": "Timezone", 
+        "iso": "TH", 
+        "date_indexed": "2010-12-02T17:05:43Z", 
+        "parent_woeid": 1, 
+        "latitude": 13.039, 
+        "sw_longitude": 97.344, 
+        "fullname": "Asia/Bangkok", 
+        "sw_latitude": 5.613
+      }, 
+      "id": 28350814
+    }
+  ]
+}

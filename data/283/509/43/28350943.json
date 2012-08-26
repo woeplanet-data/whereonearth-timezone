@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              174.866, 
+              -21.017
+            ], 
+            [
+              174.866, 
+              -12.466
+            ], 
+            [
+              -178.213, 
+              -12.466
+            ], 
+            [
+              -178.213, 
+              -21.017
+            ], 
+            [
+              174.866, 
+              -21.017
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350943, 
+        "name": "Pacific/Fiji", 
+        "ne_latitude": -12.466, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -178.213, 
+        "longitude": 177.973, 
+        "placetype": "Timezone", 
+        "iso": "FJ", 
+        "date_indexed": "2010-12-02T16:12:23Z", 
+        "parent_woeid": 1, 
+        "latitude": -17.791, 
+        "sw_longitude": 174.866, 
+        "fullname": "Pacific/Fiji", 
+        "sw_latitude": -21.017
+      }, 
+      "id": 28350943
+    }
+  ]
+}

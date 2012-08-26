@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              88.028, 
+              20.585
+            ], 
+            [
+              88.028, 
+              26.632
+            ], 
+            [
+              92.674, 
+              26.632
+            ], 
+            [
+              92.674, 
+              20.585
+            ], 
+            [
+              88.028, 
+              20.585
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350822, 
+        "name": "Asia/Dhaka", 
+        "ne_latitude": 26.632, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 92.674, 
+        "longitude": 90.351, 
+        "placetype": "Timezone", 
+        "iso": "BD", 
+        "date_indexed": "2010-12-02T12:16:45Z", 
+        "parent_woeid": 1, 
+        "latitude": 23.687, 
+        "sw_longitude": 88.028, 
+        "fullname": "Asia/Dhaka", 
+        "sw_latitude": 20.585
+      }, 
+      "id": 28350822
+    }
+  ]
+}

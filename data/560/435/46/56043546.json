@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.968, 
+              -42.007
+            ], 
+            [
+              -71.968, 
+              -21.997
+            ], 
+            [
+              -62.344, 
+              -21.997
+            ], 
+            [
+              -62.344, 
+              -42.007
+            ], 
+            [
+              -71.968, 
+              -42.007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043546, 
+        "name": "America/Argentina/Salta", 
+        "ne_latitude": -21.997, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -62.344, 
+        "longitude": -67.335, 
+        "placetype": "Timezone", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "parent_woeid": 23424747, 
+        "latitude": -38.502, 
+        "sw_longitude": -71.968, 
+        "fullname": "America/Argentina/Salta, Argentina", 
+        "sw_latitude": -42.007
+      }, 
+      "id": 56043546
+    }
+  ]
+}

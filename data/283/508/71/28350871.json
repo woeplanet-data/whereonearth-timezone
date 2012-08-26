@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -25.359, 
+              14.802
+            ], 
+            [
+              -25.359, 
+              17.197
+            ], 
+            [
+              -22.666, 
+              17.197
+            ], 
+            [
+              -22.666, 
+              14.802
+            ], 
+            [
+              -25.359, 
+              14.802
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350871, 
+        "name": "Atlantic/Cape_Verde", 
+        "ne_latitude": 17.197, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -22.666, 
+        "longitude": -23.615, 
+        "placetype": "Timezone", 
+        "iso": "CV", 
+        "date_indexed": "2010-12-02T12:16:16Z", 
+        "parent_woeid": 1, 
+        "latitude": 15.112, 
+        "sw_longitude": -25.359, 
+        "fullname": "Atlantic/Cape_Verde", 
+        "sw_latitude": 14.802
+      }, 
+      "id": 28350871
+    }
+  ]
+}

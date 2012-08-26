@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              33.000, 
+              3.402
+            ], 
+            [
+              33.000, 
+              14.892
+            ], 
+            [
+              47.986, 
+              14.892
+            ], 
+            [
+              47.986, 
+              3.402
+            ], 
+            [
+              33.000, 
+              3.402
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350683, 
+        "name": "Africa/Addis_Ababa", 
+        "ne_latitude": 14.892, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 47.986, 
+        "longitude": 40.493, 
+        "placetype": "Timezone", 
+        "iso": "ET", 
+        "date_indexed": "2010-12-02T08:52:18Z", 
+        "parent_woeid": 1, 
+        "latitude": 9.147, 
+        "sw_longitude": 33.000, 
+        "fullname": "Africa/Addis_Ababa", 
+        "sw_latitude": 3.402
+      }, 
+      "id": 28350683
+    }
+  ]
+}

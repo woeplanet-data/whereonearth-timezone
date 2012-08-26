@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -29.345, 
+              -20.521
+            ], 
+            [
+              -29.345, 
+              -20.470
+            ], 
+            [
+              -28.839, 
+              -20.470
+            ], 
+            [
+              -28.839, 
+              -20.521
+            ], 
+            [
+              -29.345, 
+              -20.521
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350781, 
+        "name": "America/Noronha", 
+        "ne_latitude": -20.470, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -28.839, 
+        "longitude": -29.323, 
+        "placetype": "Timezone", 
+        "iso": "BR", 
+        "date_indexed": "2010-12-02T18:03:30Z", 
+        "parent_woeid": 23424768, 
+        "latitude": -20.502, 
+        "sw_longitude": -29.345, 
+        "fullname": "America/Noronha, Brazil", 
+        "sw_latitude": -20.521
+      }, 
+      "id": 28350781
+    }
+  ]
+}

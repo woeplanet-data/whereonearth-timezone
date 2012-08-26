@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -62.352, 
+              16.927
+            ], 
+            [
+              -62.352, 
+              17.729
+            ], 
+            [
+              -61.659, 
+              17.729
+            ], 
+            [
+              -61.659, 
+              16.927
+            ], 
+            [
+              -62.352, 
+              16.927
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350734, 
+        "name": "America/Antigua", 
+        "ne_latitude": 17.729, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -61.659, 
+        "longitude": -61.789, 
+        "placetype": "Timezone", 
+        "iso": "AG", 
+        "date_indexed": "2010-12-02T08:58:52Z", 
+        "parent_woeid": 1, 
+        "latitude": 17.086, 
+        "sw_longitude": -62.352, 
+        "fullname": "America/Antigua", 
+        "sw_latitude": 16.927
+      }, 
+      "id": 28350734
+    }
+  ]
+}

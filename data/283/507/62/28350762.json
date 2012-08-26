@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -81.079, 
+              -4.999
+            ], 
+            [
+              -81.079, 
+              1.439
+            ], 
+            [
+              -75.185, 
+              1.439
+            ], 
+            [
+              -75.185, 
+              -4.999
+            ], 
+            [
+              -81.079, 
+              -4.999
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350762, 
+        "name": "America/Guayaquil", 
+        "ne_latitude": 1.439, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -75.185, 
+        "longitude": -78.096, 
+        "placetype": "Timezone", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:52Z", 
+        "parent_woeid": 23424801, 
+        "latitude": -1.790, 
+        "sw_longitude": -81.079, 
+        "fullname": "America/Guayaquil, Ecuador", 
+        "sw_latitude": -4.999
+      }, 
+      "id": 28350762
+    }
+  ]
+}

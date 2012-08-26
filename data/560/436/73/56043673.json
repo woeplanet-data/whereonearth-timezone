@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -67.818, 
+              51.577
+            ], 
+            [
+              -67.818, 
+              60.408
+            ], 
+            [
+              -55.524, 
+              60.408
+            ], 
+            [
+              -55.524, 
+              51.577
+            ], 
+            [
+              -67.818, 
+              51.577
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043673, 
+        "name": "America/Goose_Bay", 
+        "ne_latitude": 60.408, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -55.524, 
+        "longitude": -61.671, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 2344919, 
+        "latitude": 55.993, 
+        "sw_longitude": -67.818, 
+        "fullname": "America/Goose_Bay, Canada", 
+        "sw_latitude": 51.577
+      }, 
+      "id": 56043673
+    }
+  ]
+}

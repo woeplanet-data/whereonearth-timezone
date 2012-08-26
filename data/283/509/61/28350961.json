@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -130.746, 
+              -25.078
+            ], 
+            [
+              -130.746, 
+              10.360
+            ], 
+            [
+              -108.873, 
+              10.360
+            ], 
+            [
+              -108.873, 
+              -25.078
+            ], 
+            [
+              -130.746, 
+              -25.078
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350961, 
+        "name": "Pacific/Pitcairn", 
+        "ne_latitude": 10.360, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -108.873, 
+        "longitude": -128.316, 
+        "placetype": "Timezone", 
+        "iso": "ZZ", 
+        "date_indexed": "2010-12-02T16:31:49Z", 
+        "parent_woeid": 1, 
+        "latitude": -24.361, 
+        "sw_longitude": -130.746, 
+        "fullname": "Pacific/Pitcairn", 
+        "sw_latitude": -25.078
+      }, 
+      "id": 28350961
+    }
+  ]
+}

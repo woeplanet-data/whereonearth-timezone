@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              30.217, 
+              -26.869
+            ], 
+            [
+              30.217, 
+              -10.472
+            ], 
+            [
+              40.844, 
+              -10.472
+            ], 
+            [
+              40.844, 
+              -26.869
+            ], 
+            [
+              30.217, 
+              -26.869
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350716, 
+        "name": "Africa/Maputo", 
+        "ne_latitude": -10.472, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 40.844, 
+        "longitude": 35.530, 
+        "placetype": "Timezone", 
+        "iso": "MZ", 
+        "date_indexed": "2010-12-02T07:50:33Z", 
+        "parent_woeid": 1, 
+        "latitude": -18.670, 
+        "sw_longitude": 30.217, 
+        "fullname": "Africa/Maputo", 
+        "sw_latitude": -26.869
+      }, 
+      "id": 28350716
+    }
+  ]
+}

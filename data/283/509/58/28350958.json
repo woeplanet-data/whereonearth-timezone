@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              158.333, 
+              -22.900
+            ], 
+            [
+              158.333, 
+              -18.016
+            ], 
+            [
+              172.061, 
+              -18.016
+            ], 
+            [
+              172.061, 
+              -22.900
+            ], 
+            [
+              158.333, 
+              -22.900
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350958, 
+        "name": "Pacific/Noumea", 
+        "ne_latitude": -18.016, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 172.061, 
+        "longitude": 165.507, 
+        "placetype": "Timezone", 
+        "iso": "NC", 
+        "date_indexed": "2010-12-02T17:02:10Z", 
+        "parent_woeid": 1, 
+        "latitude": -21.242, 
+        "sw_longitude": 158.333, 
+        "fullname": "Pacific/Noumea", 
+        "sw_latitude": -22.900
+      }, 
+      "id": 28350958
+    }
+  ]
+}

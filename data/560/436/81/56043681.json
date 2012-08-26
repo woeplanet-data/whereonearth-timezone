@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.799, 
+              74.599
+            ], 
+            [
+              -96.799, 
+              75.693
+            ], 
+            [
+              -93.230, 
+              75.693
+            ], 
+            [
+              -93.230, 
+              74.599
+            ], 
+            [
+              -96.799, 
+              74.599
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043681, 
+        "name": "America/Resolute", 
+        "ne_latitude": 75.693, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -93.230, 
+        "longitude": -95.014, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 20069920, 
+        "latitude": 75.146, 
+        "sw_longitude": -96.799, 
+        "fullname": "America/Resolute, Canada", 
+        "sw_latitude": 74.599
+      }, 
+      "id": 56043681
+    }
+  ]
+}

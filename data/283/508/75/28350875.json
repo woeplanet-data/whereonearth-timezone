@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.434, 
+              -52.901
+            ], 
+            [
+              -61.434, 
+              -50.966
+            ], 
+            [
+              -57.712, 
+              -50.966
+            ], 
+            [
+              -57.712, 
+              -52.901
+            ], 
+            [
+              -61.434, 
+              -52.901
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350875, 
+        "name": "Atlantic/Stanley", 
+        "ne_latitude": -50.966, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -57.712, 
+        "longitude": -58.721, 
+        "placetype": "Timezone", 
+        "iso": "FK", 
+        "date_indexed": "2010-12-02T16:12:16Z", 
+        "parent_woeid": 1, 
+        "latitude": -51.801, 
+        "sw_longitude": -61.434, 
+        "fullname": "Atlantic/Stanley", 
+        "sw_latitude": -52.901
+      }, 
+      "id": 28350875
+    }
+  ]
+}

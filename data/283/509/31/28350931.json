@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              46.199, 
+              -10.217
+            ], 
+            [
+              46.199, 
+              -3.712
+            ], 
+            [
+              56.279, 
+              -3.712
+            ], 
+            [
+              56.279, 
+              -10.217
+            ], 
+            [
+              46.199, 
+              -10.217
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350931, 
+        "name": "Indian/Mahe", 
+        "ne_latitude": -3.712, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 56.279, 
+        "longitude": 55.487, 
+        "placetype": "Timezone", 
+        "iso": "SC", 
+        "date_indexed": "2010-12-02T08:53:34Z", 
+        "parent_woeid": 1, 
+        "latitude": -4.684, 
+        "sw_longitude": 46.199, 
+        "fullname": "Indian/Mahe", 
+        "sw_latitude": -10.217
+      }, 
+      "id": 28350931
+    }
+  ]
+}

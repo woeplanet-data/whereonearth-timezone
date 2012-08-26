@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -169.951, 
+              -19.152
+            ], 
+            [
+              -169.951, 
+              -18.951
+            ], 
+            [
+              -169.775, 
+              -18.951
+            ], 
+            [
+              -169.775, 
+              -19.152
+            ], 
+            [
+              -169.951, 
+              -19.152
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350956, 
+        "name": "Pacific/Niue", 
+        "ne_latitude": -18.951, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -169.775, 
+        "longitude": -169.863, 
+        "placetype": "Timezone", 
+        "iso": "NU", 
+        "date_indexed": "2010-12-02T18:19:13Z", 
+        "parent_woeid": 1, 
+        "latitude": -19.052, 
+        "sw_longitude": -169.951, 
+        "fullname": "Pacific/Niue", 
+        "sw_latitude": -19.152
+      }, 
+      "id": 28350956
+    }
+  ]
+}

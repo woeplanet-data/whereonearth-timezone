@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              60.478, 
+              29.377
+            ], 
+            [
+              60.478, 
+              38.483
+            ], 
+            [
+              74.879, 
+              38.483
+            ], 
+            [
+              74.879, 
+              29.377
+            ], 
+            [
+              60.478, 
+              29.377
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350833, 
+        "name": "Asia/Kabul", 
+        "ne_latitude": 38.483, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 74.879, 
+        "longitude": 67.679, 
+        "placetype": "Timezone", 
+        "iso": "AF", 
+        "date_indexed": "2010-12-02T18:03:37Z", 
+        "parent_woeid": 1, 
+        "latitude": 33.930, 
+        "sw_longitude": 60.478, 
+        "fullname": "Asia/Kabul", 
+        "sw_latitude": 29.377
+      }, 
+      "id": 28350833
+    }
+  ]
+}

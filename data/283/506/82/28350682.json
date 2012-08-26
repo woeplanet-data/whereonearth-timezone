@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.255, 
+              4.737
+            ], 
+            [
+              -3.255, 
+              11.173
+            ], 
+            [
+              1.192, 
+              11.173
+            ], 
+            [
+              1.192, 
+              4.737
+            ], 
+            [
+              -3.255, 
+              4.737
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350682, 
+        "name": "Africa/Accra", 
+        "ne_latitude": 11.173, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.192, 
+        "longitude": -1.032, 
+        "placetype": "Timezone", 
+        "iso": "GH", 
+        "date_indexed": "2010-12-02T17:57:50Z", 
+        "parent_woeid": 1, 
+        "latitude": 7.955, 
+        "sw_longitude": -3.255, 
+        "fullname": "Africa/Accra", 
+        "sw_latitude": 4.737
+      }, 
+      "id": 28350682
+    }
+  ]
+}

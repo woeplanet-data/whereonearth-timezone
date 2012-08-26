@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              137.996, 
+              -29.178
+            ], 
+            [
+              137.996, 
+              -8.872
+            ], 
+            [
+              153.889, 
+              -8.872
+            ], 
+            [
+              153.889, 
+              -29.178
+            ], 
+            [
+              137.996, 
+              -29.178
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350878, 
+        "name": "Australia/Brisbane", 
+        "ne_latitude": -8.872, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 153.889, 
+        "longitude": 145.942, 
+        "placetype": "Timezone", 
+        "iso": "AU", 
+        "date_indexed": "2010-12-02T17:47:57Z", 
+        "parent_woeid": 23424748, 
+        "latitude": -19.025, 
+        "sw_longitude": 137.996, 
+        "fullname": "Australia/Brisbane, Australia", 
+        "sw_latitude": -29.178
+      }, 
+      "id": 28350878
+    }
+  ]
+}

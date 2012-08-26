@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -48.755, 
+              -10.929
+            ], 
+            [
+              -48.755, 
+              -0.855
+            ], 
+            [
+              -31.018, 
+              -0.855
+            ], 
+            [
+              -31.018, 
+              -10.929
+            ], 
+            [
+              -48.755, 
+              -10.929
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043570, 
+        "name": "America/Fortaleza", 
+        "ne_latitude": -0.855, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -31.018, 
+        "longitude": -41.614, 
+        "placetype": "Timezone", 
+        "iso": "BR", 
+        "date_indexed": "2010-12-02T18:03:30Z", 
+        "parent_woeid": 23424768, 
+        "latitude": -5.892, 
+        "sw_longitude": -48.755, 
+        "fullname": "America/Fortaleza, Brazil", 
+        "sw_latitude": -10.929
+      }, 
+      "id": 56043570
+    }
+  ]
+}

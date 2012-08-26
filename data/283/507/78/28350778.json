@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -62.243, 
+              16.671
+            ], 
+            [
+              -62.243, 
+              16.817
+            ], 
+            [
+              -62.146, 
+              16.817
+            ], 
+            [
+              -62.146, 
+              16.671
+            ], 
+            [
+              -62.243, 
+              16.671
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350778, 
+        "name": "America/Montserrat", 
+        "ne_latitude": 16.817, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -62.146, 
+        "longitude": -62.194, 
+        "placetype": "Timezone", 
+        "iso": "MS", 
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "parent_woeid": 1, 
+        "latitude": 16.744, 
+        "sw_longitude": -62.243, 
+        "fullname": "America/Montserrat", 
+        "sw_latitude": 16.671
+      }, 
+      "id": 28350778
+    }
+  ]
+}

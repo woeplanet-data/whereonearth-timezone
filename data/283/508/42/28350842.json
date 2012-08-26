@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              113.850, 
+              -11.005
+            ], 
+            [
+              113.850, 
+              5.569
+            ], 
+            [
+              127.167, 
+              5.569
+            ], 
+            [
+              127.167, 
+              -11.005
+            ], 
+            [
+              113.850, 
+              -11.005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350842, 
+        "name": "Asia/Makassar", 
+        "ne_latitude": 5.569, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 127.167, 
+        "longitude": 116.423, 
+        "placetype": "Timezone", 
+        "iso": "ID", 
+        "date_indexed": "2010-12-02T16:55:18Z", 
+        "parent_woeid": 23424846, 
+        "latitude": 0.108, 
+        "sw_longitude": 113.850, 
+        "fullname": "Asia/Makassar, Indonesia", 
+        "sw_latitude": -11.005
+      }, 
+      "id": 28350842
+    }
+  ]
+}

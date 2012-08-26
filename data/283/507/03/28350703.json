@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              25.237, 
+              -22.418
+            ], 
+            [
+              25.237, 
+              -15.609
+            ], 
+            [
+              33.056, 
+              -15.609
+            ], 
+            [
+              33.056, 
+              -22.418
+            ], 
+            [
+              25.237, 
+              -22.418
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350703, 
+        "name": "Africa/Harare", 
+        "ne_latitude": -15.609, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 33.056, 
+        "longitude": 29.147, 
+        "placetype": "Timezone", 
+        "iso": "ZW", 
+        "date_indexed": "2010-12-02T16:52:36Z", 
+        "parent_woeid": 1, 
+        "latitude": -19.013, 
+        "sw_longitude": 25.237, 
+        "fullname": "Africa/Harare", 
+        "sw_latitude": -22.418
+      }, 
+      "id": 28350703
+    }
+  ]
+}

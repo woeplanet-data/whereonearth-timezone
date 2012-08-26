@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -94.683, 
+              60.703
+            ], 
+            [
+              -94.683, 
+              83.322
+            ], 
+            [
+              -60.509, 
+              83.322
+            ], 
+            [
+              -60.509, 
+              60.703
+            ], 
+            [
+              -94.683, 
+              60.703
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043693, 
+        "name": "America/Iqaluit", 
+        "ne_latitude": 83.322, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -60.509, 
+        "longitude": -77.596, 
+        "placetype": "Timezone", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
+        "parent_woeid": 20069920, 
+        "latitude": 72.201, 
+        "sw_longitude": -94.683, 
+        "fullname": "America/Iqaluit, Canada", 
+        "sw_latitude": 60.703
+      }, 
+      "id": 56043693
+    }
+  ]
+}

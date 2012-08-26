@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              14.123, 
+              49.002
+            ], 
+            [
+              14.123, 
+              54.836
+            ], 
+            [
+              24.146, 
+              54.836
+            ], 
+            [
+              24.146, 
+              49.002
+            ], 
+            [
+              14.123, 
+              49.002
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350923, 
+        "name": "Europe/Warsaw", 
+        "ne_latitude": 54.836, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 24.146, 
+        "longitude": 19.134, 
+        "placetype": "Timezone", 
+        "iso": "PL", 
+        "date_indexed": "2010-12-02T12:15:28Z", 
+        "parent_woeid": 1, 
+        "latitude": 51.919, 
+        "sw_longitude": 14.123, 
+        "fullname": "Europe/Warsaw", 
+        "sw_latitude": 49.002
+      }, 
+      "id": 28350923
+    }
+  ]
+}

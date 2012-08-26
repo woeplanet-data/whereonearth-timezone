@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              162.143, 
+              4.575
+            ], 
+            [
+              162.143, 
+              14.655
+            ], 
+            [
+              172.162, 
+              14.655
+            ], 
+            [
+              172.162, 
+              4.575
+            ], 
+            [
+              162.143, 
+              4.575
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 56043590, 
+        "name": "Pacific/Majuro", 
+        "ne_latitude": 14.655, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 172.162, 
+        "longitude": 171.082, 
+        "placetype": "Timezone", 
+        "iso": "MH", 
+        "date_indexed": "2010-12-02T09:35:37Z", 
+        "parent_woeid": 23424932, 
+        "latitude": 7.110, 
+        "sw_longitude": 162.143, 
+        "fullname": "Pacific/Majuro, Marshall Islands", 
+        "sw_latitude": 4.575
+      }, 
+      "id": 56043590
+    }
+  ]
+}

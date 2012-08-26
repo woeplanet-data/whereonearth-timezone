@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.495, 
+              1.653
+            ], 
+            [
+              8.495, 
+              13.078
+            ], 
+            [
+              16.192, 
+              13.078
+            ], 
+            [
+              16.192, 
+              1.653
+            ], 
+            [
+              8.495, 
+              1.653
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350699, 
+        "name": "Africa/Douala", 
+        "ne_latitude": 13.078, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 16.192, 
+        "longitude": 12.343, 
+        "placetype": "Timezone", 
+        "iso": "CM", 
+        "date_indexed": "2010-12-02T10:22:30Z", 
+        "parent_woeid": 1, 
+        "latitude": 7.365, 
+        "sw_longitude": 8.495, 
+        "fullname": "Africa/Douala", 
+        "sw_latitude": 1.653
+      }, 
+      "id": 28350699
+    }
+  ]
+}

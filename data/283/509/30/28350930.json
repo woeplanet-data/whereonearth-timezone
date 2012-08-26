@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              39.493, 
+              -22.367
+            ], 
+            [
+              39.493, 
+              -11.500
+            ], 
+            [
+              54.527, 
+              -11.500
+            ], 
+            [
+              54.527, 
+              -22.367
+            ], 
+            [
+              39.493, 
+              -22.367
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350930, 
+        "name": "Indian/Kerguelen", 
+        "ne_latitude": -11.500, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 54.527, 
+        "longitude": 40.386, 
+        "placetype": "Timezone", 
+        "iso": "TF", 
+        "date_indexed": "2010-12-02T08:53:34Z", 
+        "parent_woeid": 1, 
+        "latitude": -22.341, 
+        "sw_longitude": 39.493, 
+        "fullname": "Indian/Kerguelen", 
+        "sw_latitude": -22.367
+      }, 
+      "id": 28350930
+    }
+  ]
+}

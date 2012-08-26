@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.263, 
+              75.911
+            ], 
+            [
+              -73.263, 
+              80.684
+            ], 
+            [
+              -63.417, 
+              80.684
+            ], 
+            [
+              -63.417, 
+              75.911
+            ], 
+            [
+              -73.263, 
+              75.911
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28350800, 
+        "name": "America/Thule", 
+        "ne_latitude": 80.684, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -63.417, 
+        "longitude": -65.719, 
+        "placetype": "Timezone", 
+        "iso": "GL", 
+        "date_indexed": "2010-12-02T17:40:36Z", 
+        "parent_woeid": 20069857, 
+        "latitude": 77.490, 
+        "sw_longitude": -73.263, 
+        "fullname": "America/Thule, Greenland", 
+        "sw_latitude": 75.911
+      }, 
+      "id": 28350800
+    }
+  ]
+}
