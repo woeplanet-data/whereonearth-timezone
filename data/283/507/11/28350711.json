@@ -4732,20 +4732,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 11.13897705078125, 
         "name": "Africa/Lome", 
-        "woeid": 28350711, 
+        "hierarchy": [
+          "woe:timezone=28350711", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 1.806692838668823, 
         "longitude": 0.83, 
-        "parent_woeid": 1, 
-        "ne_latitude": 11.13897705078125, 
+        "placetype": "timezone", 
         "iso": "TG", 
-        "sw_latitude": 6.104417324066162, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "latitude": 8.622, 
         "sw_longitude": -0.147323876619339, 
         "fullname": "Africa/Lome", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "woe:id": 28350711, 
+        "sw_latitude": 6.104417324066162
       }, 
       "id": 28350711
     }

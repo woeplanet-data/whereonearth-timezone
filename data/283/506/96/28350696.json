@@ -9086,20 +9086,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 16.691633224487305, 
         "name": "Africa/Dakar", 
-        "woeid": 28350696, 
+        "hierarchy": [
+          "woe:timezone=28350696", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -11.355887413024902, 
         "longitude": -14.446, 
-        "parent_woeid": 1, 
-        "ne_latitude": 16.691633224487305, 
+        "placetype": "timezone", 
         "iso": "SN", 
-        "sw_latitude": 12.30727481842041, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:57:23Z", 
         "latitude": 14.499, 
         "sw_longitude": -17.535236358642578, 
         "fullname": "Africa/Dakar", 
-        "date_indexed": "2010-12-02T08:57:23Z"
+        "woe:id": 28350696, 
+        "sw_latitude": 12.30727481842041
       }, 
       "id": 28350696
     }

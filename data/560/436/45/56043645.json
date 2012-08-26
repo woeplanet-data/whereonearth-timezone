@@ -266,20 +266,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 35.924137115478516, 
         "name": "Africa/Ceuta", 
-        "woeid": 56043645, 
+        "hierarchy": [
+          "woe:timezone=56043645", 
+          "woe:country=23424950", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -2.421250104904175, 
         "longitude": -5.33, 
-        "parent_woeid": 23424950, 
-        "ne_latitude": 35.924137115478516, 
+        "placetype": "timezone", 
         "iso": "ES", 
-        "sw_latitude": 35.18527603149414, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:40:07Z", 
         "latitude": 35.895, 
         "sw_longitude": -5.384500026702881, 
         "fullname": "Africa/Ceuta, Spain", 
-        "date_indexed": "2010-12-02T17:40:07Z"
+        "woe:id": 56043645, 
+        "sw_latitude": 35.18527603149414
       }, 
       "id": 56043645
     }

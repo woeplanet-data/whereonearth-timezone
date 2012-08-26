@@ -22186,20 +22186,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 57.74841690063477, 
         "name": "Europe/Copenhagen", 
-        "woeid": 28350895, 
+        "hierarchy": [
+          "woe:timezone=28350895", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.158833503723146, 
         "longitude": 9.517, 
-        "parent_woeid": 1, 
-        "ne_latitude": 57.74841690063477, 
+        "placetype": "timezone", 
         "iso": "DK", 
-        "sw_latitude": 54.5623893737793, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:13:39Z", 
         "latitude": 56.276, 
         "sw_longitude": 8.075611114501953, 
         "fullname": "Europe/Copenhagen", 
-        "date_indexed": "2010-12-02T16:13:39Z"
+        "woe:id": 28350895, 
+        "sw_latitude": 54.5623893737793
       }, 
       "id": 28350895
     }

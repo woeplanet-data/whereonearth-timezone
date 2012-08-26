@@ -13444,20 +13444,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 43.238224029541016, 
         "name": "Asia/Bishkek", 
-        "woeid": 28350816, 
+        "hierarchy": [
+          "woe:timezone=28350816", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 80.28316497802734, 
         "longitude": 74.78, 
-        "parent_woeid": 1, 
-        "ne_latitude": 43.238224029541016, 
+        "placetype": "timezone", 
         "iso": "KG", 
-        "sw_latitude": 39.17283248901367, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:58:47Z", 
         "latitude": 41.206, 
         "sw_longitude": 69.276611328125, 
         "fullname": "Asia/Bishkek", 
-        "date_indexed": "2010-12-02T08:58:47Z"
+        "woe:id": 28350816, 
+        "sw_latitude": 39.17283248901367
       }, 
       "id": 28350816
     }

@@ -66178,20 +66178,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 53.6835823059082, 
         "name": "America/St_Johns", 
-        "woeid": 56043682, 
+        "hierarchy": [
+          "woe:timezone=56043682", 
+          "woe:state=2344919", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -52.63629150390625, 
         "longitude": -56.026, 
-        "parent_woeid": 2344919, 
-        "ne_latitude": 53.6835823059082, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 46.61433029174805, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 49.613, 
         "sw_longitude": -59.422958374023445, 
         "fullname": "America/St_Johns, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043682, 
+        "sw_latitude": 46.61433029174805
       }, 
       "id": 56043682
     }

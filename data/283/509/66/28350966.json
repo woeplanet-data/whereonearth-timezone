@@ -26532,20 +26532,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -14.091784477233887, 
         "name": "Pacific/Tahiti", 
-        "woeid": 28350966, 
+        "hierarchy": [
+          "woe:timezone=28350966", 
+          "woe:country=23424817", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -136.30165100097656, 
         "longitude": -149.376, 
-        "parent_woeid": 23424817, 
-        "ne_latitude": -14.091784477233887, 
+        "placetype": "timezone", 
         "iso": "PF", 
-        "sw_latitude": -27.65357208251953, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
         "latitude": -17.69, 
         "sw_longitude": -154.68817138671875, 
         "fullname": "Pacific/Tahiti, French Polynesia", 
-        "date_indexed": "2010-12-02T17:05:52Z"
+        "woe:id": 28350966, 
+        "sw_latitude": -27.65357208251953
       }, 
       "id": 28350966
     }

@@ -11000,20 +11000,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 34.68485641479492, 
         "name": "Asia/Beirut", 
-        "woeid": 28350815, 
+        "hierarchy": [
+          "woe:timezone=28350815", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 36.625362396240234, 
         "longitude": 35.877, 
-        "parent_woeid": 1, 
-        "ne_latitude": 34.68485641479492, 
+        "placetype": "timezone", 
         "iso": "LB", 
-        "sw_latitude": 33.0545654296875, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:50:25Z", 
         "latitude": 33.872, 
         "sw_longitude": 35.11427688598633, 
         "fullname": "Asia/Beirut", 
-        "date_indexed": "2010-12-02T16:50:25Z"
+        "woe:id": 28350815, 
+        "sw_latitude": 33.0545654296875
       }, 
       "id": 28350815
     }

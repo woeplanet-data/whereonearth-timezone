@@ -1394,20 +1394,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -10.319254875183105, 
         "name": "Indian/Mauritius", 
-        "woeid": 28350933, 
+        "hierarchy": [
+          "woe:timezone=28350933", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 63.50017929077149, 
         "longitude": 57.552, 
-        "parent_woeid": 1, 
-        "ne_latitude": -10.319254875183105, 
+        "placetype": "timezone", 
         "iso": "MU", 
-        "sw_latitude": -20.52571678161621, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:58:29Z", 
         "latitude": -20.255, 
         "sw_longitude": 56.512718200683594, 
         "fullname": "Indian/Mauritius", 
-        "date_indexed": "2010-12-02T08:58:29Z"
+        "woe:id": 28350933, 
+        "sw_latitude": -20.52571678161621
       }, 
       "id": 28350933
     }

@@ -10250,20 +10250,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 2.322611570358276, 
         "name": "Africa/Libreville", 
-        "woeid": 28350710, 
+        "hierarchy": [
+          "woe:timezone=28350710", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.502346992492676, 
         "longitude": 11.599, 
-        "parent_woeid": 1, 
-        "ne_latitude": 2.322611570358276, 
+        "placetype": "timezone", 
         "iso": "GA", 
-        "sw_latitude": -3.978805780410767, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:50:01Z", 
         "latitude": -0.828, 
         "sw_longitude": 8.695470809936523, 
         "fullname": "Africa/Libreville", 
-        "date_indexed": "2010-12-02T08:50:01Z"
+        "woe:id": 28350710, 
+        "sw_latitude": -3.978805780410767
       }, 
       "id": 28350710
     }

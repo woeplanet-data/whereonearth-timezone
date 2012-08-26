@@ -3568,20 +3568,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 31.584002285133323, 
         "name": "America/Chihuahua", 
-        "woeid": 56043598, 
+        "hierarchy": [
+          "woe:timezone=56043598", 
+          "woe:country=23424900", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -103.43362853101638, 
         "longitude": -106.186, 
-        "parent_woeid": 23424900, 
-        "ne_latitude": 31.584002285133323, 
+        "placetype": "timezone", 
         "iso": "MX", 
-        "sw_latitude": 25.60608673095703, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:02:03Z", 
         "latitude": 29.019, 
         "sw_longitude": -109.14639282226562, 
         "fullname": "America/Chihuahua, Mexico", 
-        "date_indexed": "2010-12-02T17:02:03Z"
+        "woe:id": 56043598, 
+        "sw_latitude": 25.60608673095703
       }, 
       "id": 56043598
     }

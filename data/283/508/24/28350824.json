@@ -10198,20 +10198,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 26.078861236572266, 
         "name": "Asia/Dubai", 
-        "woeid": 28350824, 
+        "hierarchy": [
+          "woe:timezone=28350824", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 56.375083923339844, 
         "longitude": 55.148, 
-        "parent_woeid": 1, 
-        "ne_latitude": 26.078861236572266, 
+        "placetype": "timezone", 
         "iso": "AE", 
-        "sw_latitude": 22.634071350097656, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:58:47Z", 
         "latitude": 24.352, 
         "sw_longitude": 51.50763702392578, 
         "fullname": "Asia/Dubai", 
-        "date_indexed": "2010-12-02T08:58:47Z"
+        "woe:id": 28350824, 
+        "sw_latitude": 22.634071350097656
       }, 
       "id": 28350824
     }

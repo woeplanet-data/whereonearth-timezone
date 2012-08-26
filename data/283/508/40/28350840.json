@@ -234,20 +234,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 22.222333908081055, 
         "name": "Asia/Macau", 
-        "woeid": 28350840, 
+        "hierarchy": [
+          "woe:timezone=28350840", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 113.59102630615234, 
         "longitude": 113.547, 
-        "parent_woeid": 1, 
-        "ne_latitude": 22.222333908081055, 
+        "placetype": "timezone", 
         "iso": "MO", 
-        "sw_latitude": 22.110666275024414, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:32:52Z", 
         "latitude": 22.201, 
         "sw_longitude": 113.52894592285156, 
         "fullname": "Asia/Macau", 
-        "date_indexed": "2010-12-02T16:32:52Z"
+        "woe:id": 28350840, 
+        "sw_latitude": 22.110666275024414
       }, 
       "id": 28350840
     }

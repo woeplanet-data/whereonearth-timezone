@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 28350969, 
+        "placetype": "timezone", 
         "name": "Pacific/Truk", 
-        "ne_latitude": 10.022, 
-        "provider": "geoplanet 7.6.0", 
+        "hierarchy": [
+          "woe:timezone=28350969", 
+          "woe:country=23424815", 
+          "woe:planet=1"
+        ], 
         "ne_longitude": 153.822, 
         "longitude": 138.125, 
-        "placetype": "Timezone", 
+        "ne_latitude": 10.022, 
         "iso": "FM", 
-        "date_indexed": "2010-12-02T16:11:23Z", 
-        "parent_woeid": 23424815, 
+        "sw_latitude": 5.285, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 9.537, 
         "sw_longitude": 138.053, 
         "fullname": "Pacific/Truk, Federated States of Micronesia", 
-        "sw_latitude": 5.285
+        "woe:id": 28350969, 
+        "date_indexed": "2010-12-02T16:11:23Z"
       }, 
       "id": 28350969
     }
+  ], 
+  "bbox": [
+    138.053, 
+    5.285, 
+    153.822, 
+    10.022
   ]
 }

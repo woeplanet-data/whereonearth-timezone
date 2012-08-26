@@ -8788,20 +8788,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 49.01705551147461, 
         "name": "Europe/Vienna", 
-        "woeid": 28350921, 
+        "hierarchy": [
+          "woe:timezone=28350921", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 17.162721633911133, 
         "longitude": 13.346, 
-        "parent_woeid": 1, 
-        "ne_latitude": 49.01705551147461, 
+        "placetype": "timezone", 
         "iso": "AT", 
-        "sw_latitude": 46.378028869628906, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:36:15Z", 
         "latitude": 47.697, 
         "sw_longitude": 9.535916328430176, 
         "fullname": "Europe/Vienna", 
-        "date_indexed": "2010-12-02T16:36:15Z"
+        "woe:id": 28350921, 
+        "sw_latitude": 46.378028869628906
       }, 
       "id": 28350921
     }

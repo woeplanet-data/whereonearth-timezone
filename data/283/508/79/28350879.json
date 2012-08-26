@@ -44222,20 +44222,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -10.902860641479492, 
         "name": "Australia/Darwin", 
-        "woeid": 28350879, 
+        "hierarchy": [
+          "woe:timezone=28350879", 
+          "woe:country=23424748", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 138.00271606445312, 
         "longitude": 133.502, 
-        "parent_woeid": 23424748, 
-        "ne_latitude": -10.902860641479492, 
+        "placetype": "timezone", 
         "iso": "AU", 
-        "sw_latitude": -26.00672149658203, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:47:57Z", 
         "latitude": -18.392, 
         "sw_longitude": 128.9958953857422, 
         "fullname": "Australia/Darwin, Australia", 
-        "date_indexed": "2010-12-02T17:47:57Z"
+        "woe:id": 28350879, 
+        "sw_latitude": -26.00672149658203
       }, 
       "id": 28350879
     }

@@ -131590,20 +131590,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 21.1206111907959, 
         "name": "Asia/Manila", 
-        "woeid": 28350843, 
+        "hierarchy": [
+          "woe:timezone=28350843", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 126.60152435302736, 
         "longitude": 121.863, 
-        "parent_woeid": 1, 
-        "ne_latitude": 21.1206111907959, 
+        "placetype": "timezone", 
         "iso": "PH", 
-        "sw_latitude": 4.613444328308105, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:57:17Z", 
         "latitude": 12.908, 
         "sw_longitude": 116.93155670166016, 
         "fullname": "Asia/Manila", 
-        "date_indexed": "2010-12-02T09:57:17Z"
+        "woe:id": 28350843, 
+        "sw_latitude": 4.613444328308105
       }, 
       "id": 28350843
     }

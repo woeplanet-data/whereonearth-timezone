@@ -25034,20 +25034,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 37.09700012207031, 
         "name": "Asia/Karachi", 
-        "woeid": 28350835, 
+        "hierarchy": [
+          "woe:timezone=28350835", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 77.8409194946289, 
         "longitude": 69.36, 
-        "parent_woeid": 1, 
-        "ne_latitude": 37.09700012207031, 
+        "placetype": "timezone", 
         "iso": "PK", 
-        "sw_latitude": 23.69469451904297, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:57:12Z", 
         "latitude": 30.442, 
         "sw_longitude": 60.87861251831055, 
         "fullname": "Asia/Karachi", 
-        "date_indexed": "2010-12-02T17:57:12Z"
+        "woe:id": 28350835, 
+        "sw_latitude": 23.69469451904297
       }, 
       "id": 28350835
     }

@@ -10906,20 +10906,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 14.655166625976562, 
         "name": "Pacific/Majuro", 
-        "woeid": 56043590, 
+        "hierarchy": [
+          "woe:timezone=56043590", 
+          "woe:country=23424932", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 172.16200256347656, 
         "longitude": 171.082, 
-        "parent_woeid": 23424932, 
-        "ne_latitude": 14.655166625976562, 
+        "placetype": "timezone", 
         "iso": "MH", 
-        "sw_latitude": 4.5748610496521, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:35:37Z", 
         "latitude": 7.11, 
         "sw_longitude": 160.9525604248047, 
         "fullname": "Pacific/Majuro, Marshall Islands", 
-        "date_indexed": "2010-12-02T09:35:37Z"
+        "woe:id": 56043590, 
+        "sw_latitude": 4.5748610496521
       }, 
       "id": 56043590
     }

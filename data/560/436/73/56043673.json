@@ -65110,20 +65110,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 60.37267684936524, 
         "name": "America/Goose_Bay", 
-        "woeid": 56043673, 
+        "hierarchy": [
+          "woe:timezone=56043673", 
+          "woe:state=2344919", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -56.27646255493164, 
         "longitude": -61.671, 
-        "parent_woeid": 2344919, 
-        "ne_latitude": 60.37267684936524, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 51.595375061035156, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 55.993, 
         "sw_longitude": -67.8165054321289, 
         "fullname": "America/Goose_Bay, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043673, 
+        "sw_latitude": 51.595375061035156
       }, 
       "id": 56043673
     }

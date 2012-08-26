@@ -15824,20 +15824,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 38.48341751098633, 
         "name": "Asia/Kabul", 
-        "woeid": 28350833, 
+        "hierarchy": [
+          "woe:timezone=28350833", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 74.87944793701172, 
         "longitude": 67.679, 
-        "parent_woeid": 1, 
-        "ne_latitude": 38.48341751098633, 
+        "placetype": "timezone", 
         "iso": "AF", 
-        "sw_latitude": 29.37747192382813, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:03:37Z", 
         "latitude": 33.93, 
         "sw_longitude": 60.47844314575195, 
         "fullname": "Asia/Kabul", 
-        "date_indexed": "2010-12-02T18:03:37Z"
+        "woe:id": 28350833, 
+        "sw_latitude": 29.37747192382813
       }, 
       "id": 28350833
     }

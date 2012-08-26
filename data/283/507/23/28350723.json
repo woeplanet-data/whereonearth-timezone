@@ -9916,20 +9916,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 23.525026321411133, 
         "name": "Africa/Niamey", 
-        "woeid": 28350723, 
+        "hierarchy": [
+          "woe:timezone=28350723", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 15.995642662048342, 
         "longitude": 8.081, 
-        "parent_woeid": 1, 
-        "ne_latitude": 23.525026321411133, 
+        "placetype": "timezone", 
         "iso": "NE", 
-        "sw_latitude": 11.696974754333498, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:43:23Z", 
         "latitude": 17.611, 
         "sw_longitude": 0.166250437498093, 
         "fullname": "Africa/Niamey", 
-        "date_indexed": "2010-12-02T17:43:23Z"
+        "woe:id": 28350723, 
+        "sw_latitude": 11.696974754333498
       }, 
       "id": 28350723
     }

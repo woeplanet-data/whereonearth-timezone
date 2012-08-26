@@ -59434,20 +59434,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 70.09605407714844, 
         "name": "Europe/Helsinki", 
-        "woeid": 28350898, 
+        "hierarchy": [
+          "woe:timezone=28350898", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 31.580944061279297, 
         "longitude": 25.392, 
-        "parent_woeid": 1, 
-        "ne_latitude": 70.09605407714844, 
+        "placetype": "timezone", 
         "iso": "ZZ", 
-        "sw_latitude": 59.76758193969727, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:31:49Z", 
         "latitude": 64.861, 
         "sw_longitude": 20.556943893432617, 
         "fullname": "Europe/Helsinki", 
-        "date_indexed": "2010-12-02T16:31:49Z"
+        "woe:id": 28350898, 
+        "sw_latitude": 59.76758193969727
       }, 
       "id": 28350898
     }

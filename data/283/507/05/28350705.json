@@ -4992,20 +4992,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 4.214426517486572, 
         "name": "Africa/Kampala", 
-        "woeid": 28350705, 
+        "hierarchy": [
+          "woe:timezone=28350705", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 35.036048889160156, 
         "longitude": 32.305, 
-        "parent_woeid": 1, 
-        "ne_latitude": 4.214426517486572, 
+        "placetype": "timezone", 
         "iso": "UG", 
-        "sw_latitude": -1.484049558639526, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:22:43Z", 
         "latitude": 1.365, 
         "sw_longitude": 29.573251724243164, 
         "fullname": "Africa/Kampala", 
-        "date_indexed": "2010-12-02T10:22:43Z"
+        "woe:id": 28350705, 
+        "sw_latitude": -1.484049558639526
       }, 
       "id": 28350705
     }

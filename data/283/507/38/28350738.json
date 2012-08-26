@@ -252,20 +252,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 13.32725715637207, 
         "name": "America/Barbados", 
-        "woeid": 28350738, 
+        "hierarchy": [
+          "woe:timezone=28350738", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -59.42037582397461, 
         "longitude": -59.535, 
-        "parent_woeid": 1, 
-        "ne_latitude": 13.32725715637207, 
+        "placetype": "timezone", 
         "iso": "BB", 
-        "sw_latitude": 13.039843559265137, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:35:19Z", 
         "latitude": 13.184, 
         "sw_longitude": -59.648921966552734, 
         "fullname": "America/Barbados", 
-        "date_indexed": "2010-12-02T09:35:19Z"
+        "woe:id": 28350738, 
+        "sw_latitude": 13.039843559265137
       }, 
       "id": 28350738
     }

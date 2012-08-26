@@ -15440,20 +15440,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -9.680566787719727, 
         "name": "America/La_Paz", 
-        "woeid": 28350768, 
+        "hierarchy": [
+          "woe:timezone=28350768", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -57.45809555053711, 
         "longitude": -63.549, 
-        "parent_woeid": 1, 
-        "ne_latitude": -9.680566787719727, 
+        "placetype": "timezone", 
         "iso": "BO", 
-        "sw_latitude": -22.896133422851562, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:57:50Z", 
         "latitude": -16.288, 
         "sw_longitude": -69.64076232910156, 
         "fullname": "America/La_Paz", 
-        "date_indexed": "2010-12-02T17:57:50Z"
+        "woe:id": 28350768, 
+        "sw_latitude": -22.896133422851562
       }, 
       "id": 28350768
     }

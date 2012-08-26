@@ -36758,20 +36758,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 56.859169006347656, 
         "name": "America/Toronto", 
-        "woeid": 56043697, 
+        "hierarchy": [
+          "woe:timezone=56043697", 
+          "woe:state=2344922", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -74.32299041748047, 
         "longitude": -86.417, 
-        "parent_woeid": 2344922, 
-        "ne_latitude": 56.859169006347656, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 41.70829391479492, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 53.98, 
         "sw_longitude": -91.0, 
         "fullname": "America/Toronto, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043697, 
+        "sw_latitude": 41.70829391479492
       }, 
       "id": 56043697
     }

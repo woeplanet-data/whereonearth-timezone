@@ -5628,20 +5628,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 12.418347358703613, 
         "name": "Africa/Porto-Novo", 
-        "woeid": 28350726, 
+        "hierarchy": [
+          "woe:timezone=28350726", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 3.8517005443573, 
         "longitude": 2.313, 
-        "parent_woeid": 1, 
-        "ne_latitude": 12.418347358703613, 
+        "placetype": "timezone", 
         "iso": "BJ", 
-        "sw_latitude": 6.225748062133789, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:16:21Z", 
         "latitude": 9.322, 
         "sw_longitude": 0.774575054645538, 
         "fullname": "Africa/Porto-Novo", 
-        "date_indexed": "2010-12-02T18:16:21Z"
+        "woe:id": 28350726, 
+        "sw_latitude": 6.225748062133789
       }, 
       "id": 28350726
     }

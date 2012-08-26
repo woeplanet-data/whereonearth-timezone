@@ -2566,20 +2566,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 3.785979747772217, 
         "name": "Africa/Malabo", 
-        "woeid": 28350715, 
+        "hierarchy": [
+          "woe:timezone=28350715", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 11.335723876953125, 
         "longitude": 10.341, 
-        "parent_woeid": 1, 
-        "ne_latitude": 3.785979747772217, 
+        "placetype": "timezone", 
         "iso": "GQ", 
-        "sw_latitude": -1.459946393966675, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:55:36Z", 
         "latitude": 1.634, 
         "sw_longitude": 5.602366924285889, 
         "fullname": "Africa/Malabo", 
-        "date_indexed": "2010-12-02T16:55:36Z"
+        "woe:id": 28350715, 
+        "sw_latitude": -1.459946393966675
       }, 
       "id": 28350715
     }

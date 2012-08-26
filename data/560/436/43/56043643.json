@@ -11694,20 +11694,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 45.59967803955078, 
         "name": "Asia/Samarkand", 
-        "woeid": 56043643, 
+        "hierarchy": [
+          "woe:timezone=56043643", 
+          "woe:country=23424980", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 68.40264129638672, 
         "longitude": 64.564, 
-        "parent_woeid": 23424980, 
-        "ne_latitude": 45.59967803955078, 
+        "placetype": "timezone", 
         "iso": "UZ", 
-        "sw_latitude": 37.18433380126953, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:18:54Z", 
         "latitude": 41.395, 
         "sw_longitude": 55.996639251708984, 
         "fullname": "Asia/Samarkand, Uzbekistan", 
-        "date_indexed": "2010-12-02T18:18:54Z"
+        "woe:id": 56043643, 
+        "sw_latitude": 37.18433380126953
       }, 
       "id": 56043643
     }

@@ -2654,20 +2654,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 12.706832885742188, 
         "name": "Africa/Djibouti", 
-        "woeid": 28350698, 
+        "hierarchy": [
+          "woe:timezone=28350698", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 43.41697311401367, 
         "longitude": 42.595, 
-        "parent_woeid": 1, 
-        "ne_latitude": 12.706832885742188, 
+        "placetype": "timezone", 
         "iso": "DJ", 
-        "sw_latitude": 10.909916877746582, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:14:08Z", 
         "latitude": 11.808, 
         "sw_longitude": 41.77344512939453, 
         "fullname": "Africa/Djibouti", 
-        "date_indexed": "2010-12-02T16:14:08Z"
+        "woe:id": 28350698, 
+        "sw_latitude": 10.909916877746582
       }, 
       "id": 28350698
     }

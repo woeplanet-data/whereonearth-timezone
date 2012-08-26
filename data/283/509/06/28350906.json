@@ -710,20 +710,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 36.082027435302734, 
         "name": "Europe/Malta", 
-        "woeid": 28350906, 
+        "hierarchy": [
+          "woe:timezone=28350906", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.577638626098635, 
         "longitude": 14.448, 
-        "parent_woeid": 1, 
-        "ne_latitude": 36.082027435302734, 
+        "placetype": "timezone", 
         "iso": "MT", 
-        "sw_latitude": 35.81027603149414, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T07:50:18Z", 
         "latitude": 35.902, 
         "sw_longitude": 14.191583633422852, 
         "fullname": "Europe/Malta", 
-        "date_indexed": "2010-12-02T07:50:18Z"
+        "woe:id": 28350906, 
+        "sw_latitude": 35.81027603149414
       }, 
       "id": 28350906
     }

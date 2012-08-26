@@ -5474,20 +5474,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -3.711519241333008, 
         "name": "Indian/Mahe", 
-        "woeid": 28350931, 
+        "hierarchy": [
+          "woe:timezone=28350931", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 56.27950668334962, 
         "longitude": 55.487, 
-        "parent_woeid": 1, 
-        "ne_latitude": -3.711519241333008, 
+        "placetype": "timezone", 
         "iso": "SC", 
-        "sw_latitude": -10.193705558776855, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:53:34Z", 
         "latitude": -4.684, 
         "sw_longitude": 46.19920349121094, 
         "fullname": "Indian/Mahe", 
-        "date_indexed": "2010-12-02T08:53:34Z"
+        "woe:id": 28350931, 
+        "sw_latitude": -10.193705558776855
       }, 
       "id": 28350931
     }

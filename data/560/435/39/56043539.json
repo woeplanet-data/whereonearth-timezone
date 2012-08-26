@@ -822,20 +822,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -39.58130645751953, 
         "name": "Australia/Currie", 
-        "woeid": 56043539, 
+        "hierarchy": [
+          "woe:timezone=56043539", 
+          "woe:country=23424748", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 144.13858032226562, 
         "longitude": 143.992, 
-        "parent_woeid": 23424748, 
-        "ne_latitude": -39.58130645751953, 
+        "placetype": "timezone", 
         "iso": "AU", 
-        "sw_latitude": -40.15881347656251, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:47:57Z", 
         "latitude": -39.871, 
         "sw_longitude": 143.81761169433594, 
         "fullname": "Australia/Currie, Australia", 
-        "date_indexed": "2010-12-02T17:47:57Z"
+        "woe:id": 56043539, 
+        "sw_latitude": -40.15881347656251
       }, 
       "id": 56043539
     }

@@ -7482,20 +7482,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -30.082223892211914, 
         "name": "America/Montevideo", 
-        "woeid": 28350777, 
+        "hierarchy": [
+          "woe:timezone=28350777", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -53.07393264770508, 
         "longitude": -55.758, 
-        "parent_woeid": 1, 
-        "ne_latitude": -30.082223892211914, 
+        "placetype": "timezone", 
         "iso": "UY", 
-        "sw_latitude": -35.047943115234375, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:58:27Z", 
         "latitude": -32.532, 
         "sw_longitude": -58.44272232055665, 
         "fullname": "America/Montevideo", 
-        "date_indexed": "2010-12-02T17:58:27Z"
+        "woe:id": 28350777, 
+        "sw_latitude": -35.047943115234375
       }, 
       "id": 28350777
     }

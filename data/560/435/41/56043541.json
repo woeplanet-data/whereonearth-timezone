@@ -17334,20 +17334,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -22.46247100830078, 
         "name": "America/Argentina/Cordoba", 
-        "woeid": 56043541, 
+        "hierarchy": [
+          "woe:timezone=56043541", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -53.591835021972656, 
         "longitude": -59.707, 
-        "parent_woeid": 23424747, 
-        "ne_latitude": -22.46247100830078, 
+        "placetype": "timezone", 
         "iso": "AR", 
-        "sw_latitude": -35.002227783203125, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "latitude": -28.735, 
         "sw_longitude": -65.76722717285156, 
         "fullname": "America/Argentina/Cordoba, Argentina", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "woe:id": 56043541, 
+        "sw_latitude": -35.002227783203125
       }, 
       "id": 56043541
     }

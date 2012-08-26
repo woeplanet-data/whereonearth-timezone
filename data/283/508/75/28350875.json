@@ -28182,20 +28182,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -51.01494216918945, 
         "name": "Atlantic/Stanley", 
-        "woeid": 28350875, 
+        "hierarchy": [
+          "woe:timezone=28350875", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -57.712486267089844, 
         "longitude": -58.721, 
-        "parent_woeid": 1, 
-        "ne_latitude": -51.01494216918945, 
+        "placetype": "timezone", 
         "iso": "FK", 
-        "sw_latitude": -52.90058135986328, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:12:16Z", 
         "latitude": -51.801, 
         "sw_longitude": -61.3451919555664, 
         "fullname": "Atlantic/Stanley", 
-        "date_indexed": "2010-12-02T16:12:16Z"
+        "woe:id": 28350875, 
+        "sw_latitude": -52.90058135986328
       }, 
       "id": 28350875
     }

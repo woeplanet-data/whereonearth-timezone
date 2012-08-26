@@ -2924,20 +2924,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -2.310123205184937, 
         "name": "Africa/Bujumbura", 
-        "woeid": 28350692, 
+        "hierarchy": [
+          "woe:timezone=28350692", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 30.847728729248047, 
         "longitude": 29.92, 
-        "parent_woeid": 1, 
-        "ne_latitude": -2.310123205184937, 
+        "placetype": "timezone", 
         "iso": "BI", 
-        "sw_latitude": -4.465712547302246, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:58:52Z", 
         "latitude": -3.388, 
         "sw_longitude": 28.99306106567383, 
         "fullname": "Africa/Bujumbura", 
-        "date_indexed": "2010-12-02T08:58:52Z"
+        "woe:id": 28350692, 
+        "sw_latitude": -4.465712547302246
       }, 
       "id": 28350692
     }

@@ -139450,20 +139450,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 53.56085968017578, 
         "name": "Asia/Shanghai", 
-        "woeid": 56043597, 
+        "hierarchy": [
+          "woe:timezone=56043597", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 126.04161356993953, 
         "longitude": 102.215, 
-        "parent_woeid": 23424781, 
-        "ne_latitude": 53.56085968017578, 
+        "placetype": "timezone", 
         "iso": "CN", 
-        "sw_latitude": 21.836915969848633, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:52:12Z", 
         "latitude": 36.894, 
         "sw_longitude": 108.37015177835194, 
         "fullname": "Asia/Shanghai, China", 
-        "date_indexed": "2010-12-02T08:52:12Z"
+        "woe:id": 56043597, 
+        "sw_latitude": 21.836915969848633
       }, 
       "id": 56043597
     }

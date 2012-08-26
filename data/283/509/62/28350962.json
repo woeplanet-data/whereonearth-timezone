@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 28350962, 
+        "placetype": "timezone", 
         "name": "Pacific/Ponape", 
-        "ne_latitude": 9.796, 
-        "provider": "geoplanet 7.6.0", 
+        "hierarchy": [
+          "woe:timezone=28350962", 
+          "woe:country=23424815", 
+          "woe:planet=1"
+        ], 
         "ne_longitude": 160.992, 
         "longitude": 158.223, 
-        "placetype": "Timezone", 
+        "ne_latitude": 9.796, 
         "iso": "FM", 
-        "date_indexed": "2010-12-02T16:11:23Z", 
-        "parent_woeid": 23424815, 
+        "sw_latitude": 5.777, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 6.885, 
         "sw_longitude": 157.148, 
         "fullname": "Pacific/Ponape, Federated States of Micronesia", 
-        "sw_latitude": 5.777
+        "woe:id": 28350962, 
+        "date_indexed": "2010-12-02T16:11:23Z"
       }, 
       "id": 28350962
     }
+  ], 
+  "bbox": [
+    157.148, 
+    5.777, 
+    160.992, 
+    9.796
   ]
 }

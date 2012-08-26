@@ -99994,20 +99994,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 71.39065551757812, 
         "name": "America/Anchorage", 
-        "woeid": 56043669, 
+        "hierarchy": [
+          "woe:timezone=56043669", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -140.99221801757812, 
         "longitude": -149.054, 
-        "parent_woeid": 23424977, 
-        "ne_latitude": 71.39065551757812, 
+        "placetype": "timezone", 
         "iso": "US", 
-        "sw_latitude": 54.75151062011719, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
         "latitude": 62.89, 
         "sw_longitude": -162.0, 
         "fullname": "America/Anchorage, United States", 
-        "date_indexed": "2010-12-02T19:08:31Z"
+        "woe:id": 56043669, 
+        "sw_latitude": 54.75151062011719
       }, 
       "id": 56043669
     }

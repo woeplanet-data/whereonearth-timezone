@@ -5874,20 +5874,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 26.074541091918945, 
         "name": "Pacific/Honolulu", 
-        "woeid": 28350949, 
+        "hierarchy": [
+          "woe:timezone=28350949", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -154.8099365234375, 
         "longitude": -155.434, 
-        "parent_woeid": 23424977, 
-        "ne_latitude": 26.074541091918945, 
+        "placetype": "timezone", 
         "iso": "US", 
-        "sw_latitude": 18.913684844970703, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
         "latitude": 19.59, 
         "sw_longitude": -173.96905517578125, 
         "fullname": "Pacific/Honolulu, United States", 
-        "date_indexed": "2010-12-02T19:08:31Z"
+        "woe:id": 28350949, 
+        "sw_latitude": 18.913684844970703
       }, 
       "id": 28350949
     }

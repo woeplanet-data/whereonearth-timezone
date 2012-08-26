@@ -11516,20 +11516,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 14.893750190734863, 
         "name": "Africa/Addis_Ababa", 
-        "woeid": 28350683, 
+        "hierarchy": [
+          "woe:timezone=28350683", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 47.98617935180664, 
         "longitude": 40.493, 
-        "parent_woeid": 1, 
-        "ne_latitude": 14.893750190734863, 
+        "placetype": "timezone", 
         "iso": "ET", 
-        "sw_latitude": 3.402422189712524, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:52:18Z", 
         "latitude": 9.147, 
         "sw_longitude": 32.99993896484375, 
         "fullname": "Africa/Addis_Ababa", 
-        "date_indexed": "2010-12-02T08:52:18Z"
+        "woe:id": 28350683, 
+        "sw_latitude": 3.402422189712524
       }, 
       "id": 28350683
     }

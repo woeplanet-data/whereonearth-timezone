@@ -120,20 +120,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 50.31015606361938, 
         "name": "America/Swift_Current", 
-        "woeid": 56043686, 
+        "hierarchy": [
+          "woe:timezone=56043686", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -107.75804417474399, 
         "longitude": -110.275, 
-        "parent_woeid": 23424775, 
-        "ne_latitude": 50.31015606361938, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 50.25922002440763, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 50.904, 
         "sw_longitude": -107.82911043798795, 
         "fullname": "America/Swift_Current, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043686, 
+        "sw_latitude": 50.25922002440763
       }, 
       "id": 56043686
     }

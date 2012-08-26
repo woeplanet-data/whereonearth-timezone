@@ -360,20 +360,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 42.658695220947266, 
         "name": "Europe/Andorra", 
-        "woeid": 28350887, 
+        "hierarchy": [
+          "woe:timezone=28350887", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 1.780388832092285, 
         "longitude": 1.591, 
-        "parent_woeid": 1, 
-        "ne_latitude": 42.658695220947266, 
+        "placetype": "timezone", 
         "iso": "AD", 
-        "sw_latitude": 42.435081481933594, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T07:50:33Z", 
         "latitude": 42.53, 
         "sw_longitude": 1.4221111536026, 
         "fullname": "Europe/Andorra", 
-        "date_indexed": "2010-12-02T07:50:33Z"
+        "woe:id": 28350887, 
+        "sw_latitude": 42.435081481933594
       }, 
       "id": 28350887
     }

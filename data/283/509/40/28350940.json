@@ -12634,20 +12634,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -13.073444366455078, 
         "name": "Pacific/Efate", 
-        "woeid": 28350940, 
+        "hierarchy": [
+          "woe:timezone=28350940", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 170.23477172851562, 
         "longitude": 167.038, 
-        "parent_woeid": 1, 
-        "ne_latitude": -13.073444366455078, 
+        "placetype": "timezone", 
         "iso": "VU", 
-        "sw_latitude": -20.248945236206055, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:52:20Z", 
         "latitude": -15.147, 
         "sw_longitude": 166.5249786376953, 
         "fullname": "Pacific/Efate", 
-        "date_indexed": "2010-12-02T17:52:20Z"
+        "woe:id": 28350940, 
+        "sw_latitude": -20.248945236206055
       }, 
       "id": 28350940
     }

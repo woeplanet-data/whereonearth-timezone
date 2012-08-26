@@ -8870,20 +8870,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 3.391722202301025, 
         "name": "Pacific/Tarawa", 
-        "woeid": 28350967, 
+        "hierarchy": [
+          "woe:timezone=28350967", 
+          "woe:country=23424867", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 176.8501434326172, 
         "longitude": 176.452, 
-        "parent_woeid": 23424867, 
-        "ne_latitude": 3.391722202301025, 
+        "placetype": "timezone", 
         "iso": "KI", 
-        "sw_latitude": -2.673027753829956, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:42:25Z", 
         "latitude": -1.361, 
         "sw_longitude": 169.52252197265625, 
         "fullname": "Pacific/Tarawa, Kiribati", 
-        "date_indexed": "2010-12-02T17:42:25Z"
+        "woe:id": 28350967, 
+        "sw_latitude": -2.673027753829956
       }, 
       "id": 28350967
     }

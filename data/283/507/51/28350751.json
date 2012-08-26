@@ -948,20 +948,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 57.4642, 
         "name": "America/Dawson_Creek", 
-        "woeid": 28350751, 
+        "hierarchy": [
+          "woe:timezone=28350751", 
+          "woe:state=2344916", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -119.99863588182214, 
         "longitude": -120.443, 
-        "parent_woeid": 2344916, 
-        "ne_latitude": 57.4642, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 53.7987, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 56.277, 
         "sw_longitude": -123.818, 
         "fullname": "America/Dawson_Creek, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 28350751, 
+        "sw_latitude": 53.7987
       }, 
       "id": 28350751
     }

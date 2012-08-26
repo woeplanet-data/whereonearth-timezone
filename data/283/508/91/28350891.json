@@ -5596,20 +5596,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 51.50544357299805, 
         "name": "Europe/Brussels", 
-        "woeid": 28350891, 
+        "hierarchy": [
+          "woe:timezone=28350891", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 6.403861045837402, 
         "longitude": 4.477, 
-        "parent_woeid": 1, 
-        "ne_latitude": 51.50544357299805, 
+        "placetype": "timezone", 
         "iso": "BE", 
-        "sw_latitude": 49.49361038208008, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:32:39Z", 
         "latitude": 50.501, 
         "sw_longitude": 2.546944379806519, 
         "fullname": "Europe/Brussels", 
-        "date_indexed": "2010-12-02T16:32:39Z"
+        "woe:id": 28350891, 
+        "sw_latitude": 49.49361038208008
       }, 
       "id": 28350891
     }

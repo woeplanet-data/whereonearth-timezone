@@ -86198,20 +86198,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -0.877888917922974, 
         "name": "Pacific/Port_Moresby", 
-        "woeid": 28350963, 
+        "hierarchy": [
+          "woe:timezone=28350963", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 159.4781951904297, 
         "longitude": 145.859, 
-        "parent_woeid": 1, 
-        "ne_latitude": -0.877888917922974, 
+        "placetype": "timezone", 
         "iso": "PG", 
-        "sw_latitude": -11.65786075592041, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:57:34Z", 
         "latitude": -6.656, 
         "sw_longitude": 140.84286499023438, 
         "fullname": "Pacific/Port_Moresby", 
-        "date_indexed": "2010-12-02T09:57:34Z"
+        "woe:id": 28350963, 
+        "sw_latitude": -11.65786075592041
       }, 
       "id": 28350963
     }

@@ -20542,20 +20542,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -0.990735948085785, 
         "name": "Africa/Dar_es_Salaam", 
-        "woeid": 28350697, 
+        "hierarchy": [
+          "woe:timezone=28350697", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 40.44322204589844, 
         "longitude": 34.885, 
-        "parent_woeid": 1, 
-        "ne_latitude": -0.990735948085785, 
+        "placetype": "timezone", 
         "iso": "TZ", 
-        "sw_latitude": -11.745696067810059, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:16:10Z", 
         "latitude": -6.368, 
         "sw_longitude": 29.327167510986325, 
         "fullname": "Africa/Dar_es_Salaam", 
-        "date_indexed": "2010-12-02T12:16:10Z"
+        "woe:id": 28350697, 
+        "sw_latitude": -11.745696067810059
       }, 
       "id": 28350697
     }

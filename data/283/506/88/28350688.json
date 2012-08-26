@@ -2312,20 +2312,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 13.826570510864258, 
         "name": "Africa/Banjul", 
-        "woeid": 28350688, 
+        "hierarchy": [
+          "woe:timezone=28350688", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -13.7977933883667, 
         "longitude": -15.311, 
-        "parent_woeid": 1, 
-        "ne_latitude": 13.826570510864258, 
+        "placetype": "timezone", 
         "iso": "GM", 
-        "sw_latitude": 13.064251899719238, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:51:00Z", 
         "latitude": 13.445, 
         "sw_longitude": -16.8250789642334, 
         "fullname": "Africa/Banjul", 
-        "date_indexed": "2010-12-02T08:51:00Z"
+        "woe:id": 28350688, 
+        "sw_latitude": 13.064251899719238
       }, 
       "id": 28350688
     }

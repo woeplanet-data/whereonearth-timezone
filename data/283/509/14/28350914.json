@@ -35154,20 +35154,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 47.09519577026367, 
         "name": "Europe/Rome", 
-        "woeid": 28350914, 
+        "hierarchy": [
+          "woe:timezone=28350914", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 18.513444900512695, 
         "longitude": 12.573, 
-        "parent_woeid": 1, 
-        "ne_latitude": 47.09519577026367, 
+        "placetype": "timezone", 
         "iso": "ZZ", 
-        "sw_latitude": 35.49219512939453, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:31:49Z", 
         "latitude": 42.504, 
         "sw_longitude": 6.614888668060303, 
         "fullname": "Europe/Rome", 
-        "date_indexed": "2010-12-02T16:31:49Z"
+        "woe:id": 28350914, 
+        "sw_latitude": 35.49219512939453
       }, 
       "id": 28350914
     }

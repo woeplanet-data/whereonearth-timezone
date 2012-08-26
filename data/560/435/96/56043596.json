@@ -45198,20 +45198,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 49.17499923706055, 
         "name": "Asia/Urumqi", 
-        "woeid": 56043596, 
+        "hierarchy": [
+          "woe:timezone=56043596", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 111.68179432909736, 
         "longitude": 87.313, 
-        "parent_woeid": 23424781, 
-        "ne_latitude": 49.17499923706055, 
+        "placetype": "timezone", 
         "iso": "CN", 
-        "sw_latitude": 20.228471755981445, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:52:12Z", 
         "latitude": 43.277, 
         "sw_longitude": 81.71057401932333, 
         "fullname": "Asia/Urumqi, China", 
-        "date_indexed": "2010-12-02T08:52:12Z"
+        "woe:id": 56043596, 
+        "sw_latitude": 20.228471755981445
       }, 
       "id": 56043596
     }

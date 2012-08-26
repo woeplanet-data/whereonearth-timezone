@@ -82326,20 +82326,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 62.585182189941406, 
         "name": "America/Montreal", 
-        "woeid": 56043679, 
+        "hierarchy": [
+          "woe:timezone=56043679", 
+          "woe:state=2344924", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -57.10003263627703, 
         "longitude": -70.734, 
-        "parent_woeid": 2344924, 
-        "ne_latitude": 62.585182189941406, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 44.99332046508789, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 54.032, 
         "sw_longitude": -79.76542663574219, 
         "fullname": "America/Montreal, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043679, 
+        "sw_latitude": 44.99332046508789
       }, 
       "id": 56043679
     }

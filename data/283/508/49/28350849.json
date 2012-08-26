@@ -4074,20 +4074,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 26.177583694458008, 
         "name": "Asia/Qatar", 
-        "woeid": 28350849, 
+        "hierarchy": [
+          "woe:timezone=28350849", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 52.427581787109375, 
         "longitude": 51.19, 
-        "parent_woeid": 1, 
-        "ne_latitude": 26.177583694458008, 
+        "placetype": "timezone", 
         "iso": "QA", 
-        "sw_latitude": 24.473329544067383, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:16:10Z", 
         "latitude": 25.32, 
         "sw_longitude": 50.75722122192383, 
         "fullname": "Asia/Qatar", 
-        "date_indexed": "2010-12-02T12:16:10Z"
+        "woe:id": 28350849, 
+        "sw_latitude": 24.473329544067383
       }, 
       "id": 28350849
     }

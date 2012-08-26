@@ -34626,20 +34626,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 27.232027053833008, 
         "name": "America/Nassau", 
-        "woeid": 28350779, 
+        "hierarchy": [
+          "woe:timezone=28350779", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -72.71159362792969, 
         "longitude": -78.08, 
-        "parent_woeid": 1, 
-        "ne_latitude": 27.232027053833008, 
+        "placetype": "timezone", 
         "iso": "BS", 
-        "sw_latitude": 20.916067123413086, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T07:50:25Z", 
         "latitude": 24.741, 
         "sw_longitude": -80.49923706054688, 
         "fullname": "America/Nassau", 
-        "date_indexed": "2010-12-02T07:50:25Z"
+        "woe:id": 28350779, 
+        "sw_latitude": 20.916067123413086
       }, 
       "id": 28350779
     }

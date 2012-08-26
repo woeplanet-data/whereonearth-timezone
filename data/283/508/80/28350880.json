@@ -24926,20 +24926,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -39.44255447387695, 
         "name": "Australia/Hobart", 
-        "woeid": 28350880, 
+        "hierarchy": [
+          "woe:timezone=28350880", 
+          "woe:country=23424748", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 148.48056030273438, 
         "longitude": 146.605, 
-        "parent_woeid": 23424748, 
-        "ne_latitude": -39.44255447387695, 
+        "placetype": "timezone", 
         "iso": "AU", 
-        "sw_latitude": -43.64397048950195, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:47:57Z", 
         "latitude": -41.593, 
         "sw_longitude": 144.337646484375, 
         "fullname": "Australia/Hobart, Australia", 
-        "date_indexed": "2010-12-02T17:47:57Z"
+        "woe:id": 28350880, 
+        "sw_latitude": -43.64397048950195
       }, 
       "id": 28350880
     }

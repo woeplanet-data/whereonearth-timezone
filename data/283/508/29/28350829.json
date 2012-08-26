@@ -30296,20 +30296,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 64.30081176757812, 
         "name": "Asia/Irkutsk", 
-        "woeid": 28350829, 
+        "hierarchy": [
+          "woe:timezone=28350829", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 119.13553619384766, 
         "longitude": 107.296, 
-        "parent_woeid": 23424936, 
-        "ne_latitude": 64.30081176757812, 
+        "placetype": "timezone", 
         "iso": "RU", 
-        "sw_latitude": 49.95341491699219, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:11:11Z", 
         "latitude": 57.111, 
         "sw_longitude": 95.65193176269531, 
         "fullname": "Asia/Irkutsk, Russia", 
-        "date_indexed": "2010-12-02T16:11:11Z"
+        "woe:id": 28350829, 
+        "sw_latitude": 49.95341491699219
       }, 
       "id": 28350829
     }

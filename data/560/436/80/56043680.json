@@ -656,20 +656,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 49.0, 
         "name": "America/Atikokan", 
-        "woeid": 56043680, 
+        "hierarchy": [
+          "woe:timezone=56043680", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -89.99637498640672, 
         "longitude": -83.681, 
-        "parent_woeid": 23424775, 
-        "ne_latitude": 49.0, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 48.04051177127714, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 64.509, 
         "sw_longitude": -92.2672, 
         "fullname": "America/Atikokan, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043680, 
+        "sw_latitude": 48.04051177127714
       }, 
       "id": 56043680
     }

@@ -6994,20 +6994,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 41.30183410644531, 
         "name": "Asia/Yerevan", 
-        "woeid": 28350867, 
+        "hierarchy": [
+          "woe:timezone=28350867", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 46.630027770996094, 
         "longitude": 45.04, 
-        "parent_woeid": 1, 
-        "ne_latitude": 41.30183410644531, 
+        "placetype": "timezone", 
         "iso": "AM", 
-        "sw_latitude": 38.830528259277344, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:16:16Z", 
         "latitude": 40.066, 
         "sw_longitude": 43.44977951049805, 
         "fullname": "Asia/Yerevan", 
-        "date_indexed": "2010-12-02T12:16:16Z"
+        "woe:id": 28350867, 
+        "sw_latitude": 38.830528259277344
       }, 
       "id": 28350867
     }

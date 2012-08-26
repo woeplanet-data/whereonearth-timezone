@@ -2978,20 +2978,26 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 46.34115219116211, 
         "name": "America/Glace_Bay", 
-        "woeid": 56043683, 
+        "hierarchy": [
+          "woe:timezone=56043683", 
+          "woe:county=29375130", 
+          "woe:state=2344921", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -59.692562103271484, 
         "longitude": -59.958, 
-        "parent_woeid": 29375130, 
-        "ne_latitude": 46.34115219116211, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 45.7286671402663, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 46.184, 
         "sw_longitude": -60.808284759521484, 
         "fullname": "America/Glace_Bay, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043683, 
+        "sw_latitude": 45.7286671402663
       }, 
       "id": 56043683
     }

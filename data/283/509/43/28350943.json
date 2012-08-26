@@ -23786,20 +23786,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -12.480111122131348, 
         "name": "Pacific/Fiji", 
-        "woeid": 28350943, 
+        "hierarchy": [
+          "woe:timezone=28350943", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 179.9999, 
         "longitude": 177.973, 
-        "parent_woeid": 1, 
-        "ne_latitude": -12.480111122131348, 
+        "placetype": "timezone", 
         "iso": "FJ", 
-        "sw_latitude": -20.67597007751465, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:12:23Z", 
         "latitude": -17.791, 
         "sw_longitude": -179.9999, 
         "fullname": "Pacific/Fiji", 
-        "date_indexed": "2010-12-02T16:12:23Z"
+        "woe:id": 28350943, 
+        "sw_latitude": -20.67597007751465
       }, 
       "id": 28350943
     }

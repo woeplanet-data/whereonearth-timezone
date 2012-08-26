@@ -19338,20 +19338,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 79.65353079979384, 
         "name": "America/Danmarkshavn", 
-        "woeid": 28350750, 
+        "hierarchy": [
+          "woe:timezone=28350750", 
+          "woe:country=23424828", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -17.368207931518555, 
         "longitude": -21.221, 
-        "parent_woeid": 23424828, 
-        "ne_latitude": 79.65353079979384, 
+        "placetype": "timezone", 
         "iso": "GL", 
-        "sw_latitude": 75.74563234720692, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:40:36Z", 
         "latitude": 76.543, 
         "sw_longitude": -22.918842739668392, 
         "fullname": "America/Danmarkshavn, Greenland", 
-        "date_indexed": "2010-12-02T17:40:36Z"
+        "woe:id": 28350750, 
+        "sw_latitude": 75.74563234720692
       }, 
       "id": 28350750
     }

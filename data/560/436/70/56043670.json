@@ -25218,20 +25218,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 70.29814403174139, 
         "name": "America/Nome", 
-        "woeid": 56043670, 
+        "hierarchy": [
+          "woe:timezone=56043670", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -162.0, 
         "longitude": -161.112, 
-        "parent_woeid": 23424977, 
-        "ne_latitude": 70.29814403174139, 
+        "placetype": "timezone", 
         "iso": "US", 
-        "sw_latitude": 53.85228729248047, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
         "latitude": 64.97, 
         "sw_longitude": -173.1100311279297, 
         "fullname": "America/Nome, United States", 
-        "date_indexed": "2010-12-02T19:08:31Z"
+        "woe:id": 56043670, 
+        "sw_latitude": 53.85228729248047
       }, 
       "id": 56043670
     }

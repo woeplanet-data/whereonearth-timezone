@@ -13068,20 +13068,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -8.224360466003418, 
         "name": "Africa/Lusaka", 
-        "woeid": 28350714, 
+        "hierarchy": [
+          "woe:timezone=28350714", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 33.70570373535156, 
         "longitude": 27.853, 
-        "parent_woeid": 1, 
-        "ne_latitude": -8.224360466003418, 
+        "placetype": "timezone", 
         "iso": "ZM", 
-        "sw_latitude": -18.0794734954834, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T07:50:42Z", 
         "latitude": -13.152, 
         "sw_longitude": 21.999370574951172, 
         "fullname": "Africa/Lusaka", 
-        "date_indexed": "2010-12-02T07:50:42Z"
+        "woe:id": 28350714, 
+        "sw_latitude": -18.0794734954834
       }, 
       "id": 28350714
     }

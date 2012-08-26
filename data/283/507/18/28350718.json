@@ -1004,20 +1004,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -25.719648361206055, 
         "name": "Africa/Mbabane", 
-        "woeid": 28350718, 
+        "hierarchy": [
+          "woe:timezone=28350718", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 32.13726043701172, 
         "longitude": 31.466, 
-        "parent_woeid": 1, 
-        "ne_latitude": -25.719648361206055, 
+        "placetype": "timezone", 
         "iso": "SZ", 
-        "sw_latitude": -27.317100524902344, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:16:52Z", 
         "latitude": -26.518, 
         "sw_longitude": 30.794107437133786, 
         "fullname": "Africa/Mbabane", 
-        "date_indexed": "2010-12-02T12:16:52Z"
+        "woe:id": 28350718, 
+        "sw_latitude": -27.317100524902344
       }, 
       "id": 28350718
     }

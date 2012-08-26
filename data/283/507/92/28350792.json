@@ -42050,20 +42050,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -12.470800399780273, 
         "name": "America/Sao_Paulo", 
-        "woeid": 28350792, 
+        "hierarchy": [
+          "woe:timezone=28350792", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -39.656791687011726, 
         "longitude": -48.227, 
-        "parent_woeid": 23424768, 
-        "ne_latitude": -12.470800399780273, 
+        "placetype": "timezone", 
         "iso": "BR", 
-        "sw_latitude": -33.75070571899415, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:03:30Z", 
         "latitude": -23.171, 
         "sw_longitude": -57.617965698242195, 
         "fullname": "America/Sao_Paulo, Brazil", 
-        "date_indexed": "2010-12-02T18:03:30Z"
+        "woe:id": 28350792, 
+        "sw_latitude": -33.75070571899415
       }, 
       "id": 28350792
     }

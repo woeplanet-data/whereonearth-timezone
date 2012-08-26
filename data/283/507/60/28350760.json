@@ -1794,20 +1794,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 18.13069725036621, 
         "name": "America/Guadeloupe", 
-        "woeid": 28350760, 
+        "hierarchy": [
+          "woe:timezone=28350760", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -61.0, 
         "longitude": -61.677, 
-        "parent_woeid": 1, 
-        "ne_latitude": 18.13069725036621, 
+        "placetype": "timezone", 
         "iso": "ZZ", 
-        "sw_latitude": 15.830972671508789, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:31:49Z", 
         "latitude": 16.158, 
         "sw_longitude": -62.99188995361328, 
         "fullname": "America/Guadeloupe", 
-        "date_indexed": "2010-12-02T16:31:49Z"
+        "woe:id": 28350760, 
+        "sw_latitude": 15.830972671508789
       }, 
       "id": 28350760
     }

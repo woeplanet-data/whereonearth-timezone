@@ -100086,20 +100086,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -0.012977248057723, 
         "name": "America/Lima", 
-        "woeid": 28350769, 
+        "hierarchy": [
+          "woe:timezone=28350769", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -68.67798614501953, 
         "longitude": -75.002, 
-        "parent_woeid": 1, 
-        "ne_latitude": -0.012977248057723, 
+        "placetype": "timezone", 
         "iso": "PE", 
-        "sw_latitude": -18.349727630615234, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:12:16Z", 
         "latitude": -9.181, 
         "sw_longitude": -81.32674407958984, 
         "fullname": "America/Lima", 
-        "date_indexed": "2010-12-02T16:12:16Z"
+        "woe:id": 28350769, 
+        "sw_latitude": -18.349727630615234
       }, 
       "id": 28350769
     }

@@ -10962,20 +10962,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 48.1135, 
         "name": "America/Moncton", 
-        "woeid": 56043684, 
+        "hierarchy": [
+          "woe:timezone=56043684", 
+          "woe:state=2344918", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -63.77794647216797, 
         "longitude": -65.007, 
-        "parent_woeid": 2344918, 
-        "ne_latitude": 48.1135, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 44.567481994628906, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 45.76, 
         "sw_longitude": -69.05431365966797, 
         "fullname": "America/Moncton, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043684, 
+        "sw_latitude": 44.567481994628906
       }, 
       "id": 56043684
     }

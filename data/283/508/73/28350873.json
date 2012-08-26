@@ -24202,20 +24202,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 66.56377410888672, 
         "name": "Atlantic/Reykjavik", 
-        "woeid": 28350873, 
+        "hierarchy": [
+          "woe:timezone=28350873", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -13.49581527709961, 
         "longitude": -19.021, 
-        "parent_woeid": 1, 
-        "ne_latitude": 66.56377410888672, 
+        "placetype": "timezone", 
         "iso": "JM", 
-        "sw_latitude": 63.286754608154304, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:55:38Z", 
         "latitude": 64.964, 
         "sw_longitude": -24.546524047851562, 
         "fullname": "Atlantic/Reykjavik", 
-        "date_indexed": "2010-12-02T09:55:38Z"
+        "woe:id": 28350873, 
+        "sw_latitude": 63.286754608154304
       }, 
       "id": 28350873
     }

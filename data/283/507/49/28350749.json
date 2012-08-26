@@ -514,20 +514,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 12.385671615600586, 
         "name": "America/Curacao", 
-        "woeid": 28350749, 
+        "hierarchy": [
+          "woe:timezone=28350749", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -68.63933563232422, 
         "longitude": -69.039, 
-        "parent_woeid": 1, 
-        "ne_latitude": 12.385671615600586, 
+        "placetype": "timezone", 
         "iso": "AN", 
-        "sw_latitude": 11.973196983337402, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:42:51Z", 
         "latitude": 12.209, 
         "sw_longitude": -69.1572036743164, 
         "fullname": "America/Curacao", 
-        "date_indexed": "2010-12-02T16:42:51Z"
+        "woe:id": 28350749, 
+        "sw_latitude": 11.973196983337402
       }, 
       "id": 28350749
     }

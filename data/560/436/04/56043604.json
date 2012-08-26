@@ -25286,20 +25286,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 7.36341667175293, 
         "name": "Asia/Kuching", 
-        "woeid": 56043604, 
+        "hierarchy": [
+          "woe:timezone=56043604", 
+          "woe:country=23424901", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 119.26750183105469, 
         "longitude": 114.448, 
-        "parent_woeid": 23424901, 
-        "ne_latitude": 7.36341667175293, 
+        "placetype": "timezone", 
         "iso": "MY", 
-        "sw_latitude": 0.855222225189209, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:05:31Z", 
         "latitude": 4.161, 
         "sw_longitude": 109.53602600097656, 
         "fullname": "Asia/Kuching, Malaysia", 
-        "date_indexed": "2010-12-02T18:05:31Z"
+        "woe:id": 56043604, 
+        "sw_latitude": 0.855222225189209
       }, 
       "id": 56043604
     }

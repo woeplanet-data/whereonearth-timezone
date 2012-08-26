@@ -2528,20 +2528,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 41.76232147216797, 
         "name": "America/Indiana/Indianapolis", 
-        "woeid": 56043656, 
+        "hierarchy": [
+          "woe:timezone=56043656", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -84.80226135253906, 
         "longitude": -85.949, 
-        "parent_woeid": 23424977, 
-        "ne_latitude": 41.76232147216797, 
+        "placetype": "timezone", 
         "iso": "US", 
-        "sw_latitude": 38.39711380004883, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
         "latitude": 39.735, 
         "sw_longitude": -87.65518188476562, 
         "fullname": "America/Indiana/Indianapolis, United States", 
-        "date_indexed": "2010-12-02T19:08:31Z"
+        "woe:id": 56043656, 
+        "sw_latitude": 38.39711380004883
       }, 
       "id": 56043656
     }

@@ -112298,20 +112298,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 45.52313995361328, 
         "name": "Asia/Tokyo", 
-        "woeid": 28350861, 
+        "hierarchy": [
+          "woe:timezone=28350861", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 153.9852294921875, 
         "longitude": 139.838, 
-        "parent_woeid": 1, 
-        "ne_latitude": 45.52313995361328, 
+        "placetype": "timezone", 
         "iso": "JP", 
-        "sw_latitude": 24.03647232055664, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:41:47Z", 
         "latitude": 37.488, 
         "sw_longitude": 122.93852996826173, 
         "fullname": "Asia/Tokyo", 
-        "date_indexed": "2010-12-02T08:41:47Z"
+        "woe:id": 28350861, 
+        "sw_latitude": 24.03647232055664
       }, 
       "id": 28350861
     }

@@ -7266,20 +7266,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 17.19717788696289, 
         "name": "Atlantic/Cape_Verde", 
-        "woeid": 28350871, 
+        "hierarchy": [
+          "woe:timezone=28350871", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -22.669443130493164, 
         "longitude": -23.615, 
-        "parent_woeid": 1, 
-        "ne_latitude": 17.19717788696289, 
+        "placetype": "timezone", 
         "iso": "CV", 
-        "sw_latitude": 14.802213668823242, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:16:16Z", 
         "latitude": 15.112, 
         "sw_longitude": -25.358747482299805, 
         "fullname": "Atlantic/Cape_Verde", 
-        "date_indexed": "2010-12-02T12:16:16Z"
+        "woe:id": 28350871, 
+        "sw_latitude": 14.802213668823242
       }, 
       "id": 28350871
     }

@@ -1206,20 +1206,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 1.70132303237915, 
         "name": "Africa/Sao_Tome", 
-        "woeid": 28350727, 
+        "hierarchy": [
+          "woe:timezone=28350727", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 7.466374397277831, 
         "longitude": 6.619, 
-        "parent_woeid": 1, 
-        "ne_latitude": 1.70132303237915, 
+        "placetype": "timezone", 
         "iso": "ST", 
-        "sw_latitude": -0.014004443772137, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:42:51Z", 
         "latitude": 0.22, 
         "sw_longitude": 6.470170021057129, 
         "fullname": "Africa/Sao_Tome", 
-        "date_indexed": "2010-12-02T16:42:51Z"
+        "woe:id": 28350727, 
+        "sw_latitude": -0.014004443772137
       }, 
       "id": 28350727
     }

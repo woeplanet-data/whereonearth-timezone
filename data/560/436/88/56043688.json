@@ -68,20 +68,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 48.7313621479243, 
         "name": "America/Rainy_River", 
-        "woeid": 56043688, 
+        "hierarchy": [
+          "woe:timezone=56043688", 
+          "woe:state=2344922", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -94.54867754486027, 
         "longitude": -93.354, 
-        "parent_woeid": 2344922, 
-        "ne_latitude": 48.7313621479243, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 48.714145516787255, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 48.679, 
         "sw_longitude": -94.59000395094111, 
         "fullname": "America/Rainy_River, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043688, 
+        "sw_latitude": 48.714145516787255
       }, 
       "id": 56043688
     }

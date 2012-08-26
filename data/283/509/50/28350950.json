@@ -76,20 +76,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 16.741132736206055, 
         "name": "Pacific/Johnston", 
-        "woeid": 28350950, 
+        "hierarchy": [
+          "woe:timezone=28350950", 
+          "woe:country=28289407", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -169.51710510253906, 
         "longitude": -162.436, 
-        "parent_woeid": 28289407, 
-        "ne_latitude": 16.741132736206055, 
+        "placetype": "timezone", 
         "iso": "UM", 
-        "sw_latitude": 16.72654914855957, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:52:36Z", 
         "latitude": 5.875, 
         "sw_longitude": -169.54348754882812, 
         "fullname": "Pacific/Johnston, United States Minor Outlying Islands", 
-        "date_indexed": "2010-12-02T16:52:36Z"
+        "woe:id": 28350950, 
+        "sw_latitude": 16.72654914855957
       }, 
       "id": 28350950
     }

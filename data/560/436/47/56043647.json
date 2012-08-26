@@ -1092,20 +1092,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 38.60711669921875, 
         "name": "America/Kentucky/Louisville", 
-        "woeid": 56043647, 
+        "hierarchy": [
+          "woe:timezone=56043647", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -85.41485595703125, 
         "longitude": -85.651, 
-        "parent_woeid": 23424977, 
-        "ne_latitude": 38.60711669921875, 
+        "placetype": "timezone", 
         "iso": "US", 
-        "sw_latitude": 37.95861053466797, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
         "latitude": 37.884, 
         "sw_longitude": -86.33135986328125, 
         "fullname": "America/Kentucky/Louisville, United States", 
-        "date_indexed": "2010-12-02T19:08:31Z"
+        "woe:id": 56043647, 
+        "sw_latitude": 37.95861053466797
       }, 
       "id": 56043647
     }

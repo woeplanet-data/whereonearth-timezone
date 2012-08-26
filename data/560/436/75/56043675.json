@@ -13286,20 +13286,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 51.59226193570264, 
         "name": "America/Blanc-Sablon", 
-        "woeid": 56043675, 
+        "hierarchy": [
+          "woe:timezone=56043675", 
+          "woe:state=2344924", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -57.09681701660156, 
         "longitude": -59.457, 
-        "parent_woeid": 2344924, 
-        "ne_latitude": 51.59226193570264, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 50.08134841918945, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 51.041, 
         "sw_longitude": -61.79731750488281, 
         "fullname": "America/Blanc-Sablon, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043675, 
+        "sw_latitude": 50.08134841918945
       }, 
       "id": 56043675
     }

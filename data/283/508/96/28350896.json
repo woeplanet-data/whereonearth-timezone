@@ -38098,20 +38098,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 55.436500549316406, 
         "name": "Europe/Dublin", 
-        "woeid": 28350896, 
+        "hierarchy": [
+          "woe:timezone=28350896", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -6.002388954162598, 
         "longitude": -7.333, 
-        "parent_woeid": 1, 
-        "ne_latitude": 55.436500549316406, 
+        "placetype": "timezone", 
         "iso": "IE", 
-        "sw_latitude": 51.424556732177734, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:08:06Z", 
         "latitude": 53.363, 
         "sw_longitude": -10.618110656738281, 
         "fullname": "Europe/Dublin", 
-        "date_indexed": "2010-12-02T12:08:06Z"
+        "woe:id": 28350896, 
+        "sw_latitude": 51.424556732177734
       }, 
       "id": 28350896
     }

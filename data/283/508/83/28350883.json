@@ -19310,20 +19310,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -34.009639739990234, 
         "name": "Australia/Melbourne", 
-        "woeid": 28350883, 
+        "hierarchy": [
+          "woe:timezone=28350883", 
+          "woe:country=23424748", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 149.97796630859375, 
         "longitude": 145.535, 
-        "parent_woeid": 23424748, 
-        "ne_latitude": -34.009639739990234, 
+        "placetype": "timezone", 
         "iso": "AU", 
-        "sw_latitude": -39.48350143432617, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:47:57Z", 
         "latitude": -36.592, 
         "sw_longitude": 140.95455932617188, 
         "fullname": "Australia/Melbourne, Australia", 
-        "date_indexed": "2010-12-02T17:47:57Z"
+        "woe:id": 28350883, 
+        "sw_latitude": -39.48350143432617
       }, 
       "id": 28350883
     }

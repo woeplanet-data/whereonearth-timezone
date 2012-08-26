@@ -12086,20 +12086,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 19.002328872680664, 
         "name": "Asia/Aden", 
-        "woeid": 28350806, 
+        "hierarchy": [
+          "woe:timezone=28350806", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 54.5305290222168, 
         "longitude": 47.79, 
-        "parent_woeid": 1, 
-        "ne_latitude": 19.002328872680664, 
+        "placetype": "timezone", 
         "iso": "YE", 
-        "sw_latitude": 12.111083030700684, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:39:41Z", 
         "latitude": 15.796, 
         "sw_longitude": 41.81605529785157, 
         "fullname": "Asia/Aden", 
-        "date_indexed": "2010-12-02T16:39:41Z"
+        "woe:id": 28350806, 
+        "sw_latitude": 12.111083030700684
       }, 
       "id": 28350806
     }

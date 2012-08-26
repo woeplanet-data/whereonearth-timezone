@@ -52366,20 +52366,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 37.38093185424805, 
         "name": "Asia/Baghdad", 
-        "woeid": 28350811, 
+        "hierarchy": [
+          "woe:timezone=28350811", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 48.5759162902832, 
         "longitude": 43.69, 
-        "parent_woeid": 1, 
-        "ne_latitude": 37.38093185424805, 
+        "placetype": "timezone", 
         "iso": "IQ", 
-        "sw_latitude": 29.06120872497559, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:42:58Z", 
         "latitude": 33.241, 
         "sw_longitude": 38.789615631103516, 
         "fullname": "Asia/Baghdad", 
-        "date_indexed": "2010-12-02T16:42:58Z"
+        "woe:id": 28350811, 
+        "sw_latitude": 29.06120872497559
       }, 
       "id": 28350811
     }

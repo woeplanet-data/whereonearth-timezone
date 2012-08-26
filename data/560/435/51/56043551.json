@@ -8806,20 +8806,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -33.256744384765625, 
         "name": "America/Argentina/Buenos_Aires", 
-        "woeid": 56043551, 
+        "hierarchy": [
+          "woe:timezone=56043551", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -56.66903305053711, 
         "longitude": -59.953, 
-        "parent_woeid": 23424747, 
-        "ne_latitude": -33.256744384765625, 
+        "placetype": "timezone", 
         "iso": "AR", 
-        "sw_latitude": -41.03573226928711, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "latitude": -37.226, 
         "sw_longitude": -63.38972473144532, 
         "fullname": "America/Argentina/Buenos_Aires, Argentina", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "woe:id": 56043551, 
+        "sw_latitude": -41.03573226928711
       }, 
       "id": 56043551
     }

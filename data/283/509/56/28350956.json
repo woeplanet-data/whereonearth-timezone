@@ -324,20 +324,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -18.951068878173828, 
         "name": "Pacific/Niue", 
-        "woeid": 28350956, 
+        "hierarchy": [
+          "woe:timezone=28350956", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -169.77517700195312, 
         "longitude": -169.863, 
-        "parent_woeid": 1, 
-        "ne_latitude": -18.951068878173828, 
+        "placetype": "timezone", 
         "iso": "NU", 
-        "sw_latitude": -19.152193069458008, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:19:13Z", 
         "latitude": -19.052, 
         "sw_longitude": -169.9510040283203, 
         "fullname": "Pacific/Niue", 
-        "date_indexed": "2010-12-02T18:19:13Z"
+        "woe:id": 28350956, 
+        "sw_latitude": -19.152193069458008
       }, 
       "id": 28350956
     }

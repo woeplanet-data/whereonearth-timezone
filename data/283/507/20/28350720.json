@@ -7740,20 +7740,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 8.551791191101074, 
         "name": "Africa/Monrovia", 
-        "woeid": 28350720, 
+        "hierarchy": [
+          "woe:timezone=28350720", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -7.365113258361816, 
         "longitude": -9.429, 
-        "parent_woeid": 1, 
-        "ne_latitude": 8.551791191101074, 
+        "placetype": "timezone", 
         "iso": "LR", 
-        "sw_latitude": 4.353056907653809, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:40:22Z", 
         "latitude": 6.452, 
         "sw_longitude": -11.492082595825195, 
         "fullname": "Africa/Monrovia", 
-        "date_indexed": "2010-12-02T17:40:22Z"
+        "woe:id": 28350720, 
+        "sw_latitude": 4.353056907653809
       }, 
       "id": 28350720
     }

@@ -5360,20 +5360,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 58.08230590820312, 
         "name": "Europe/Riga", 
-        "woeid": 28350913, 
+        "hierarchy": [
+          "woe:timezone=28350913", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 28.241167068481445, 
         "longitude": 24.606, 
-        "parent_woeid": 1, 
-        "ne_latitude": 58.08230590820312, 
+        "placetype": "timezone", 
         "iso": "LV", 
-        "sw_latitude": 55.668861389160156, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:50:01Z", 
         "latitude": 56.88, 
         "sw_longitude": 20.97427749633789, 
         "fullname": "Europe/Riga", 
-        "date_indexed": "2010-12-02T08:50:01Z"
+        "woe:id": 28350913, 
+        "sw_latitude": 55.668861389160156
       }, 
       "id": 28350913
     }

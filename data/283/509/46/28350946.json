@@ -1674,20 +1674,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -21.293275833129883, 
         "name": "Pacific/Gambier", 
-        "woeid": 28350946, 
+        "hierarchy": [
+          "woe:timezone=28350946", 
+          "woe:country=23424817", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -134.8783416748047, 
         "longitude": -140.635, 
-        "parent_woeid": 23424817, 
-        "ne_latitude": -21.293275833129883, 
+        "placetype": "timezone", 
         "iso": "PF", 
-        "sw_latitude": -23.19073486328125, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
         "latitude": -21.688, 
         "sw_longitude": -136.75775146484375, 
         "fullname": "Pacific/Gambier, French Polynesia", 
-        "date_indexed": "2010-12-02T17:05:52Z"
+        "woe:id": 28350946, 
+        "sw_latitude": -23.19073486328125
       }, 
       "id": 28350946
     }

@@ -9770,20 +9770,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 42.14563751220703, 
         "name": "Europe/Lisbon", 
-        "woeid": 56043605, 
+        "hierarchy": [
+          "woe:timezone=56043605", 
+          "woe:country=23424925", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -6.182694435119629, 
         "longitude": -7.845, 
-        "parent_woeid": 23424925, 
-        "ne_latitude": 42.14563751220703, 
+        "placetype": "timezone", 
         "iso": "PT", 
-        "sw_latitude": 36.96125030517578, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:19:56Z", 
         "latitude": 39.558, 
         "sw_longitude": -9.495944023132324, 
         "fullname": "Europe/Lisbon, Portugal", 
-        "date_indexed": "2010-12-02T10:19:56Z"
+        "woe:id": 56043605, 
+        "sw_latitude": 36.96125030517578
       }, 
       "id": 56043605
     }

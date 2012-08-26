@@ -7294,20 +7294,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -45.99945068359375, 
         "name": "America/Argentina/Rio_Gallegos", 
-        "woeid": 56043545, 
+        "hierarchy": [
+          "woe:timezone=56043545", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -65.7152328491211, 
         "longitude": -69.474, 
-        "parent_woeid": 23424747, 
-        "ne_latitude": -45.99945068359375, 
+        "placetype": "timezone", 
         "iso": "AR", 
-        "sw_latitude": -52.400146484375, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "latitude": -49.223, 
         "sw_longitude": -73.58296966552734, 
         "fullname": "America/Argentina/Rio_Gallegos, Argentina", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "woe:id": 56043545, 
+        "sw_latitude": -52.400146484375
       }, 
       "id": 56043545
     }

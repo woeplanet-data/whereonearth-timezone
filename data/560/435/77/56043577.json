@@ -7364,20 +7364,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -8.000556945800781, 
         "name": "America/Porto_Velho", 
-        "woeid": 56043577, 
+        "hierarchy": [
+          "woe:timezone=56043577", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -59.81861114501954, 
         "longitude": -63.371, 
-        "parent_woeid": 23424768, 
-        "ne_latitude": -8.000556945800781, 
+        "placetype": "timezone", 
         "iso": "BR", 
-        "sw_latitude": -13.69150161743164, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:03:30Z", 
         "latitude": -10.324, 
         "sw_longitude": -66.83056640625, 
         "fullname": "America/Porto_Velho, Brazil", 
-        "date_indexed": "2010-12-02T18:03:30Z"
+        "woe:id": 56043577, 
+        "sw_latitude": -13.69150161743164
       }, 
       "id": 56043577
     }

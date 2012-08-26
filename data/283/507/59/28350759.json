@@ -758,20 +758,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 12.529214859008789, 
         "name": "America/Grenada", 
-        "woeid": 28350759, 
+        "hierarchy": [
+          "woe:timezone=28350759", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -61.376445770263665, 
         "longitude": -61.699, 
-        "parent_woeid": 1, 
-        "ne_latitude": 12.529214859008789, 
+        "placetype": "timezone", 
         "iso": "GD", 
-        "sw_latitude": 11.992374420166016, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:52:39Z", 
         "latitude": 12.113, 
         "sw_longitude": -61.79997634887695, 
         "fullname": "America/Grenada", 
-        "date_indexed": "2010-12-02T17:52:39Z"
+        "woe:id": 28350759, 
+        "sw_latitude": 11.992374420166016
       }, 
       "id": 28350759
     }

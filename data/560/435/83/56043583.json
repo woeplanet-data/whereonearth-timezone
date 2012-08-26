@@ -558,20 +558,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 5.371222019195557, 
         "name": "Pacific/Kosrae", 
-        "woeid": 56043583, 
+        "hierarchy": [
+          "woe:timezone=56043583", 
+          "woe:country=23424815", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 163.03488159179688, 
         "longitude": 162.97, 
-        "parent_woeid": 23424815, 
-        "ne_latitude": 5.371222019195557, 
+        "placetype": "timezone", 
         "iso": "FM", 
-        "sw_latitude": 5.259833335876465, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:11:23Z", 
         "latitude": 5.318, 
         "sw_longitude": 162.90049743652344, 
         "fullname": "Pacific/Kosrae, Federated States of Micronesia", 
-        "date_indexed": "2010-12-02T16:11:23Z"
+        "woe:id": 56043583, 
+        "sw_latitude": 5.259833335876465
       }, 
       "id": 56043583
     }

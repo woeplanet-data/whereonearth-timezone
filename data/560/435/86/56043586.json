@@ -15350,20 +15350,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 54.71258163452149, 
         "name": "Asia/Qyzylorda", 
-        "woeid": 56043586, 
+        "hierarchy": [
+          "woe:timezone=56043586", 
+          "woe:country=23424871", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 68.11137390136719, 
         "longitude": 64.258, 
-        "parent_woeid": 23424871, 
-        "ne_latitude": 54.71258163452149, 
+        "placetype": "timezone", 
         "iso": "KZ", 
-        "sw_latitude": 42.423606872558594, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:54:13Z", 
         "latitude": 45.498, 
         "sw_longitude": 58.578685760498054, 
         "fullname": "Asia/Qyzylorda, Kazakhstan", 
-        "date_indexed": "2010-12-02T08:54:13Z"
+        "woe:id": 56043586, 
+        "sw_latitude": 42.423606872558594
       }, 
       "id": 56043586
     }

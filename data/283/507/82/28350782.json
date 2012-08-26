@@ -23542,20 +23542,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 9.644431114196777, 
         "name": "America/Panama", 
-        "woeid": 28350782, 
+        "hierarchy": [
+          "woe:timezone=28350782", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -77.17411041259766, 
         "longitude": -80.113, 
-        "parent_woeid": 1, 
-        "ne_latitude": 9.644431114196777, 
+        "placetype": "timezone", 
         "iso": "PA", 
-        "sw_latitude": 7.197906494140625, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:52:39Z", 
         "latitude": 8.418, 
         "sw_longitude": -83.05144500732422, 
         "fullname": "America/Panama", 
-        "date_indexed": "2010-12-02T17:52:39Z"
+        "woe:id": 28350782, 
+        "sw_latitude": 7.197906494140625
       }, 
       "id": 28350782
     }

@@ -660,20 +660,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 38.4224967956543, 
         "name": "America/Indiana/Marengo", 
-        "woeid": 56043652, 
+        "hierarchy": [
+          "woe:timezone=56043652", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -86.24575805664062, 
         "longitude": -86.356, 
-        "parent_woeid": 23424977, 
-        "ne_latitude": 38.4224967956543, 
+        "placetype": "timezone", 
         "iso": "US", 
-        "sw_latitude": 38.104888916015625, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
         "latitude": 38.291, 
         "sw_longitude": -86.68143463134766, 
         "fullname": "America/Indiana/Marengo, United States", 
-        "date_indexed": "2010-12-02T19:08:31Z"
+        "woe:id": 56043652, 
+        "sw_latitude": 38.104888916015625
       }, 
       "id": 56043652
     }

@@ -18572,20 +18572,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 48.58566665649414, 
         "name": "Europe/Budapest", 
-        "woeid": 28350893, 
+        "hierarchy": [
+          "woe:timezone=28350893", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 22.906000137329105, 
         "longitude": 19.505, 
-        "parent_woeid": 1, 
-        "ne_latitude": 48.58566665649414, 
+        "placetype": "timezone", 
         "iso": "HU", 
-        "sw_latitude": 45.74361038208008, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:56:41Z", 
         "latitude": 47.161, 
         "sw_longitude": 16.111888885498047, 
         "fullname": "Europe/Budapest", 
-        "date_indexed": "2010-12-02T09:56:41Z"
+        "woe:id": 28350893, 
+        "sw_latitude": 45.74361038208008
       }, 
       "id": 28350893
     }

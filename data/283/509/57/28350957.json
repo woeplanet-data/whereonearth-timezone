@@ -290,20 +290,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -28.992389678955078, 
         "name": "Pacific/Norfolk", 
-        "woeid": 28350957, 
+        "hierarchy": [
+          "woe:timezone=28350957", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 168.00006103515625, 
         "longitude": 168.05, 
-        "parent_woeid": 1, 
-        "ne_latitude": -28.992389678955078, 
+        "placetype": "timezone", 
         "iso": "NF", 
-        "sw_latitude": -29.119361877441406, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:42:51Z", 
         "latitude": -29.025, 
         "sw_longitude": 167.91641235351562, 
         "fullname": "Pacific/Norfolk", 
-        "date_indexed": "2010-12-02T16:42:51Z"
+        "woe:id": 28350957, 
+        "sw_latitude": -29.119361877441406
       }, 
       "id": 28350957
     }

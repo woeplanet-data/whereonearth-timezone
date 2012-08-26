@@ -32,22 +32,32 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "woeid": 56043664, 
+        "placetype": "timezone", 
         "name": "America/Shiprock", 
-        "ne_latitude": 37.461, 
-        "provider": "geoplanet 7.6.0", 
+        "hierarchy": [
+          "woe:timezone=56043664", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
         "ne_longitude": -108.252, 
         "longitude": -110.057, 
-        "placetype": "Timezone", 
+        "ne_latitude": 37.461, 
         "iso": "US", 
-        "date_indexed": "2010-12-02T19:08:31Z", 
-        "parent_woeid": 23424977, 
+        "sw_latitude": 33.475, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 35.468, 
         "sw_longitude": -111.862, 
         "fullname": "America/Shiprock, United States", 
-        "sw_latitude": 33.475
+        "woe:id": 56043664, 
+        "date_indexed": "2010-12-02T19:08:31Z"
       }, 
       "id": 56043664
     }
+  ], 
+  "bbox": [
+    -111.862, 
+    33.475, 
+    -108.252, 
+    37.461
   ]
 }

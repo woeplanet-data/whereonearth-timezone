@@ -484,20 +484,26 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -27.058698654174805, 
         "name": "Pacific/Easter", 
-        "woeid": 28350939, 
+        "hierarchy": [
+          "woe:timezone=28350939", 
+          "woe:county=28358162", 
+          "woe:state=2345018", 
+          "woe:country=23424782", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -109.22909545898438, 
         "longitude": -109.474, 
-        "parent_woeid": 28358162, 
-        "ne_latitude": -27.058698654174805, 
+        "placetype": "timezone", 
         "iso": "CL", 
-        "sw_latitude": -27.202959060668945, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:15:51Z", 
         "latitude": -27.202, 
         "sw_longitude": -109.45589447021484, 
         "fullname": "Pacific/Easter, Chile", 
-        "date_indexed": "2010-12-02T12:15:51Z"
+        "woe:id": 28350939, 
+        "sw_latitude": -27.202959060668945
       }, 
       "id": 28350939
     }

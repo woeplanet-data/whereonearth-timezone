@@ -17918,20 +17918,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 23.146888732910156, 
         "name": "Africa/Khartoum", 
-        "woeid": 28350706, 
+        "hierarchy": [
+          "woe:timezone=28350706", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 38.58002853393555, 
         "longitude": 30.209, 
-        "parent_woeid": 1, 
-        "ne_latitude": 23.146888732910156, 
+        "placetype": "timezone", 
         "iso": "SD", 
-        "sw_latitude": 8.692358016967773, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:51:00Z", 
         "latitude": 13.317, 
         "sw_longitude": 21.838947296142578, 
         "fullname": "Africa/Khartoum", 
-        "date_indexed": "2010-12-02T08:51:00Z"
+        "woe:id": 28350706, 
+        "sw_latitude": 8.692358016967773
       }, 
       "id": 28350706
     }

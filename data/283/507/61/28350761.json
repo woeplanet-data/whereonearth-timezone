@@ -24778,20 +24778,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 17.817399978637695, 
         "name": "America/Guatemala", 
-        "woeid": 28350761, 
+        "hierarchy": [
+          "woe:timezone=28350761", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -88.22319793701172, 
         "longitude": -90.232, 
-        "parent_woeid": 1, 
-        "ne_latitude": 17.817399978637695, 
+        "placetype": "timezone", 
         "iso": "GT", 
-        "sw_latitude": 13.73730182647705, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:55:36Z", 
         "latitude": 15.776, 
         "sw_longitude": -92.24149322509767, 
         "fullname": "America/Guatemala", 
-        "date_indexed": "2010-12-02T16:55:36Z"
+        "woe:id": 28350761, 
+        "sw_latitude": 13.73730182647705
       }, 
       "id": 28350761
     }

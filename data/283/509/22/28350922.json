@@ -5998,20 +5998,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 56.446918487548835, 
         "name": "Europe/Vilnius", 
-        "woeid": 28350922, 
+        "hierarchy": [
+          "woe:timezone=28350922", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 26.871944427490234, 
         "longitude": 23.894, 
-        "parent_woeid": 1, 
-        "ne_latitude": 56.446918487548835, 
+        "placetype": "timezone", 
         "iso": "LT", 
-        "sw_latitude": 53.90130615234375, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:36:17Z", 
         "latitude": 55.174, 
         "sw_longitude": 20.9415283203125, 
         "fullname": "Europe/Vilnius", 
-        "date_indexed": "2010-12-02T09:36:17Z"
+        "woe:id": 28350922, 
+        "sw_latitude": 53.90130615234375
       }, 
       "id": 28350922
     }

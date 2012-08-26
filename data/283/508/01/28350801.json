@@ -770,20 +770,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 32.716758728027344, 
         "name": "America/Tijuana", 
-        "woeid": 28350801, 
+        "hierarchy": [
+          "woe:timezone=28350801", 
+          "woe:country=23424900", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -114.71703338623047, 
         "longitude": -115.576, 
-        "parent_woeid": 23424900, 
-        "ne_latitude": 32.716758728027344, 
+        "placetype": "timezone", 
         "iso": "MX", 
-        "sw_latitude": 31.68598566372405, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:02:03Z", 
         "latitude": 29.904, 
         "sw_longitude": -117.29893493652345, 
         "fullname": "America/Tijuana, Mexico", 
-        "date_indexed": "2010-12-02T17:02:03Z"
+        "woe:id": 28350801, 
+        "sw_latitude": 31.68598566372405
       }, 
       "id": 28350801
     }

@@ -932,20 +932,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -2.764728307723999, 
         "name": "Pacific/Enderbury", 
-        "woeid": 28350941, 
+        "hierarchy": [
+          "woe:timezone=28350941", 
+          "woe:country=23424867", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -170.7084197998047, 
         "longitude": -171.633, 
-        "parent_woeid": 23424867, 
-        "ne_latitude": -2.764728307723999, 
+        "placetype": "timezone", 
         "iso": "KI", 
-        "sw_latitude": -4.695786952972412, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:42:25Z", 
         "latitude": -2.818, 
         "sw_longitude": -174.54666137695312, 
         "fullname": "Pacific/Enderbury, Kiribati", 
-        "date_indexed": "2010-12-02T17:42:25Z"
+        "woe:id": 28350941, 
+        "sw_latitude": -4.695786952972412
       }, 
       "id": 28350941
     }

@@ -9646,20 +9646,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 79.17161560058595, 
         "name": "America/Thule", 
-        "woeid": 28350800, 
+        "hierarchy": [
+          "woe:timezone=28350800", 
+          "woe:state=20069857", 
+          "woe:country=23424828", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -63.736011505126946, 
         "longitude": -65.719, 
-        "parent_woeid": 20069857, 
-        "ne_latitude": 79.17161560058595, 
+        "placetype": "timezone", 
         "iso": "GL", 
-        "sw_latitude": 75.91087341308594, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:40:36Z", 
         "latitude": 77.49, 
         "sw_longitude": -73.26346588134766, 
         "fullname": "America/Thule, Greenland", 
-        "date_indexed": "2010-12-02T17:40:36Z"
+        "woe:id": 28350800, 
+        "sw_latitude": 75.91087341308594
       }, 
       "id": 28350800
     }

@@ -144050,20 +144050,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 79.42035675048828, 
         "name": "America/Cambridge_Bay", 
-        "woeid": 56043676, 
+        "hierarchy": [
+          "woe:timezone=56043676", 
+          "woe:state=20069920", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -89.0, 
         "longitude": -113.103, 
-        "parent_woeid": 20069920, 
-        "ne_latitude": 79.42035675048828, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 64.2794189453125, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 71.527, 
         "sw_longitude": -121.9685592651367, 
         "fullname": "America/Cambridge_Bay, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043676, 
+        "sw_latitude": 64.2794189453125
       }, 
       "id": 56043676
     }

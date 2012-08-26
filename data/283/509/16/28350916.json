@@ -33032,20 +33032,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 44.215450286865234, 
         "name": "Europe/Sofia", 
-        "woeid": 28350916, 
+        "hierarchy": [
+          "woe:timezone=28350916", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 28.61216735839844, 
         "longitude": 25.483, 
-        "parent_woeid": 1, 
-        "ne_latitude": 44.215450286865234, 
+        "placetype": "timezone", 
         "iso": "BG", 
-        "sw_latitude": 41.24208450317383, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:15:11Z", 
         "latitude": 42.732, 
         "sw_longitude": 22.356916427612305, 
         "fullname": "Europe/Sofia", 
-        "date_indexed": "2010-12-02T16:15:11Z"
+        "woe:id": 28350916, 
+        "sw_latitude": 41.24208450317383
       }, 
       "id": 28350916
     }

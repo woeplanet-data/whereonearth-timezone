@@ -137590,20 +137590,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 2.64555549621582, 
         "name": "Asia/Jayapura", 
-        "woeid": 28350831, 
+        "hierarchy": [
+          "woe:timezone=28350831", 
+          "woe:country=23424846", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 141.0218048095703, 
         "longitude": 138.761, 
-        "parent_woeid": 23424846, 
-        "ne_latitude": 2.64555549621582, 
+        "placetype": "timezone", 
         "iso": "ID", 
-        "sw_latitude": -9.131333351135254, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:55:18Z", 
         "latitude": -4.737, 
         "sw_longitude": 124.28052520751953, 
         "fullname": "Asia/Jayapura, Indonesia", 
-        "date_indexed": "2010-12-02T16:55:18Z"
+        "woe:id": 28350831, 
+        "sw_latitude": -9.131333351135254
       }, 
       "id": 28350831
     }

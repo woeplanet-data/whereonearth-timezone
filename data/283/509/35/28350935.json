@@ -544,20 +544,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -20.856855392456055, 
         "name": "Indian/Reunion", 
-        "woeid": 28350935, 
+        "hierarchy": [
+          "woe:timezone=28350935", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 55.84503936767578, 
         "longitude": 55.532, 
-        "parent_woeid": 1, 
-        "ne_latitude": -20.856855392456055, 
+        "placetype": "timezone", 
         "iso": "RE", 
-        "sw_latitude": -21.37221145629883, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:35:31Z", 
         "latitude": -21.115, 
         "sw_longitude": 55.219085693359375, 
         "fullname": "Indian/Reunion", 
-        "date_indexed": "2010-12-02T09:35:31Z"
+        "woe:id": 28350935, 
+        "sw_latitude": -21.37221145629883
       }, 
       "id": 28350935
     }

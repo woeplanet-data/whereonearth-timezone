@@ -680,20 +680,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 13.652333259582521, 
         "name": "Pacific/Guam", 
-        "woeid": 28350948, 
+        "hierarchy": [
+          "woe:timezone=28350948", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 144.9539794921875, 
         "longitude": 144.787, 
-        "parent_woeid": 1, 
-        "ne_latitude": 13.652333259582521, 
+        "placetype": "timezone", 
         "iso": "GU", 
-        "sw_latitude": 13.24061107635498, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:21:30Z", 
         "latitude": 13.446, 
         "sw_longitude": 144.61924743652344, 
         "fullname": "Pacific/Guam", 
-        "date_indexed": "2010-12-02T18:21:30Z"
+        "woe:id": 28350948, 
+        "sw_latitude": 13.24061107635498
       }, 
       "id": 28350948
     }

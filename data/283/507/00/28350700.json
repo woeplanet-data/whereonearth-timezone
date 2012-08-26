@@ -3490,20 +3490,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 27.669673919677738, 
         "name": "Africa/El_Aaiun", 
-        "woeid": 28350700, 
+        "hierarchy": [
+          "woe:timezone=28350700", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -8.670275688171387, 
         "longitude": -12.886, 
-        "parent_woeid": 1, 
-        "ne_latitude": 27.669673919677738, 
+        "placetype": "timezone", 
         "iso": "EH", 
-        "sw_latitude": 20.774158477783203, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:12:23Z", 
         "latitude": 24.238, 
         "sw_longitude": -17.103181838989258, 
         "fullname": "Africa/El_Aaiun", 
-        "date_indexed": "2010-12-02T16:12:23Z"
+        "woe:id": 28350700, 
+        "sw_latitude": 20.774158477783203
       }, 
       "id": 28350700
     }

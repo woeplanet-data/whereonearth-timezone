@@ -268,20 +268,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 12.63061809539795, 
         "name": "America/Aruba", 
-        "woeid": 28350736, 
+        "hierarchy": [
+          "woe:timezone=28350736", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -69.86686706542969, 
         "longitude": -69.964, 
-        "parent_woeid": 1, 
-        "ne_latitude": 12.63061809539795, 
+        "placetype": "timezone", 
         "iso": "AW", 
-        "sw_latitude": 12.406092643737793, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
         "latitude": 12.518, 
         "sw_longitude": -70.0611343383789, 
         "fullname": "America/Aruba", 
-        "date_indexed": "2010-12-02T12:16:27Z"
+        "woe:id": 28350736, 
+        "sw_latitude": 12.406092643737793
       }, 
       "id": 28350736
     }

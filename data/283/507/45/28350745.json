@@ -698,20 +698,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 19.761699676513672, 
         "name": "America/Cayman", 
-        "woeid": 28350745, 
+        "hierarchy": [
+          "woe:timezone=28350745", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -79.7272720336914, 
         "longitude": -81.262, 
-        "parent_woeid": 1, 
-        "ne_latitude": 19.761699676513672, 
+        "placetype": "timezone", 
         "iso": "KY", 
-        "sw_latitude": 19.263029098510742, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:22:43Z", 
         "latitude": 19.332, 
         "sw_longitude": -81.43277740478516, 
         "fullname": "America/Cayman", 
-        "date_indexed": "2010-12-02T10:22:43Z"
+        "woe:id": 28350745, 
+        "sw_latitude": 19.263029098510742
       }, 
       "id": 28350745
     }

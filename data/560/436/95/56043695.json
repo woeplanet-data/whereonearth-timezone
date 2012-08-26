@@ -100,20 +100,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 49.039253898519554, 
         "name": "America/Nipigon", 
-        "woeid": 56043695, 
+        "hierarchy": [
+          "woe:timezone=56043695", 
+          "woe:state=2344922", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -88.23448491923624, 
         "longitude": -84.455, 
-        "parent_woeid": 2344922, 
-        "ne_latitude": 49.039253898519554, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 48.95022140807116, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 50.134, 
         "sw_longitude": -88.43299780563895, 
         "fullname": "America/Nipigon, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043695, 
+        "sw_latitude": 48.95022140807116
       }, 
       "id": 56043695
     }

@@ -34954,20 +34954,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 25.15555191040039, 
         "name": "America/Mexico_City", 
-        "woeid": 56043602, 
+        "hierarchy": [
+          "woe:timezone=56043602", 
+          "woe:country=23424900", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -90.37154388427734, 
         "longitude": -97.573, 
-        "parent_woeid": 23424900, 
-        "ne_latitude": 25.15555191040039, 
+        "placetype": "timezone", 
         "iso": "MX", 
-        "sw_latitude": 14.534547805786133, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:02:03Z", 
         "latitude": 19.742, 
         "sw_longitude": -105.70130157470703, 
         "fullname": "America/Mexico_City, Mexico", 
-        "date_indexed": "2010-12-02T17:02:03Z"
+        "woe:id": 56043602, 
+        "sw_latitude": 14.534547805786133
       }, 
       "id": 56043602
     }

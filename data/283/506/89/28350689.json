@@ -11602,20 +11602,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 12.680788993835451, 
         "name": "Africa/Bissau", 
-        "woeid": 28350689, 
+        "hierarchy": [
+          "woe:timezone=28350689", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -13.63652229309082, 
         "longitude": -15.177, 
-        "parent_woeid": 1, 
-        "ne_latitude": 12.680788993835451, 
+        "placetype": "timezone", 
         "iso": "GW", 
-        "sw_latitude": 10.859970092773438, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:57:34Z", 
         "latitude": 11.803, 
         "sw_longitude": -16.7175350189209, 
         "fullname": "Africa/Bissau", 
-        "date_indexed": "2010-12-02T09:57:34Z"
+        "woe:id": 28350689, 
+        "sw_latitude": 10.859970092773438
       }, 
       "id": 28350689
     }

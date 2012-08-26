@@ -22512,20 +22512,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 45.36663818359375, 
         "name": "Asia/Kashgar", 
-        "woeid": 56043595, 
+        "hierarchy": [
+          "woe:timezone=56043595", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 84.960781085962, 
         "longitude": 76.719, 
-        "parent_woeid": 23424781, 
-        "ne_latitude": 45.36663818359375, 
+        "placetype": "timezone", 
         "iso": "CN", 
-        "sw_latitude": 30.029888153076172, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:52:12Z", 
         "latitude": 38.437, 
         "sw_longitude": 73.55769348144531, 
         "fullname": "Asia/Kashgar, China", 
-        "date_indexed": "2010-12-02T08:52:12Z"
+        "woe:id": 56043595, 
+        "sw_latitude": 30.029888153076172
       }, 
       "id": 56043595
     }

@@ -7826,20 +7826,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 35.92802810668945, 
         "name": "Africa/Casablanca", 
-        "woeid": 28350694, 
+        "hierarchy": [
+          "woe:timezone=28350694", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -0.991750001907349, 
         "longitude": -7.067, 
-        "parent_woeid": 1, 
-        "ne_latitude": 35.92802810668945, 
+        "placetype": "timezone", 
         "iso": "MA", 
-        "sw_latitude": 27.6621150970459, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:19:21Z", 
         "latitude": 31.815, 
         "sw_longitude": -13.168585777282715, 
         "fullname": "Africa/Casablanca", 
-        "date_indexed": "2010-12-02T18:19:21Z"
+        "woe:id": 28350694, 
+        "sw_latitude": 27.6621150970459
       }, 
       "id": 28350694
     }

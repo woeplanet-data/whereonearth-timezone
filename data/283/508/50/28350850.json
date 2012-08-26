@@ -79846,20 +79846,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 28.543249130249023, 
         "name": "Asia/Rangoon", 
-        "woeid": 28350850, 
+        "hierarchy": [
+          "woe:timezone=28350850", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 101.1767807006836, 
         "longitude": 96.683, 
-        "parent_woeid": 1, 
-        "ne_latitude": 28.543249130249023, 
+        "placetype": "timezone", 
         "iso": "MM", 
-        "sw_latitude": 9.600360870361328, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:58:18Z", 
         "latitude": 19.258, 
         "sw_longitude": 92.18927764892578, 
         "fullname": "Asia/Rangoon", 
-        "date_indexed": "2010-12-02T17:58:18Z"
+        "woe:id": 28350850, 
+        "sw_latitude": 9.600360870361328
       }, 
       "id": 28350850
     }

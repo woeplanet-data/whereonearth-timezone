@@ -2770,20 +2770,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -8.13741683959961, 
         "name": "Asia/Dili", 
-        "woeid": 28350823, 
+        "hierarchy": [
+          "woe:timezone=28350823", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 127.34533691406251, 
         "longitude": 126.12, 
-        "parent_woeid": 1, 
-        "ne_latitude": -8.13741683959961, 
+        "placetype": "timezone", 
         "iso": "TL", 
-        "sw_latitude": -9.463626861572266, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T07:50:18Z", 
         "latitude": -8.894, 
         "sw_longitude": 124.0488739013672, 
         "fullname": "Asia/Dili", 
-        "date_indexed": "2010-12-02T07:50:18Z"
+        "woe:id": 28350823, 
+        "sw_latitude": -9.463626861572266
       }, 
       "id": 28350823
     }

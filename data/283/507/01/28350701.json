@@ -6950,20 +6950,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 10.0, 
         "name": "Africa/Freetown", 
-        "woeid": 28350701, 
+        "hierarchy": [
+          "woe:timezone=28350701", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -10.2842378616333, 
         "longitude": -11.796, 
-        "parent_woeid": 1, 
-        "ne_latitude": 10.0, 
+        "placetype": "timezone", 
         "iso": "SL", 
-        "sw_latitude": 6.928689002990723, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:08:44Z", 
         "latitude": 8.465, 
         "sw_longitude": -13.30763053894043, 
         "fullname": "Africa/Freetown", 
-        "date_indexed": "2010-12-02T12:08:44Z"
+        "woe:id": 28350701, 
+        "sw_latitude": 6.928689002990723
       }, 
       "id": 28350701
     }

@@ -92486,20 +92486,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 5.90441656112671, 
         "name": "Asia/Jakarta", 
-        "woeid": 28350830, 
+        "hierarchy": [
+          "woe:timezone=28350830", 
+          "woe:country=23424846", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 116.2618637084961, 
         "longitude": 100.638, 
-        "parent_woeid": 23424846, 
-        "ne_latitude": 5.90441656112671, 
+        "placetype": "timezone", 
         "iso": "ID", 
-        "sw_latitude": -8.780722618103027, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:55:18Z", 
         "latitude": -0.143, 
         "sw_longitude": 95.00933074951172, 
         "fullname": "Asia/Jakarta, Indonesia", 
-        "date_indexed": "2010-12-02T16:55:18Z"
+        "woe:id": 28350830, 
+        "sw_latitude": -8.780722618103027
       }, 
       "id": 28350830
     }

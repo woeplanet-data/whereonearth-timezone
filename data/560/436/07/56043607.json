@@ -10972,20 +10972,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 61.04916381835937, 
         "name": "Asia/Novosibirsk", 
-        "woeid": 56043607, 
+        "hierarchy": [
+          "woe:timezone=56043607", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 89.40386962890625, 
         "longitude": 82.423, 
-        "parent_woeid": 23424936, 
-        "ne_latitude": 61.04916381835937, 
+        "placetype": "timezone", 
         "iso": "RU", 
-        "sw_latitude": 53.348087310791016, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:11:11Z", 
         "latitude": 53.119, 
         "sw_longitude": 75.05415344238281, 
         "fullname": "Asia/Novosibirsk, Russia", 
-        "date_indexed": "2010-12-02T16:11:11Z"
+        "woe:id": 56043607, 
+        "sw_latitude": 53.348087310791016
       }, 
       "id": 56043607
     }

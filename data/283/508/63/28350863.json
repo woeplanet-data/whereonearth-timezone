@@ -16452,20 +16452,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 22.500389099121094, 
         "name": "Asia/Vientiane", 
-        "woeid": 28350863, 
+        "hierarchy": [
+          "woe:timezone=28350863", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 107.69702911376953, 
         "longitude": 105.451, 
-        "parent_woeid": 1, 
-        "ne_latitude": 22.500389099121094, 
+        "placetype": "timezone", 
         "iso": "LA", 
-        "sw_latitude": 13.910027503967285, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:42:51Z", 
         "latitude": 18.205, 
         "sw_longitude": 100.09305572509766, 
         "fullname": "Asia/Vientiane", 
-        "date_indexed": "2010-12-02T16:42:51Z"
+        "woe:id": 28350863, 
+        "sw_latitude": 13.910027503967285
       }, 
       "id": 28350863
     }

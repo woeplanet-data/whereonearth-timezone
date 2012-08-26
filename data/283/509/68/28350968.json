@@ -5658,20 +5658,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -15.562988281250002, 
         "name": "Pacific/Tongatapu", 
-        "woeid": 28350968, 
+        "hierarchy": [
+          "woe:timezone=28350968", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -173.70248413085938, 
         "longitude": -175.196, 
-        "parent_woeid": 1, 
-        "ne_latitude": -15.562988281250002, 
+        "placetype": "timezone", 
         "iso": "TO", 
-        "sw_latitude": -22.345716476440433, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:58:27Z", 
         "latitude": -21.168, 
         "sw_longitude": -176.21263122558594, 
         "fullname": "Pacific/Tongatapu", 
-        "date_indexed": "2010-12-02T17:58:27Z"
+        "woe:id": 28350968, 
+        "sw_latitude": -22.345716476440433
       }, 
       "id": 28350968
     }

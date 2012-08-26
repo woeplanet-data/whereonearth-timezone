@@ -29530,20 +29530,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 49.000770568847656, 
         "name": "America/Denver", 
-        "woeid": 56043665, 
+        "hierarchy": [
+          "woe:timezone=56043665", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -100.26087188720703, 
         "longitude": -108.124, 
-        "parent_woeid": 23424977, 
-        "ne_latitude": 49.000770568847656, 
+        "placetype": "timezone", 
         "iso": "US", 
-        "sw_latitude": 30.628254734251957, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
         "latitude": 39.815, 
         "sw_longitude": -116.05073547363281, 
         "fullname": "America/Denver, United States", 
-        "date_indexed": "2010-12-02T19:08:31Z"
+        "woe:id": 56043665, 
+        "sw_latitude": 30.628254734251957
       }, 
       "id": 56043665
     }

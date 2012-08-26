@@ -3230,20 +3230,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 8.092916488647461, 
         "name": "Pacific/Palau", 
-        "woeid": 28350960, 
+        "hierarchy": [
+          "woe:timezone=28350960", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 134.72372436523438, 
         "longitude": 134.564, 
-        "parent_woeid": 1, 
-        "ne_latitude": 8.092916488647461, 
+        "placetype": "timezone", 
         "iso": "PW", 
-        "sw_latitude": 3.001138925552368, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "latitude": 7.531, 
         "sw_longitude": 131.16921997070312, 
         "fullname": "Pacific/Palau", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "woe:id": 28350960, 
+        "sw_latitude": 3.001138925552368
       }, 
       "id": 28350960
     }

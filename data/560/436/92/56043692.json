@@ -224,20 +224,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 68.41697431867382, 
         "name": "America/Inuvik", 
-        "woeid": 56043692, 
+        "hierarchy": [
+          "woe:timezone=56043692", 
+          "woe:state=2344920", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -133.37883265036297, 
         "longitude": -130.752, 
-        "parent_woeid": 2344920, 
-        "ne_latitude": 68.41697431867382, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 68.29301935495627, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 65.618, 
         "sw_longitude": -133.79436213893678, 
         "fullname": "America/Inuvik, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043692, 
+        "sw_latitude": 68.29301935495627
       }, 
       "id": 56043692
     }

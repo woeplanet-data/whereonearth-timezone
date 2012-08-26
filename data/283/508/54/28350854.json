@@ -48186,20 +48186,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 38.61244583129883, 
         "name": "Asia/Seoul", 
-        "woeid": 28350854, 
+        "hierarchy": [
+          "woe:timezone=28350854", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 130.9232177734375, 
         "longitude": 127.844, 
-        "parent_woeid": 1, 
-        "ne_latitude": 38.61244583129883, 
+        "placetype": "timezone", 
         "iso": "KR", 
-        "sw_latitude": 33.106109619140625, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:53:23Z", 
         "latitude": 36.446, 
         "sw_longitude": 124.60813903808595, 
         "fullname": "Asia/Seoul", 
-        "date_indexed": "2010-12-02T17:53:23Z"
+        "woe:id": 28350854, 
+        "sw_latitude": 33.106109619140625
       }, 
       "id": 28350854
     }

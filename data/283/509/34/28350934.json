@@ -1270,20 +1270,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -12.63383674621582, 
         "name": "Indian/Mayotte", 
-        "woeid": 28350934, 
+        "hierarchy": [
+          "woe:timezone=28350934", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 45.29294967651367, 
         "longitude": 45.137, 
-        "parent_woeid": 1, 
-        "ne_latitude": -12.63383674621582, 
+        "placetype": "timezone", 
         "iso": "YT", 
-        "sw_latitude": -13.000131607055664, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:11:57Z", 
         "latitude": -12.825, 
         "sw_longitude": 45.014617919921875, 
         "fullname": "Indian/Mayotte", 
-        "date_indexed": "2010-12-02T16:11:57Z"
+        "woe:id": 28350934, 
+        "sw_latitude": -13.000131607055664
       }, 
       "id": 28350934
     }

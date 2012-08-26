@@ -9722,20 +9722,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
+        "ne_latitude": 17.423627853393555, 
         "name": "America/Tegucigalpa", 
-        "woeid": 28350799, 
-        "provider": "geoplanet 7.5.1", 
+        "hierarchy": [
+          "woe:timezone=28350799", 
+          "woe:planet=1"
+        ], 
         "ne_longitude": -83.15540313720705, 
         "longitude": -86.253, 
-        "parent_woeid": 1, 
-        "placetype": "Timezone", 
+        "placetype": "timezone", 
         "iso": "ZZ", 
-        "sw_latitude": 12.98241138458252, 
-        "ne_latitude": 17.423627853393555, 
+        "date_indexed": "2010-06-06T11:46:12Z", 
+        "provider": "geoplanet 7.5.1", 
         "latitude": 14.505, 
         "sw_longitude": -89.35079193115234, 
         "fullname": "", 
-        "date_indexed": "2010-06-06T11:46:12Z"
+        "woe:id": 28350799, 
+        "sw_latitude": 12.98241138458252
       }, 
       "id": 28350799
     }

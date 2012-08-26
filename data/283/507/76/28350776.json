@@ -690,20 +690,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 47.14628601074219, 
         "name": "America/Miquelon", 
-        "woeid": 28350776, 
+        "hierarchy": [
+          "woe:timezone=28350776", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -56.15736770629883, 
         "longitude": -56.337, 
-        "parent_woeid": 1, 
-        "ne_latitude": 47.14628601074219, 
+        "placetype": "timezone", 
         "iso": "PM", 
-        "sw_latitude": 46.753265380859375, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:15:58Z", 
         "latitude": 46.966, 
         "sw_longitude": -56.420658111572266, 
         "fullname": "America/Miquelon", 
-        "date_indexed": "2010-12-02T12:15:58Z"
+        "woe:id": 28350776, 
+        "sw_latitude": 46.753265380859375
       }, 
       "id": 28350776
     }

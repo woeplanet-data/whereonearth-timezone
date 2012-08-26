@@ -47606,20 +47606,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -5.078305721282959, 
         "name": "Pacific/Guadalcanal", 
-        "woeid": 28350947, 
+        "hierarchy": [
+          "woe:timezone=28350947", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 168.843505859375, 
         "longitude": 160.209, 
-        "parent_woeid": 1, 
-        "ne_latitude": -5.078305721282959, 
+        "placetype": "timezone", 
         "iso": "SB", 
-        "sw_latitude": -12.291889190673828, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:35:31Z", 
         "latitude": -9.596, 
         "sw_longitude": 155.50860595703125, 
         "fullname": "Pacific/Guadalcanal", 
-        "date_indexed": "2010-12-02T09:35:31Z"
+        "woe:id": 28350947, 
+        "sw_latitude": -12.291889190673828
       }, 
       "id": 28350947
     }

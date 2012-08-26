@@ -9686,20 +9686,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 33.16899871826172, 
         "name": "Africa/Tripoli", 
-        "woeid": 28350728, 
+        "hierarchy": [
+          "woe:timezone=28350728", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 25.150611877441406, 
         "longitude": 17.269, 
-        "parent_woeid": 1, 
-        "ne_latitude": 33.16899871826172, 
+        "placetype": "timezone", 
         "iso": "LY", 
-        "sw_latitude": 19.508045196533203, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:58:29Z", 
         "latitude": 26.339, 
         "sw_longitude": 9.387020111083984, 
         "fullname": "Africa/Tripoli", 
-        "date_indexed": "2010-12-02T08:58:29Z"
+        "woe:id": 28350728, 
+        "sw_latitude": 19.508045196533203
       }, 
       "id": 28350728
     }

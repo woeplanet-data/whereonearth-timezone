@@ -8152,20 +8152,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 51.30776977539063, 
         "name": "Asia/Aqtobe", 
-        "woeid": 56043585, 
+        "hierarchy": [
+          "woe:timezone=56043585", 
+          "woe:country=23424871", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 64.29331970214844, 
         "longitude": 59.891, 
-        "parent_woeid": 23424871, 
-        "ne_latitude": 51.30776977539063, 
+        "placetype": "timezone", 
         "iso": "KZ", 
-        "sw_latitude": 45.17478561401367, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:54:13Z", 
         "latitude": 48.348, 
         "sw_longitude": 53.60468292236328, 
         "fullname": "Asia/Aqtobe, Kazakhstan", 
-        "date_indexed": "2010-12-02T08:54:13Z"
+        "woe:id": 56043585, 
+        "sw_latitude": 45.17478561401367
       }, 
       "id": 56043585
     }

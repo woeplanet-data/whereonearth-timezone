@@ -4754,20 +4754,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 72.34829940024262, 
         "name": "America/Scoresbysund", 
-        "woeid": 28350793, 
+        "hierarchy": [
+          "woe:timezone=28350793", 
+          "woe:state=20069859", 
+          "woe:country=23424828", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -21.361780166625977, 
         "longitude": -24.392, 
-        "parent_woeid": 20069859, 
-        "ne_latitude": 72.34829940024262, 
+        "placetype": "timezone", 
         "iso": "GL", 
-        "sw_latitude": 70.39984893798828, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:40:36Z", 
         "latitude": 72.657, 
         "sw_longitude": -24.514955972747643, 
         "fullname": "America/Scoresbysund, Greenland", 
-        "date_indexed": "2010-12-02T17:40:36Z"
+        "woe:id": 28350793, 
+        "sw_latitude": 70.39984893798828
       }, 
       "id": 28350793
     }

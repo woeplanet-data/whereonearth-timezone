@@ -7596,20 +7596,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -15.608835220336916, 
         "name": "Africa/Harare", 
-        "woeid": 28350703, 
+        "hierarchy": [
+          "woe:timezone=28350703", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 33.056304931640625, 
         "longitude": 29.147, 
-        "parent_woeid": 1, 
-        "ne_latitude": -15.608835220336916, 
+        "placetype": "timezone", 
         "iso": "ZW", 
-        "sw_latitude": -22.41773796081543, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:52:36Z", 
         "latitude": -19.013, 
         "sw_longitude": 25.237028121948242, 
         "fullname": "Africa/Harare", 
-        "date_indexed": "2010-12-02T16:52:36Z"
+        "woe:id": 28350703, 
+        "sw_latitude": -22.41773796081543
       }, 
       "id": 28350703
     }

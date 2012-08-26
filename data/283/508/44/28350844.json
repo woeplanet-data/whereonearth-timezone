@@ -10962,20 +10962,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 26.387971878051758, 
         "name": "Asia/Muscat", 
-        "woeid": 28350844, 
+        "hierarchy": [
+          "woe:timezone=28350844", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 59.8365821838379, 
         "longitude": 55.918, 
-        "parent_woeid": 1, 
-        "ne_latitude": 26.387971878051758, 
+        "placetype": "timezone", 
         "iso": "OM", 
-        "sw_latitude": 16.654401779174805, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:35:43Z", 
         "latitude": 20.81, 
         "sw_longitude": 52.0, 
         "fullname": "Asia/Muscat", 
-        "date_indexed": "2010-12-02T09:35:43Z"
+        "woe:id": 28350844, 
+        "sw_latitude": 16.654401779174805
       }, 
       "id": 28350844
     }

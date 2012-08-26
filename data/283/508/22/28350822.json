@@ -40054,20 +40054,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 26.63194465637207, 
         "name": "Asia/Dhaka", 
-        "woeid": 28350822, 
+        "hierarchy": [
+          "woe:timezone=28350822", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 92.67366790771484, 
         "longitude": 90.351, 
-        "parent_woeid": 1, 
-        "ne_latitude": 26.63194465637207, 
+        "placetype": "timezone", 
         "iso": "BD", 
-        "sw_latitude": 20.585250854492188, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:16:45Z", 
         "latitude": 23.687, 
         "sw_longitude": 88.02833557128906, 
         "fullname": "Asia/Dhaka", 
-        "date_indexed": "2010-12-02T12:16:45Z"
+        "woe:id": 28350822, 
+        "sw_latitude": 20.585250854492188
       }, 
       "id": 28350822
     }

@@ -11872,20 +11872,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 56.16580581665039, 
         "name": "Europe/Minsk", 
-        "woeid": 28350907, 
+        "hierarchy": [
+          "woe:timezone=28350907", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 32.77080535888672, 
         "longitude": 27.975, 
-        "parent_woeid": 1, 
-        "ne_latitude": 56.16580581665039, 
+        "placetype": "timezone", 
         "iso": "BY", 
-        "sw_latitude": 51.25641632080078, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:33:06Z", 
         "latitude": 53.711, 
         "sw_longitude": 23.176889419555664, 
         "fullname": "Europe/Minsk", 
-        "date_indexed": "2010-12-02T16:33:06Z"
+        "woe:id": 28350907, 
+        "sw_latitude": 51.25641632080078
       }, 
       "id": 28350907
     }

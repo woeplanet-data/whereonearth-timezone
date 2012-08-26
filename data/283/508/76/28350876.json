@@ -2558,20 +2558,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -7.887815475463867, 
         "name": "Atlantic/St_Helena", 
-        "woeid": 28350876, 
+        "hierarchy": [
+          "woe:timezone=28350876", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -5.638752937316895, 
         "longitude": -14.342, 
-        "parent_woeid": 1, 
-        "ne_latitude": -7.887815475463867, 
+        "placetype": "timezone", 
         "iso": "SH", 
-        "sw_latitude": -40.36713790893555, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T07:50:25Z", 
         "latitude": -7.947, 
         "sw_longitude": -14.42123031616211, 
         "fullname": "Atlantic/St_Helena", 
-        "date_indexed": "2010-12-02T07:50:25Z"
+        "woe:id": 28350876, 
+        "sw_latitude": -40.36713790893555
       }, 
       "id": 28350876
     }

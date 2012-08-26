@@ -4586,20 +4586,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 60.0, 
         "name": "America/Winnipeg", 
-        "woeid": 56043674, 
+        "hierarchy": [
+          "woe:timezone=56043674", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -88.5, 
         "longitude": -95.523, 
-        "parent_woeid": 23424775, 
-        "ne_latitude": 60.0, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 48.22929763793945, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 54.499, 
         "sw_longitude": -102.5, 
         "fullname": "America/Winnipeg, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043674, 
+        "sw_latitude": 48.22929763793945
       }, 
       "id": 56043674
     }

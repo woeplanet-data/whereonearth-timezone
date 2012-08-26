@@ -910,20 +910,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -5.227166652679443, 
         "name": "Indian/Chagos", 
-        "woeid": 28350926, 
+        "hierarchy": [
+          "woe:timezone=28350926", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 72.4931640625, 
         "longitude": 72.252, 
-        "parent_woeid": 1, 
-        "ne_latitude": -5.227166652679443, 
+        "placetype": "timezone", 
         "iso": "IO", 
-        "sw_latitude": -7.438027858734131, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:11:57Z", 
         "latitude": 7.201, 
         "sw_longitude": 71.25997161865234, 
         "fullname": "Indian/Chagos", 
-        "date_indexed": "2010-12-02T16:11:57Z"
+        "woe:id": 28350926, 
+        "sw_latitude": -7.438027858734131
       }, 
       "id": 28350926
     }

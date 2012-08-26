@@ -13966,20 +13966,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 41.04225158691406, 
         "name": "Asia/Dushanbe", 
-        "woeid": 28350825, 
+        "hierarchy": [
+          "woe:timezone=28350825", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 75.13722229003906, 
         "longitude": 71.262, 
-        "parent_woeid": 1, 
-        "ne_latitude": 41.04225158691406, 
+        "placetype": "timezone", 
         "iso": "TJ", 
-        "sw_latitude": 36.674137115478516, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:16:45Z", 
         "latitude": 38.858, 
         "sw_longitude": 67.38713836669922, 
         "fullname": "Asia/Dushanbe", 
-        "date_indexed": "2010-12-02T12:16:45Z"
+        "woe:id": 28350825, 
+        "sw_latitude": 36.674137115478516
       }, 
       "id": 28350825
     }

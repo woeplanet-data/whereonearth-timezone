@@ -10028,20 +10028,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -17.780813217163086, 
         "name": "Africa/Gaborone", 
-        "woeid": 28350702, 
+        "hierarchy": [
+          "woe:timezone=28350702", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 29.360780715942386, 
         "longitude": 24.68, 
-        "parent_woeid": 1, 
-        "ne_latitude": -17.780813217163086, 
+        "placetype": "timezone", 
         "iso": "BW", 
-        "sw_latitude": -26.907245635986328, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:22:50Z", 
         "latitude": -22.344, 
         "sw_longitude": 19.999534606933594, 
         "fullname": "Africa/Gaborone", 
-        "date_indexed": "2010-12-02T10:22:50Z"
+        "woe:id": 28350702, 
+        "sw_latitude": -26.907245635986328
       }, 
       "id": 28350702
     }

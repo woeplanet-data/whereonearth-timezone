@@ -102082,20 +102082,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 82.9648208618164, 
         "name": "America/Pangnirtung", 
-        "woeid": 56043694, 
+        "hierarchy": [
+          "woe:timezone=56043694", 
+          "woe:state=20069920", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -61.13481140136719, 
         "longitude": -64.204, 
-        "parent_woeid": 20069920, 
-        "ne_latitude": 82.9648208618164, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 58.28227233886719, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 65.636, 
         "sw_longitude": -68.0, 
         "fullname": "America/Pangnirtung, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043694, 
+        "sw_latitude": 58.28227233886719
       }, 
       "id": 56043694
     }

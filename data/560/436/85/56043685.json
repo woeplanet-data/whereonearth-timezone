@@ -35734,20 +35734,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 47.80875778198243, 
         "name": "America/Halifax", 
-        "woeid": 56043685, 
+        "hierarchy": [
+          "woe:timezone=56043685", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -59.72473907470703, 
         "longitude": -63.588, 
-        "parent_woeid": 23424775, 
-        "ne_latitude": 47.80875778198243, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 43.391841888427734, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 44.727, 
         "sw_longitude": -66.39186096191406, 
         "fullname": "America/Halifax, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043685, 
+        "sw_latitude": 43.391841888427734
       }, 
       "id": 56043685
     }

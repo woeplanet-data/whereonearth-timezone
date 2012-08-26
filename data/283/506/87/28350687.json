@@ -17932,20 +17932,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 11.007569313049316, 
         "name": "Africa/Bangui", 
-        "woeid": 28350687, 
+        "hierarchy": [
+          "woe:timezone=28350687", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 27.463420867919922, 
         "longitude": 20.942, 
-        "parent_woeid": 1, 
-        "ne_latitude": 11.007569313049316, 
+        "placetype": "timezone", 
         "iso": "CF", 
-        "sw_latitude": 2.220514297485352, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:43:32Z", 
         "latitude": 6.614, 
         "sw_longitude": 14.42009735107422, 
         "fullname": "Africa/Bangui", 
-        "date_indexed": "2010-12-02T17:43:32Z"
+        "woe:id": 28350687, 
+        "sw_latitude": 2.220514297485352
       }, 
       "id": 28350687
     }

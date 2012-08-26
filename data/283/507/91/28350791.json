@@ -6394,20 +6394,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 19.929859161376953, 
         "name": "America/Santo_Domingo", 
-        "woeid": 28350791, 
+        "hierarchy": [
+          "woe:timezone=28350791", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -68.31999969482422, 
         "longitude": -70.162, 
-        "parent_woeid": 1, 
-        "ne_latitude": 19.929859161376953, 
+        "placetype": "timezone", 
         "iso": "DO", 
-        "sw_latitude": 17.470090866088867, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:32:52Z", 
         "latitude": 18.768, 
         "sw_longitude": -72.00348663330078, 
         "fullname": "America/Santo_Domingo", 
-        "date_indexed": "2010-12-02T16:32:52Z"
+        "woe:id": 28350791, 
+        "sw_latitude": 17.470090866088867
       }, 
       "id": 28350791
     }

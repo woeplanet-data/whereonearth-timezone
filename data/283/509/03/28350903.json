@@ -97502,20 +97502,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 60.84580612182617, 
         "name": "Europe/London", 
-        "woeid": 28350903, 
+        "hierarchy": [
+          "woe:timezone=28350903", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 1.758999943733215, 
         "longitude": -3.489, 
-        "parent_woeid": 1, 
-        "ne_latitude": 60.84580612182617, 
+        "placetype": "timezone", 
         "iso": "GB", 
-        "sw_latitude": 49.70869445800781, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:22:56Z", 
         "latitude": 55.139, 
         "sw_longitude": -8.650666236877441, 
         "fullname": "Europe/London", 
-        "date_indexed": "2010-12-02T12:22:56Z"
+        "woe:id": 28350903, 
+        "sw_latitude": 49.70869445800781
       }, 
       "id": 28350903
     }

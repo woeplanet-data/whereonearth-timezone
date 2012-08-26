@@ -15198,20 +15198,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 5.145739555358887, 
         "name": "Africa/Kinshasa", 
-        "woeid": 28350708, 
+        "hierarchy": [
+          "woe:timezone=28350708", 
+          "woe:country=23424780", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 24.421398162841797, 
         "longitude": 18.305, 
-        "parent_woeid": 23424780, 
-        "ne_latitude": 5.145739555358887, 
+        "placetype": "timezone", 
         "iso": "CD", 
-        "sw_latitude": -8.129064559936523, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:33:25Z", 
         "latitude": -1.492, 
         "sw_longitude": 12.204143524169922, 
         "fullname": "Africa/Kinshasa, Democratic Republic of Congo", 
-        "date_indexed": "2010-12-02T16:33:25Z"
+        "woe:id": 28350708, 
+        "sw_latitude": -8.129064559936523
       }, 
       "id": 28350708
     }

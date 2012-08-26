@@ -7476,20 +7476,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 52.15425109863281, 
         "name": "Asia/Ulaanbaatar", 
-        "woeid": 28350862, 
+        "hierarchy": [
+          "woe:timezone=28350862", 
+          "woe:country=23424887", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 112.73570251464844, 
         "longitude": 102.841, 
-        "parent_woeid": 23424887, 
-        "ne_latitude": 52.15425109863281, 
+        "placetype": "timezone", 
         "iso": "MN", 
-        "sw_latitude": 41.5676383972168, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:53:23Z", 
         "latitude": 46.861, 
         "sw_longitude": 96.95350646972656, 
         "fullname": "Asia/Ulaanbaatar, Mongolia", 
-        "date_indexed": "2010-12-02T08:53:23Z"
+        "woe:id": 28350862, 
+        "sw_latitude": 41.5676383972168
       }, 
       "id": 28350862
     }

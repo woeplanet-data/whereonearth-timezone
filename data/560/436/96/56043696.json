@@ -398,20 +398,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 48.51569241626781, 
         "name": "America/Thunder_Bay", 
-        "woeid": 56043696, 
+        "hierarchy": [
+          "woe:timezone=56043696", 
+          "woe:state=2344922", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -89.11870574951172, 
         "longitude": -89.206, 
-        "parent_woeid": 2344922, 
-        "ne_latitude": 48.51569241626781, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 48.289424501640816, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 49.739, 
         "sw_longitude": -89.42784914480283, 
         "fullname": "America/Thunder_Bay, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043696, 
+        "sw_latitude": 48.289424501640816
       }, 
       "id": 56043696
     }

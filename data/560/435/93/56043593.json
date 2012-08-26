@@ -63254,20 +63254,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 43.386189466219015, 
         "name": "Asia/Chongqing", 
-        "woeid": 56043593, 
+        "hierarchy": [
+          "woe:timezone=56043593", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 114.82428618084683, 
         "longitude": 104.704, 
-        "parent_woeid": 23424781, 
-        "ne_latitude": 43.386189466219015, 
+        "placetype": "timezone", 
         "iso": "CN", 
-        "sw_latitude": 18.161277770996097, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:52:12Z", 
         "latitude": 30.379, 
         "sw_longitude": 96.52170433450226, 
         "fullname": "Asia/Chongqing, China", 
-        "date_indexed": "2010-12-02T08:52:12Z"
+        "woe:id": 56043593, 
+        "sw_latitude": 18.161277770996097
       }, 
       "id": 56043593
     }

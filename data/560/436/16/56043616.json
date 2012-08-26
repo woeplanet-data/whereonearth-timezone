@@ -4252,20 +4252,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 48.13092803955078, 
         "name": "Europe/Zaporozhye", 
-        "woeid": 56043616, 
+        "hierarchy": [
+          "woe:timezone=56043616", 
+          "woe:country=23424976", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 37.223876953125, 
         "longitude": 35.724, 
-        "parent_woeid": 23424976, 
-        "ne_latitude": 48.13092803955078, 
+        "placetype": "timezone", 
         "iso": "UA", 
-        "sw_latitude": 46.079833984375, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:52:39Z", 
         "latitude": 47.349, 
         "sw_longitude": 34.20348358154297, 
         "fullname": "Europe/Zaporozhye, Ukraine", 
-        "date_indexed": "2010-12-02T08:52:39Z"
+        "woe:id": 56043616, 
+        "sw_latitude": 46.079833984375
       }, 
       "id": 56043616
     }

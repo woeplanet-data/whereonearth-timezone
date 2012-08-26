@@ -16962,20 +16962,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 58.581108093261726, 
         "name": "Asia/Omsk", 
-        "woeid": 56043608, 
+        "hierarchy": [
+          "woe:timezone=56043608", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 89.86997985839844, 
         "longitude": 73.383, 
-        "parent_woeid": 23424936, 
-        "ne_latitude": 58.581108093261726, 
+        "placetype": "timezone", 
         "iso": "RU", 
-        "sw_latitude": 49.08308410644531, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:11:11Z", 
         "latitude": 55.927, 
         "sw_longitude": 70.32767486572266, 
         "fullname": "Asia/Omsk, Russia", 
-        "date_indexed": "2010-12-02T16:11:11Z"
+        "woe:id": 56043608, 
+        "sw_latitude": 49.08308410644531
       }, 
       "id": 56043608
     }

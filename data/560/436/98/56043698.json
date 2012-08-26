@@ -124302,20 +124302,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 82.47956085205078, 
         "name": "America/Rankin_Inlet", 
-        "woeid": 56043698, 
+        "hierarchy": [
+          "woe:timezone=56043698", 
+          "woe:state=20069920", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -85.0, 
         "longitude": -96.891, 
-        "parent_woeid": 20069920, 
-        "ne_latitude": 82.47956085205078, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 56.74312210083008, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 70.922, 
         "sw_longitude": -102.00819396972656, 
         "fullname": "America/Rankin_Inlet, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043698, 
+        "sw_latitude": 56.74312210083008
       }, 
       "id": 56043698
     }

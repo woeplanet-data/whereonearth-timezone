@@ -11764,20 +11764,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 3.703081846237183, 
         "name": "Africa/Brazzaville", 
-        "woeid": 28350691, 
+        "hierarchy": [
+          "woe:timezone=28350691", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 18.649839401245117, 
         "longitude": 14.927, 
-        "parent_woeid": 1, 
-        "ne_latitude": 3.703081846237183, 
+        "placetype": "timezone", 
         "iso": "CG", 
-        "sw_latitude": -5.027223110198975, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:21:30Z", 
         "latitude": -0.663, 
         "sw_longitude": 11.205008506774902, 
         "fullname": "Africa/Brazzaville", 
-        "date_indexed": "2010-12-02T18:21:30Z"
+        "woe:id": 28350691, 
+        "sw_latitude": -5.027223110198975
       }, 
       "id": 28350691
     }

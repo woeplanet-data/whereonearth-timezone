@@ -6334,20 +6334,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 47.80533218383789, 
         "name": "Europe/Zurich", 
-        "woeid": 28350924, 
+        "hierarchy": [
+          "woe:timezone=28350924", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 10.491472244262695, 
         "longitude": 8.224, 
-        "parent_woeid": 1, 
-        "ne_latitude": 47.80533218383789, 
+        "placetype": "timezone", 
         "iso": "CH", 
-        "sw_latitude": 45.8256950378418, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:21:22Z", 
         "latitude": 46.813, 
         "sw_longitude": 5.957472324371338, 
         "fullname": "Europe/Zurich", 
-        "date_indexed": "2010-12-02T18:21:22Z"
+        "woe:id": 28350924, 
+        "sw_latitude": 45.8256950378418
       }, 
       "id": 28350924
     }

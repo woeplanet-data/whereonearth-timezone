@@ -14566,20 +14566,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 54.83913803100586, 
         "name": "Europe/Warsaw", 
-        "woeid": 28350923, 
+        "hierarchy": [
+          "woe:timezone=28350923", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 24.15074920654297, 
         "longitude": 19.134, 
-        "parent_woeid": 1, 
-        "ne_latitude": 54.83913803100586, 
+        "placetype": "timezone", 
         "iso": "PL", 
-        "sw_latitude": 49.00636291503906, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:15:28Z", 
         "latitude": 51.919, 
         "sw_longitude": 14.123000144958496, 
         "fullname": "Europe/Warsaw", 
-        "date_indexed": "2010-12-02T12:15:28Z"
+        "woe:id": 28350923, 
+        "sw_latitude": 49.00636291503906
       }, 
       "id": 28350923
     }

@@ -7412,20 +7412,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 11.173300743103027, 
         "name": "Africa/Accra", 
-        "woeid": 28350682, 
+        "hierarchy": [
+          "woe:timezone=28350682", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 1.191781163215637, 
         "longitude": -1.032, 
-        "parent_woeid": 1, 
-        "ne_latitude": 11.173300743103027, 
+        "placetype": "timezone", 
         "iso": "GH", 
-        "sw_latitude": 4.73672342300415, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:57:50Z", 
         "latitude": 7.955, 
         "sw_longitude": -3.255420446395874, 
         "fullname": "Africa/Accra", 
-        "date_indexed": "2010-12-02T17:57:50Z"
+        "woe:id": 28350682, 
+        "sw_latitude": 4.73672342300415
       }, 
       "id": 28350682
     }

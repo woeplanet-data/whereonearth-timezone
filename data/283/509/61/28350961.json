@@ -446,20 +446,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -23.91727066040039, 
         "name": "Pacific/Pitcairn", 
-        "woeid": 28350961, 
+        "hierarchy": [
+          "woe:timezone=28350961", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -124.77285003662111, 
         "longitude": -128.316, 
-        "parent_woeid": 1, 
-        "ne_latitude": -23.91727066040039, 
+        "placetype": "timezone", 
         "iso": "ZZ", 
-        "sw_latitude": -25.07752227783203, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:31:49Z", 
         "latitude": -24.361, 
         "sw_longitude": -130.7460479736328, 
         "fullname": "Pacific/Pitcairn", 
-        "date_indexed": "2010-12-02T16:31:49Z"
+        "woe:id": 28350961, 
+        "sw_latitude": -25.07752227783203
       }, 
       "id": 28350961
     }

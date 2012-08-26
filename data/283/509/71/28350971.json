@@ -526,20 +526,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -13.214250564575195, 
         "name": "Pacific/Wallis", 
-        "woeid": 28350971, 
+        "hierarchy": [
+          "woe:timezone=28350971", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -176.1287841796875, 
         "longitude": -176.173, 
-        "parent_woeid": 1, 
-        "ne_latitude": -13.214250564575195, 
+        "placetype": "timezone", 
         "iso": "WF", 
-        "sw_latitude": -14.387790679931639, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:35:31Z", 
         "latitude": -13.283, 
         "sw_longitude": -178.206787109375, 
         "fullname": "Pacific/Wallis", 
-        "date_indexed": "2010-12-02T09:35:31Z"
+        "woe:id": 28350971, 
+        "sw_latitude": -14.387790679931639
       }, 
       "id": 28350971
     }

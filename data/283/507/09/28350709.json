@@ -13946,20 +13946,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 13.892006874084473, 
         "name": "Africa/Lagos", 
-        "woeid": 28350709, 
+        "hierarchy": [
+          "woe:timezone=28350709", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 14.680072784423828, 
         "longitude": 8.674, 
-        "parent_woeid": 1, 
-        "ne_latitude": 13.892006874084473, 
+        "placetype": "timezone", 
         "iso": "NG", 
-        "sw_latitude": 4.277143955230713, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:35:13Z", 
         "latitude": 9.085, 
         "sw_longitude": 2.668432474136353, 
         "fullname": "Africa/Lagos", 
-        "date_indexed": "2010-12-02T09:35:13Z"
+        "woe:id": 28350709, 
+        "sw_latitude": 4.277143955230713
       }, 
       "id": 28350709
     }

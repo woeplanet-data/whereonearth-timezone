@@ -3456,20 +3456,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -21.78127670288086, 
         "name": "America/Argentina/Jujuy", 
-        "woeid": 56043542, 
+        "hierarchy": [
+          "woe:timezone=56043542", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -64.15806579589844, 
         "longitude": -65.69, 
-        "parent_woeid": 23424747, 
-        "ne_latitude": -21.78127670288086, 
+        "placetype": "timezone", 
         "iso": "AR", 
-        "sw_latitude": -24.615001678466797, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "latitude": -23.196, 
         "sw_longitude": -67.232666015625, 
         "fullname": "America/Argentina/Jujuy, Argentina", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "woe:id": 56043542, 
+        "sw_latitude": -24.615001678466797
       }, 
       "id": 56043542
     }

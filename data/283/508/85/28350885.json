@@ -29754,20 +29754,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -28.160110473632812, 
         "name": "Australia/Sydney", 
-        "woeid": 28350885, 
+        "hierarchy": [
+          "woe:timezone=28350885", 
+          "woe:country=23424748", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 153.63925170898438, 
         "longitude": 147.485, 
-        "parent_woeid": 23424748, 
-        "ne_latitude": -28.160110473632812, 
+        "placetype": "timezone", 
         "iso": "AU", 
-        "sw_latitude": -37.505332946777344, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:47:57Z", 
         "latitude": -32.878, 
         "sw_longitude": 140.9998016357422, 
         "fullname": "Australia/Sydney, Australia", 
-        "date_indexed": "2010-12-02T17:47:57Z"
+        "woe:id": 28350885, 
+        "sw_latitude": -37.505332946777344
       }, 
       "id": 28350885
     }

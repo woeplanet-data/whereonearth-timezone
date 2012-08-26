@@ -2826,20 +2826,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 55.29066848754883, 
         "name": "Europe/Kaliningrad", 
-        "woeid": 28350900, 
+        "hierarchy": [
+          "woe:timezone=28350900", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 22.89280509948731, 
         "longitude": 21.345, 
-        "parent_woeid": 23424936, 
-        "ne_latitude": 55.29066848754883, 
+        "placetype": "timezone", 
         "iso": "RU", 
-        "sw_latitude": 54.32069396972656, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:11:11Z", 
         "latitude": 54.804, 
         "sw_longitude": 19.638166427612305, 
         "fullname": "Europe/Kaliningrad, Russia", 
-        "date_indexed": "2010-12-02T16:11:11Z"
+        "woe:id": 28350900, 
+        "sw_latitude": 54.32069396972656
       }, 
       "id": 28350900
     }

@@ -3394,20 +3394,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 18.526975631713867, 
         "name": "America/Jamaica", 
-        "woeid": 28350767, 
+        "hierarchy": [
+          "woe:timezone=28350767", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -76.1803207397461, 
         "longitude": -77.273, 
-        "parent_woeid": 1, 
-        "ne_latitude": 18.526975631713867, 
+        "placetype": "timezone", 
         "iso": "JM", 
-        "sw_latitude": 17.703554153442386, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:59:07Z", 
         "latitude": 18.115, 
         "sw_longitude": -78.36663818359375, 
         "fullname": "America/Jamaica", 
-        "date_indexed": "2010-12-02T08:59:07Z"
+        "woe:id": 28350767, 
+        "sw_latitude": 17.703554153442386
       }, 
       "id": 28350767
     }

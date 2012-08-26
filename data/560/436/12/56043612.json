@@ -27470,20 +27470,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 64.93997192382812, 
         "name": "Asia/Kamchatka", 
-        "woeid": 56043612, 
+        "hierarchy": [
+          "woe:timezone=56043612", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 174.51361083984375, 
         "longitude": 162.871, 
-        "parent_woeid": 23424936, 
-        "ne_latitude": 64.93997192382812, 
+        "placetype": "timezone", 
         "iso": "RU", 
-        "sw_latitude": 50.86916732788086, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:11:11Z", 
         "latitude": 57.795, 
         "sw_longitude": 155.5465850830078, 
         "fullname": "Asia/Kamchatka, Russia", 
-        "date_indexed": "2010-12-02T16:11:11Z"
+        "woe:id": 56043612, 
+        "sw_latitude": 50.86916732788086
       }, 
       "id": 56043612
     }

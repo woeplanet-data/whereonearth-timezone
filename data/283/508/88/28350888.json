@@ -74666,20 +74666,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 41.757415771484375, 
         "name": "Europe/Athens", 
-        "woeid": 28350888, 
+        "hierarchy": [
+          "woe:timezone=28350888", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 29.647083282470703, 
         "longitude": 21.973, 
-        "parent_woeid": 1, 
-        "ne_latitude": 41.757415771484375, 
+        "placetype": "timezone", 
         "iso": "GR", 
-        "sw_latitude": 34.80963897705078, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:52:29Z", 
         "latitude": 39.067, 
         "sw_longitude": 19.37444496154785, 
         "fullname": "Europe/Athens", 
-        "date_indexed": "2010-12-02T16:52:29Z"
+        "woe:id": 28350888, 
+        "sw_latitude": 34.80963897705078
       }, 
       "id": 28350888
     }

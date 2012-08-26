@@ -8358,20 +8358,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 20.087820053100586, 
         "name": "America/Port-au-Prince", 
-        "woeid": 28350785, 
+        "hierarchy": [
+          "woe:timezone=28350785", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -71.61335754394531, 
         "longitude": -72.292, 
-        "parent_woeid": 1, 
-        "ne_latitude": 20.087820053100586, 
+        "placetype": "timezone", 
         "iso": "HT", 
-        "sw_latitude": 18.021032333374023, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:52:14Z", 
         "latitude": 18.986, 
         "sw_longitude": -74.47858428955078, 
         "fullname": "America/Port-au-Prince", 
-        "date_indexed": "2010-12-02T17:52:14Z"
+        "woe:id": 28350785, 
+        "sw_latitude": 18.021032333374023
       }, 
       "id": 28350785
     }

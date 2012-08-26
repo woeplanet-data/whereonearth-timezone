@@ -22140,20 +22140,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 48.49016571044922, 
         "name": "Europe/Chisinau", 
-        "woeid": 28350894, 
+        "hierarchy": [
+          "woe:timezone=28350894", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 30.13544464111328, 
         "longitude": 28.392, 
-        "parent_woeid": 1, 
-        "ne_latitude": 48.49016571044922, 
+        "placetype": "timezone", 
         "iso": "MD", 
-        "sw_latitude": 45.466880798339844, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:58:12Z", 
         "latitude": 46.98, 
         "sw_longitude": 26.61888885498047, 
         "fullname": "Europe/Chisinau", 
-        "date_indexed": "2010-12-02T17:58:12Z"
+        "woe:id": 28350894, 
+        "sw_latitude": 45.466880798339844
       }, 
       "id": 28350894
     }

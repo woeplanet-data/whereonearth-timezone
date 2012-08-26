@@ -22494,20 +22494,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 42.66108322143555, 
         "name": "Europe/Tirane", 
-        "woeid": 28350919, 
+        "hierarchy": [
+          "woe:timezone=28350919", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 21.057281494140625, 
         "longitude": 20.17, 
-        "parent_woeid": 1, 
-        "ne_latitude": 42.66108322143555, 
+        "placetype": "timezone", 
         "iso": "AL", 
-        "sw_latitude": 39.64448165893555, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:58:52Z", 
         "latitude": 41.153, 
         "sw_longitude": 19.275611877441406, 
         "fullname": "Europe/Tirane", 
-        "date_indexed": "2010-12-02T08:58:52Z"
+        "woe:id": 28350919, 
+        "sw_latitude": 39.64448165893555
       }, 
       "id": 28350919
     }

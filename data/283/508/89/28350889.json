@@ -82724,20 +82724,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 46.18944549560547, 
         "name": "Europe/Belgrade", 
-        "woeid": 28350889, 
+        "hierarchy": [
+          "woe:timezone=28350889", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 23.005271911621094, 
         "longitude": 18.207, 
-        "parent_woeid": 1, 
-        "ne_latitude": 46.18944549560547, 
+        "placetype": "timezone", 
         "iso": "ZZ", 
-        "sw_latitude": 41.85234832763672, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:31:49Z", 
         "latitude": 43.865, 
         "sw_longitude": 18.8509521484375, 
         "fullname": "Europe/Belgrade", 
-        "date_indexed": "2010-12-02T16:31:49Z"
+        "woe:id": 28350889, 
+        "sw_latitude": 41.85234832763672
       }, 
       "id": 28350889
     }

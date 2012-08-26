@@ -63742,20 +63742,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 39.77722167968751, 
         "name": "Asia/Tehran", 
-        "woeid": 28350859, 
+        "hierarchy": [
+          "woe:timezone=28350859", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 63.31747055053711, 
         "longitude": 53.682, 
-        "parent_woeid": 1, 
-        "ne_latitude": 39.77722167968751, 
+        "placetype": "timezone", 
         "iso": "IR", 
-        "sw_latitude": 25.064083099365234, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:53:52Z", 
         "latitude": 32.421, 
         "sw_longitude": 44.047279357910156, 
         "fullname": "Asia/Tehran", 
-        "date_indexed": "2010-12-02T08:53:52Z"
+        "woe:id": 28350859, 
+        "sw_latitude": 25.064083099365234
       }, 
       "id": 28350859
     }

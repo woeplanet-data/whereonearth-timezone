@@ -2374,20 +2374,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -8.944029808044434, 
         "name": "Pacific/Rarotonga", 
-        "woeid": 28350964, 
+        "hierarchy": [
+          "woe:timezone=28350964", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -157.3121337890625, 
         "longitude": -159.771, 
-        "parent_woeid": 1, 
-        "ne_latitude": -8.944029808044434, 
+        "placetype": "timezone", 
         "iso": "CK", 
-        "sw_latitude": -21.944164276123047, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:57:50Z", 
         "latitude": -21.227, 
         "sw_longitude": -165.85809326171875, 
         "fullname": "Pacific/Rarotonga", 
-        "date_indexed": "2010-12-02T17:57:50Z"
+        "woe:id": 28350964, 
+        "sw_latitude": -21.944164276123047
       }, 
       "id": 28350964
     }

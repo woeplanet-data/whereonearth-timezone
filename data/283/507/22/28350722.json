@@ -13364,20 +13364,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 23.450368881225586, 
         "name": "Africa/Ndjamena", 
-        "woeid": 28350722, 
+        "hierarchy": [
+          "woe:timezone=28350722", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 24.002660751342773, 
         "longitude": 18.738, 
-        "parent_woeid": 1, 
-        "ne_latitude": 23.450368881225586, 
+        "placetype": "timezone", 
         "iso": "TD", 
-        "sw_latitude": 7.441067695617677, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:53:23Z", 
         "latitude": 15.446, 
         "sw_longitude": 13.473475456237793, 
         "fullname": "Africa/Ndjamena", 
-        "date_indexed": "2010-12-02T08:53:23Z"
+        "woe:id": 28350722, 
+        "sw_latitude": 7.441067695617677
       }, 
       "id": 28350722
     }

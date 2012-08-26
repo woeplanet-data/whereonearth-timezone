@@ -11162,20 +11162,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -16.95989418029785, 
         "name": "Africa/Windhoek", 
-        "woeid": 28350730, 
+        "hierarchy": [
+          "woe:timezone=28350730", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 25.25670051574707, 
         "longitude": 18.486, 
-        "parent_woeid": 1, 
-        "ne_latitude": -16.95989418029785, 
+        "placetype": "timezone", 
         "iso": "NA", 
-        "sw_latitude": -28.971429824829105, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T07:50:17Z", 
         "latitude": -22.966, 
         "sw_longitude": 11.715629577636719, 
         "fullname": "Africa/Windhoek", 
-        "date_indexed": "2010-12-02T07:50:17Z"
+        "woe:id": 28350730, 
+        "sw_latitude": -28.971429824829105
       }, 
       "id": 28350730
     }

@@ -5494,20 +5494,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 6.004546165466309, 
         "name": "America/Paramaribo", 
-        "woeid": 28350783, 
+        "hierarchy": [
+          "woe:timezone=28350783", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -53.97749328613281, 
         "longitude": -56.032, 
-        "parent_woeid": 1, 
-        "ne_latitude": 6.004546165466309, 
+        "placetype": "timezone", 
         "iso": "SR", 
-        "sw_latitude": 1.831145167350769, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:16:16Z", 
         "latitude": 3.918, 
         "sw_longitude": -58.08656311035157, 
         "fullname": "America/Paramaribo", 
-        "date_indexed": "2010-12-02T12:16:16Z"
+        "woe:id": 28350783, 
+        "sw_latitude": 1.831145167350769
       }, 
       "id": 28350783
     }

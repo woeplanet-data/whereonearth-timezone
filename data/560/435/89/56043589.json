@@ -21728,20 +21728,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 55.451194763183594, 
         "name": "Asia/Almaty", 
-        "woeid": 56043589, 
+        "hierarchy": [
+          "woe:timezone=56043589", 
+          "woe:country=23424871", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 87.31266784667969, 
         "longitude": 73.683, 
-        "parent_woeid": 23424871, 
-        "ne_latitude": 55.451194763183594, 
+        "placetype": "timezone", 
         "iso": "KZ", 
-        "sw_latitude": 40.93633270263672, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:54:13Z", 
         "latitude": 47.999, 
         "sw_longitude": 62.69305419921874, 
         "fullname": "Asia/Almaty, Kazakhstan", 
-        "date_indexed": "2010-12-02T08:54:13Z"
+        "woe:id": 56043589, 
+        "sw_latitude": 40.93633270263672
       }, 
       "id": 56043589
     }

@@ -15886,20 +15886,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -8.530834197998047, 
         "name": "America/Bahia", 
-        "woeid": 56043573, 
+        "hierarchy": [
+          "woe:timezone=56043573", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -37.36137771606445, 
         "longitude": -41.746, 
-        "parent_woeid": 23424768, 
-        "ne_latitude": -8.530834197998047, 
+        "placetype": "timezone", 
         "iso": "BR", 
-        "sw_latitude": -18.332931518554688, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:03:30Z", 
         "latitude": -13.687, 
         "sw_longitude": -46.572227478027344, 
         "fullname": "America/Bahia, Brazil", 
-        "date_indexed": "2010-12-02T18:03:30Z"
+        "woe:id": 56043573, 
+        "sw_latitude": -18.332931518554688
       }, 
       "id": 56043573
     }

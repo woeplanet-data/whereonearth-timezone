@@ -115190,20 +115190,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 47.458648681640625, 
         "name": "America/New_York", 
-        "woeid": 56043648, 
+        "hierarchy": [
+          "woe:timezone=56043648", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.9548110961914, 
         "longitude": -77.345, 
-        "parent_woeid": 23424977, 
-        "ne_latitude": 47.458648681640625, 
+        "placetype": "timezone", 
         "iso": "US", 
-        "sw_latitude": 19.894084930419922, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
         "latitude": 36.205, 
         "sw_longitude": -86.48933410644531, 
         "fullname": "America/New_York, United States", 
-        "date_indexed": "2010-12-02T19:08:31Z"
+        "woe:id": 56043648, 
+        "sw_latitude": 19.894084930419922
       }, 
       "id": 56043648
     }

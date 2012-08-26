@@ -836,20 +836,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -31.3, 
         "name": "Australia/Eucla", 
-        "woeid": 56043538, 
+        "hierarchy": [
+          "woe:timezone=56043538", 
+          "woe:country=23424748", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 128.9931772038235, 
         "longitude": 127.305, 
-        "parent_woeid": 23424748, 
-        "ne_latitude": -31.3, 
+        "placetype": "timezone", 
         "iso": "AU", 
-        "sw_latitude": -32.56472639037513, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:47:57Z", 
         "latitude": -31.932, 
         "sw_longitude": 125.5, 
         "fullname": "Australia/Eucla, Australia", 
-        "date_indexed": "2010-12-02T17:47:57Z"
+        "woe:id": 56043538, 
+        "sw_latitude": -32.56472639037513
       }, 
       "id": 56043538
     }

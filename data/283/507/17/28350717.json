@@ -2980,20 +2980,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -28.572057723999023, 
         "name": "Africa/Maseru", 
-        "woeid": 28350717, 
+        "hierarchy": [
+          "woe:timezone=28350717", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 29.465761184692386, 
         "longitude": 28.247, 
-        "parent_woeid": 1, 
-        "ne_latitude": -28.572057723999023, 
+        "placetype": "timezone", 
         "iso": "LS", 
-        "sw_latitude": -30.668964385986328, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:57:23Z", 
         "latitude": -29.621, 
         "sw_longitude": 27.029067993164062, 
         "fullname": "Africa/Maseru", 
-        "date_indexed": "2010-12-02T08:57:23Z"
+        "woe:id": 28350717, 
+        "sw_latitude": -30.668964385986328
       }, 
       "id": 28350717
     }

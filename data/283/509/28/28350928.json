@@ -794,20 +794,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -11.803916931152344, 
         "name": "Indian/Cocos", 
-        "woeid": 28350928, 
+        "hierarchy": [
+          "woe:timezone=28350928", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 96.93608093261719, 
         "longitude": 96.835, 
-        "parent_woeid": 1, 
-        "ne_latitude": -11.803916931152344, 
+        "placetype": "timezone", 
         "iso": "CC", 
-        "sw_latitude": -12.185416221618652, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:15:51Z", 
         "latitude": -12.149, 
         "sw_longitude": 96.82128143310547, 
         "fullname": "Indian/Cocos", 
-        "date_indexed": "2010-12-02T12:15:51Z"
+        "woe:id": 28350928, 
+        "sw_latitude": -12.185416221618652
       }, 
       "id": 28350928
     }

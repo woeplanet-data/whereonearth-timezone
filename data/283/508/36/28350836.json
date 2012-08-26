@@ -9192,20 +9192,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 30.43338966369629, 
         "name": "Asia/Kathmandu", 
-        "woeid": 28350836, 
+        "hierarchy": [
+          "woe:timezone=28350836", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 88.19933319091797, 
         "longitude": 84.128, 
-        "parent_woeid": 1, 
-        "ne_latitude": 30.43338966369629, 
+        "placetype": "timezone", 
         "iso": "NP", 
-        "sw_latitude": 26.356721878051758, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:18:47Z", 
         "latitude": 28.395, 
         "sw_longitude": 80.0562744140625, 
         "fullname": "Asia/Kathmandu", 
-        "date_indexed": "2010-12-02T18:18:47Z"
+        "woe:id": 28350836, 
+        "sw_latitude": 26.356721878051758
       }, 
       "id": 28350836
     }

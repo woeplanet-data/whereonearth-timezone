@@ -11614,20 +11614,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 6.714138984680177, 
         "name": "Asia/Kuala_Lumpur", 
-        "woeid": 56043603, 
+        "hierarchy": [
+          "woe:timezone=56043603", 
+          "woe:country=23424901", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 104.54627990722656, 
         "longitude": 102.116, 
-        "parent_woeid": 23424901, 
-        "ne_latitude": 6.714138984680177, 
+        "placetype": "timezone", 
         "iso": "MY", 
-        "sw_latitude": 1.260861158370972, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:05:31Z", 
         "latitude": 3.974, 
         "sw_longitude": 98.93502807617188, 
         "fullname": "Asia/Kuala_Lumpur, Malaysia", 
-        "date_indexed": "2010-12-02T18:05:31Z"
+        "woe:id": 56043603, 
+        "sw_latitude": 1.260861158370972
       }, 
       "id": 56043603
     }

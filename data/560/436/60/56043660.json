@@ -892,20 +892,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 46.982574462890625, 
         "name": "America/North_Dakota/New_Salem", 
-        "woeid": 56043660, 
+        "hierarchy": [
+          "woe:timezone=56043660", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -100.543212890625, 
         "longitude": -101.038, 
-        "parent_woeid": 23424977, 
-        "ne_latitude": 46.982574462890625, 
+        "placetype": "timezone", 
         "iso": "US", 
-        "sw_latitude": 46.275611877441406, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
         "latitude": 46.66, 
         "sw_longitude": -102.09699249267578, 
         "fullname": "America/North_Dakota/New_Salem, United States", 
-        "date_indexed": "2010-12-02T19:08:31Z"
+        "woe:id": 56043660, 
+        "sw_latitude": 46.275611877441406
       }, 
       "id": 56043660
     }

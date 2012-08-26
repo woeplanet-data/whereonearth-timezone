@@ -8612,20 +8612,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 43.58649826049805, 
         "name": "Asia/Tbilisi", 
-        "woeid": 28350858, 
+        "hierarchy": [
+          "woe:timezone=28350858", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 46.72597122192383, 
         "longitude": 43.366, 
-        "parent_woeid": 1, 
-        "ne_latitude": 43.58649826049805, 
+        "placetype": "timezone", 
         "iso": "GE", 
-        "sw_latitude": 41.05319595336914, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:52:09Z", 
         "latitude": 42.312, 
         "sw_longitude": 40.01013946533203, 
         "fullname": "Asia/Tbilisi", 
-        "date_indexed": "2010-12-02T17:52:09Z"
+        "woe:id": 28350858, 
+        "sw_latitude": 41.05319595336914
       }, 
       "id": 28350858
     }

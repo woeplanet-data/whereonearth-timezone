@@ -3514,20 +3514,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 18.520166397094727, 
         "name": "America/Puerto_Rico", 
-        "woeid": 28350787, 
+        "hierarchy": [
+          "woe:timezone=28350787", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -65.21998596191406, 
         "longitude": -66.431, 
-        "parent_woeid": 1, 
-        "ne_latitude": 18.520166397094727, 
+        "placetype": "timezone", 
         "iso": "PR", 
-        "sw_latitude": 17.883045196533203, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:42:25Z", 
         "latitude": 18.221, 
         "sw_longitude": -67.9427261352539, 
         "fullname": "America/Puerto_Rico", 
-        "date_indexed": "2010-12-02T17:42:25Z"
+        "woe:id": 28350787, 
+        "sw_latitude": 17.883045196533203
       }, 
       "id": 28350787
     }

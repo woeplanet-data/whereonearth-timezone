@@ -1662,20 +1662,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -13.432207107543945, 
         "name": "Pacific/Apia", 
-        "woeid": 28350936, 
+        "hierarchy": [
+          "woe:timezone=28350936", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -171.40931701660156, 
         "longitude": -172.482, 
-        "parent_woeid": 1, 
-        "ne_latitude": -13.432207107543945, 
+        "placetype": "timezone", 
         "iso": "WS", 
-        "sw_latitude": -14.063533782958984, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:50:25Z", 
         "latitude": -13.617, 
         "sw_longitude": -172.79859924316406, 
         "fullname": "Pacific/Apia", 
-        "date_indexed": "2010-12-02T16:50:25Z"
+        "woe:id": 28350936, 
+        "sw_latitude": -14.063533782958984
       }, 
       "id": 28350936
     }

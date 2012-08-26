@@ -3052,20 +3052,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 28.32377815246582, 
         "name": "Asia/Thimphu", 
-        "woeid": 28350860, 
+        "hierarchy": [
+          "woe:timezone=28350860", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 92.12519073486328, 
         "longitude": 90.442, 
-        "parent_woeid": 1, 
-        "ne_latitude": 28.32377815246582, 
+        "placetype": "timezone", 
         "iso": "BT", 
-        "sw_latitude": 26.707639694213867, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:56:39Z", 
         "latitude": 27.515, 
         "sw_longitude": 88.75971984863281, 
         "fullname": "Asia/Thimphu", 
-        "date_indexed": "2010-12-02T17:56:39Z"
+        "woe:id": 28350860, 
+        "sw_latitude": 26.707639694213867
       }, 
       "id": 28350860
     }

@@ -406,20 +406,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 18.6127872467041, 
         "name": "America/Anguilla", 
-        "woeid": 28350733, 
+        "hierarchy": [
+          "woe:timezone=28350733", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -62.93204116821289, 
         "longitude": -63.072, 
-        "parent_woeid": 1, 
-        "ne_latitude": 18.6127872467041, 
+        "placetype": "timezone", 
         "iso": "AI", 
-        "sw_latitude": 18.16681480407715, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:43:23Z", 
         "latitude": 18.225, 
         "sw_longitude": -63.434871673583984, 
         "fullname": "America/Anguilla", 
-        "date_indexed": "2010-12-02T17:43:23Z"
+        "woe:id": 28350733, 
+        "sw_latitude": 18.16681480407715
       }, 
       "id": 28350733
     }

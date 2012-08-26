@@ -8382,20 +8382,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 22.561946868896484, 
         "name": "Asia/Hong_Kong", 
-        "woeid": 28350827, 
+        "hierarchy": [
+          "woe:timezone=28350827", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 114.43475341796875, 
         "longitude": 114.154, 
-        "parent_woeid": 1, 
-        "ne_latitude": 22.561946868896484, 
+        "placetype": "timezone", 
         "iso": "HK", 
-        "sw_latitude": 22.153249740600586, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:08:18Z", 
         "latitude": 22.411, 
         "sw_longitude": 113.83775329589844, 
         "fullname": "Asia/Hong_Kong", 
-        "date_indexed": "2010-12-02T12:08:18Z"
+        "woe:id": 28350827, 
+        "sw_latitude": 22.153249740600586
       }, 
       "id": 28350827
     }

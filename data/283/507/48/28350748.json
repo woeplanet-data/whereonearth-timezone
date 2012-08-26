@@ -9426,20 +9426,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 11.216818809509277, 
         "name": "America/Costa_Rica", 
-        "woeid": 28350748, 
+        "hierarchy": [
+          "woe:timezone=28350748", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -82.55599212646484, 
         "longitude": -84.253, 
-        "parent_woeid": 1, 
-        "ne_latitude": 11.216818809509277, 
+        "placetype": "timezone", 
         "iso": "CR", 
-        "sw_latitude": 5.499074459075928, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
         "latitude": 9.625, 
         "sw_longitude": -87.09465026855469, 
         "fullname": "America/Costa_Rica", 
-        "date_indexed": "2010-12-02T12:16:27Z"
+        "woe:id": 28350748, 
+        "sw_latitude": 5.499074459075928
       }, 
       "id": 28350748
     }

@@ -8954,20 +8954,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 37.543914794921875, 
         "name": "Africa/Tunis", 
-        "woeid": 28350729, 
+        "hierarchy": [
+          "woe:timezone=28350729", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 11.598278045654297, 
         "longitude": 9.562, 
-        "parent_woeid": 1, 
-        "ne_latitude": 37.543914794921875, 
+        "placetype": "timezone", 
         "iso": "TN", 
-        "sw_latitude": 30.240417480468754, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:19:07Z", 
         "latitude": 33.795, 
         "sw_longitude": 7.524833202362061, 
         "fullname": "Africa/Tunis", 
-        "date_indexed": "2010-12-02T18:19:07Z"
+        "woe:id": 28350729, 
+        "sw_latitude": 30.240417480468754
       }, 
       "id": 28350729
     }

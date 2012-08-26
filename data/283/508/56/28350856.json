@@ -1218,20 +1218,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 1.471277832984924, 
         "name": "Asia/Singapore", 
-        "woeid": 28350856, 
+        "hierarchy": [
+          "woe:timezone=28350856", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 104.09005737304688, 
         "longitude": 103.828, 
-        "parent_woeid": 1, 
-        "ne_latitude": 1.471277832984924, 
+        "placetype": "timezone", 
         "iso": "SG", 
-        "sw_latitude": 1.164027810096741, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:53:28Z", 
         "latitude": 1.366, 
         "sw_longitude": 103.63827514648438, 
         "fullname": "Asia/Singapore", 
-        "date_indexed": "2010-12-02T08:53:28Z"
+        "woe:id": 28350856, 
+        "sw_latitude": 1.164027810096741
       }, 
       "id": 28350856
     }

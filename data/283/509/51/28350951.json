@@ -4074,20 +4074,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 4.719569683074951, 
         "name": "Pacific/Kiritimati", 
-        "woeid": 28350951, 
+        "hierarchy": [
+          "woe:timezone=28350951", 
+          "woe:country=23424867", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -150.20835876464844, 
         "longitude": -157.663, 
-        "parent_woeid": 23424867, 
-        "ne_latitude": 4.719569683074951, 
+        "placetype": "timezone", 
         "iso": "KI", 
-        "sw_latitude": -11.43703842163086, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:42:25Z", 
         "latitude": 1.881, 
         "sw_longitude": -160.77810668945312, 
         "fullname": "Pacific/Kiritimati, Kiribati", 
-        "date_indexed": "2010-12-02T17:42:25Z"
+        "woe:id": 28350951, 
+        "sw_latitude": -11.43703842163086
       }, 
       "id": 28350951
     }

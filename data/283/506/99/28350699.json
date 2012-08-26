@@ -17178,20 +17178,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 13.078056335449219, 
         "name": "Africa/Douala", 
-        "woeid": 28350699, 
+        "hierarchy": [
+          "woe:timezone=28350699", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 16.192115783691406, 
         "longitude": 12.343, 
-        "parent_woeid": 1, 
-        "ne_latitude": 13.078056335449219, 
+        "placetype": "timezone", 
         "iso": "CM", 
-        "sw_latitude": 1.652547836303711, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:22:30Z", 
         "latitude": 7.365, 
         "sw_longitude": 8.494763374328613, 
         "fullname": "Africa/Douala", 
-        "date_indexed": "2010-12-02T10:22:30Z"
+        "woe:id": 28350699, 
+        "sw_latitude": 1.652547836303711
       }, 
       "id": 28350699
     }

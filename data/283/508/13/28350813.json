@@ -13860,20 +13860,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 41.9056396484375, 
         "name": "Asia/Baku", 
-        "woeid": 28350813, 
+        "hierarchy": [
+          "woe:timezone=28350813", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 50.60783386230469, 
         "longitude": 47.687, 
-        "parent_woeid": 1, 
-        "ne_latitude": 41.9056396484375, 
+        "placetype": "timezone", 
         "iso": "AZ", 
-        "sw_latitude": 38.397056579589844, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:58:35Z", 
         "latitude": 40.151, 
         "sw_longitude": 44.771915435791016, 
         "fullname": "Asia/Baku", 
-        "date_indexed": "2010-12-02T08:58:35Z"
+        "woe:id": 28350813, 
+        "sw_latitude": 38.397056579589844
       }, 
       "id": 28350813
     }

@@ -16256,20 +16256,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 25.000001907348633, 
         "name": "Africa/Bamako", 
-        "woeid": 28350686, 
+        "hierarchy": [
+          "woe:timezone=28350686", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 4.244968414306641, 
         "longitude": -3.999, 
-        "parent_woeid": 1, 
-        "ne_latitude": 25.000001907348633, 
+        "placetype": "timezone", 
         "iso": "ML", 
-        "sw_latitude": 10.159512519836426, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:58:41Z", 
         "latitude": 17.58, 
         "sw_longitude": -12.242613792419434, 
         "fullname": "Africa/Bamako", 
-        "date_indexed": "2010-12-02T08:58:41Z"
+        "woe:id": 28350686, 
+        "sw_latitude": 10.159512519836426
       }, 
       "id": 28350686
     }

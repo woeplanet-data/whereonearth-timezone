@@ -6644,20 +6644,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 51.7666130065918, 
         "name": "Asia/Oral", 
-        "woeid": 56043588, 
+        "hierarchy": [
+          "woe:timezone=56043588", 
+          "woe:country=23424871", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 54.57499694824219, 
         "longitude": 50.584, 
-        "parent_woeid": 23424871, 
-        "ne_latitude": 51.7666130065918, 
+        "placetype": "timezone", 
         "iso": "KZ", 
-        "sw_latitude": 47.97886657714844, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:54:13Z", 
         "latitude": 49.964, 
         "sw_longitude": 46.491859436035156, 
         "fullname": "Asia/Oral, Kazakhstan", 
-        "date_indexed": "2010-12-02T08:54:13Z"
+        "woe:id": 56043588, 
+        "sw_latitude": 47.97886657714844
       }, 
       "id": 56043588
     }

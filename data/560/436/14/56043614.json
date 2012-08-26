@@ -154898,20 +154898,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 81.85736083984375, 
         "name": "Europe/Moscow", 
-        "woeid": 56043614, 
+        "hierarchy": [
+          "woe:timezone=56043614", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 78.97052764892578, 
         "longitude": 46.699, 
-        "parent_woeid": 23424936, 
-        "ne_latitude": 81.85736083984375, 
+        "placetype": "timezone", 
         "iso": "RU", 
-        "sw_latitude": 41.18886184692383, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:11:11Z", 
         "latitude": 55.571, 
         "sw_longitude": 26.94530487060547, 
         "fullname": "Europe/Moscow, Russia", 
-        "date_indexed": "2010-12-02T16:11:11Z"
+        "woe:id": 56043614, 
+        "sw_latitude": 41.18886184692383
       }, 
       "id": 56043614
     }

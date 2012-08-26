@@ -12214,20 +12214,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 53.555137634277344, 
         "name": "Europe/Amsterdam", 
-        "woeid": 28350886, 
+        "hierarchy": [
+          "woe:timezone=28350886", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 7.227944374084473, 
         "longitude": 5.33, 
-        "parent_woeid": 1, 
-        "ne_latitude": 53.555137634277344, 
+        "placetype": "timezone", 
         "iso": "NL", 
-        "sw_latitude": 50.7539176940918, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:18:27Z", 
         "latitude": 52.108, 
         "sw_longitude": 3.362555503845215, 
         "fullname": "Europe/Amsterdam", 
-        "date_indexed": "2010-12-02T18:18:27Z"
+        "woe:id": 28350886, 
+        "sw_latitude": 50.7539176940918
       }, 
       "id": 28350886
     }

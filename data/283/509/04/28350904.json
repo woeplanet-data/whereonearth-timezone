@@ -1752,20 +1752,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 50.18494415283203, 
         "name": "Europe/Luxembourg", 
-        "woeid": 28350904, 
+        "hierarchy": [
+          "woe:timezone=28350904", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 6.528472423553467, 
         "longitude": 6.133, 
-        "parent_woeid": 1, 
-        "ne_latitude": 50.18494415283203, 
+        "placetype": "timezone", 
         "iso": "LU", 
-        "sw_latitude": 49.44658279418945, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:54:43Z", 
         "latitude": 49.815, 
         "sw_longitude": 5.734555721282959, 
         "fullname": "Europe/Luxembourg", 
-        "date_indexed": "2010-12-02T08:54:43Z"
+        "woe:id": 28350904, 
+        "sw_latitude": 49.44658279418945
       }, 
       "id": 28350904
     }

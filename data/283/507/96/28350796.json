@@ -472,20 +472,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 14.10324478149414, 
         "name": "America/St_Lucia", 
-        "woeid": 28350796, 
+        "hierarchy": [
+          "woe:timezone=28350796", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -60.874202728271484, 
         "longitude": -60.974, 
-        "parent_woeid": 1, 
-        "ne_latitude": 14.10324478149414, 
+        "placetype": "timezone", 
         "iso": "LC", 
-        "sw_latitude": 13.704777717590332, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:18:47Z", 
         "latitude": 13.904, 
         "sw_longitude": -61.07415008544922, 
         "fullname": "America/St_Lucia", 
-        "date_indexed": "2010-12-02T18:18:47Z"
+        "woe:id": 28350796, 
+        "sw_latitude": 13.704777717590332
       }, 
       "id": 28350796
     }

@@ -5106,20 +5106,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 21.60572052001953, 
         "name": "America/Cancun", 
-        "woeid": 56043599, 
+        "hierarchy": [
+          "woe:timezone=56043599", 
+          "woe:country=23424900", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -86.7033920288086, 
         "longitude": -87.933, 
-        "parent_woeid": 23424900, 
-        "ne_latitude": 21.60572052001953, 
+        "placetype": "timezone", 
         "iso": "MX", 
-        "sw_latitude": 17.817399978637695, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:02:03Z", 
         "latitude": 19.744, 
         "sw_longitude": -89.43054962158203, 
         "fullname": "America/Cancun, Mexico", 
-        "date_indexed": "2010-12-02T17:02:03Z"
+        "woe:id": 56043599, 
+        "sw_latitude": 17.817399978637695
       }, 
       "id": 56043599
     }

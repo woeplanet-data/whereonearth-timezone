@@ -4730,20 +4730,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 18.496557235717773, 
         "name": "America/Belize", 
-        "woeid": 28350740, 
+        "hierarchy": [
+          "woe:timezone=28350740", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -87.46812438964844, 
         "longitude": -88.653, 
-        "parent_woeid": 1, 
-        "ne_latitude": 18.496557235717773, 
+        "placetype": "timezone", 
         "iso": "BZ", 
-        "sw_latitude": 15.889300346374513, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:14:08Z", 
         "latitude": 17.193, 
         "sw_longitude": -89.22481536865234, 
         "fullname": "America/Belize", 
-        "date_indexed": "2010-12-02T16:14:08Z"
+        "woe:id": 28350740, 
+        "sw_latitude": 15.889300346374513
       }, 
       "id": 28350740
     }

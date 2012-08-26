@@ -8608,20 +8608,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 33.37125015258789, 
         "name": "Asia/Amman", 
-        "woeid": 28350808, 
+        "hierarchy": [
+          "woe:timezone=28350808", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 39.30120086669922, 
         "longitude": 37.139, 
-        "parent_woeid": 1, 
-        "ne_latitude": 33.37125015258789, 
+        "placetype": "timezone", 
         "iso": "JO", 
-        "sw_latitude": 29.18503570556641, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:08:18Z", 
         "latitude": 31.278, 
         "sw_longitude": 34.95798110961914, 
         "fullname": "Asia/Amman", 
-        "date_indexed": "2010-12-02T12:08:18Z"
+        "woe:id": 28350808, 
+        "sw_latitude": 29.18503570556641
       }, 
       "id": 28350808
     }

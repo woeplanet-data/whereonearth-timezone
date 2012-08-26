@@ -684,20 +684,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 38.26444625854492, 
         "name": "America/Indiana/Tell_City", 
-        "woeid": 56043654, 
+        "hierarchy": [
+          "woe:timezone=56043654", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -86.43098449707031, 
         "longitude": -86.693, 
-        "parent_woeid": 23424977, 
-        "ne_latitude": 38.26444625854492, 
+        "placetype": "timezone", 
         "iso": "US", 
-        "sw_latitude": 37.84016418457031, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
         "latitude": 38.054, 
         "sw_longitude": -86.82061004638672, 
         "fullname": "America/Indiana/Tell_City, United States", 
-        "date_indexed": "2010-12-02T19:08:31Z"
+        "woe:id": 56043654, 
+        "sw_latitude": 37.84016418457031
       }, 
       "id": 56043654
     }

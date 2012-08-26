@@ -40030,20 +40030,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 20.463193893432617, 
         "name": "Asia/Bangkok", 
-        "woeid": 28350814, 
+        "hierarchy": [
+          "woe:timezone=28350814", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 105.63938903808594, 
         "longitude": 101.49, 
-        "parent_woeid": 1, 
-        "ne_latitude": 20.463193893432617, 
+        "placetype": "timezone", 
         "iso": "TH", 
-        "sw_latitude": 5.610000133514404, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:05:43Z", 
         "latitude": 13.039, 
         "sw_longitude": 97.34564208984375, 
         "fullname": "Asia/Bangkok", 
-        "date_indexed": "2010-12-02T17:05:43Z"
+        "woe:id": 28350814, 
+        "sw_latitude": 5.610000133514404
       }, 
       "id": 28350814
     }

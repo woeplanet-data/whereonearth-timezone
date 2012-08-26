@@ -2528,20 +2528,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -1.053481459617615, 
         "name": "Africa/Kigali", 
-        "woeid": 28350707, 
+        "hierarchy": [
+          "woe:timezone=28350707", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 30.895957946777344, 
         "longitude": 29.876, 
-        "parent_woeid": 1, 
-        "ne_latitude": -1.053481459617615, 
+        "placetype": "timezone", 
         "iso": "RW", 
-        "sw_latitude": -2.840679407119751, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:35:48Z", 
         "latitude": -1.947, 
         "sw_longitude": 28.856794357299805, 
         "fullname": "Africa/Kigali", 
-        "date_indexed": "2010-12-02T09:35:48Z"
+        "woe:id": 28350707, 
+        "sw_latitude": -2.840679407119751
       }, 
       "id": 28350707
     }

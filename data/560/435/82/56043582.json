@@ -7082,20 +7082,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -7.268889427185059, 
         "name": "America/Recife", 
-        "woeid": 56043582, 
+        "hierarchy": [
+          "woe:timezone=56043582", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -34.80902862548828, 
         "longitude": -37.909, 
-        "parent_woeid": 23424768, 
-        "ne_latitude": -7.268889427185059, 
+        "placetype": "timezone", 
         "iso": "BR", 
-        "sw_latitude": -9.488334655761719, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:03:30Z", 
         "latitude": -8.377, 
         "sw_longitude": -41.37083435058594, 
         "fullname": "America/Recife, Brazil", 
-        "date_indexed": "2010-12-02T18:03:30Z"
+        "woe:id": 56043582, 
+        "sw_latitude": -9.488334655761719
       }, 
       "id": 56043582
     }

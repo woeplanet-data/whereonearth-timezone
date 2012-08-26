@@ -184,20 +184,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 16.81732940673828, 
         "name": "America/Montserrat", 
-        "woeid": 28350778, 
+        "hierarchy": [
+          "woe:timezone=28350778", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -62.146419525146484, 
         "longitude": -62.194, 
-        "parent_woeid": 1, 
-        "ne_latitude": 16.81732940673828, 
+        "placetype": "timezone", 
         "iso": "MS", 
-        "sw_latitude": 16.67100715637207, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:58:29Z", 
         "latitude": 16.744, 
         "sw_longitude": -62.242584228515625, 
         "fullname": "America/Montserrat", 
-        "date_indexed": "2010-12-02T08:58:29Z"
+        "woe:id": 28350778, 
+        "sw_latitude": 16.67100715637207
       }, 
       "id": 28350778
     }

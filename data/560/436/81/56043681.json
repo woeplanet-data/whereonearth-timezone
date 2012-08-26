@@ -1886,20 +1886,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 75.64274597167969, 
         "name": "America/Resolute", 
-        "woeid": 56043681, 
+        "hierarchy": [
+          "woe:timezone=56043681", 
+          "woe:state=20069920", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -93.39350128173828, 
         "longitude": -95.014, 
-        "parent_woeid": 20069920, 
-        "ne_latitude": 75.64274597167969, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 74.62826538085938, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 75.146, 
         "sw_longitude": -96.62096405029297, 
         "fullname": "America/Resolute, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043681, 
+        "sw_latitude": 74.62826538085938
       }, 
       "id": 56043681
     }

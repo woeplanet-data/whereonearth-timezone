@@ -7462,20 +7462,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 9.831360816955566, 
         "name": "Asia/Colombo", 
-        "woeid": 28350820, 
+        "hierarchy": [
+          "woe:timezone=28350820", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 81.88127899169922, 
         "longitude": 80.79, 
-        "parent_woeid": 1, 
-        "ne_latitude": 9.831360816955566, 
+        "placetype": "timezone", 
         "iso": "LK", 
-        "sw_latitude": 5.916833400726318, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:56:39Z", 
         "latitude": 7.874, 
         "sw_longitude": 79.65291595458984, 
         "fullname": "Asia/Colombo", 
-        "date_indexed": "2010-12-02T17:56:39Z"
+        "woe:id": 28350820, 
+        "sw_latitude": 5.916833400726318
       }, 
       "id": 28350820
     }

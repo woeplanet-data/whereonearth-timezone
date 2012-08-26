@@ -8716,20 +8716,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 51.05888748168945, 
         "name": "Europe/Prague", 
-        "woeid": 28350912, 
+        "hierarchy": [
+          "woe:timezone=28350912", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 18.860111236572266, 
         "longitude": 17.33, 
-        "parent_woeid": 1, 
-        "ne_latitude": 51.05888748168945, 
+        "placetype": "timezone", 
         "iso": "ZZ", 
-        "sw_latitude": 48.54291534423828, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:31:49Z", 
         "latitude": 49.392, 
         "sw_longitude": 12.09619426727295, 
         "fullname": "Europe/Prague", 
-        "date_indexed": "2010-12-02T16:31:49Z"
+        "woe:id": 28350912, 
+        "sw_latitude": 48.54291534423828
       }, 
       "id": 28350912
     }

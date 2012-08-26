@@ -30650,20 +30650,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -10.471882820129395, 
         "name": "Africa/Maputo", 
-        "woeid": 28350716, 
+        "hierarchy": [
+          "woe:timezone=28350716", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 40.8444709777832, 
         "longitude": 35.53, 
-        "parent_woeid": 1, 
-        "ne_latitude": -10.471882820129395, 
+        "placetype": "timezone", 
         "iso": "MZ", 
-        "sw_latitude": -26.868684768676758, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T07:50:33Z", 
         "latitude": -18.67, 
         "sw_longitude": 30.217319488525394, 
         "fullname": "Africa/Maputo", 
-        "date_indexed": "2010-12-02T07:50:33Z"
+        "woe:id": 28350716, 
+        "sw_latitude": -26.868684768676758
       }, 
       "id": 28350716
     }

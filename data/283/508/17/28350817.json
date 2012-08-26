@@ -2046,20 +2046,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 5.04716682434082, 
         "name": "Asia/Brunei", 
-        "woeid": 28350817, 
+        "hierarchy": [
+          "woe:timezone=28350817", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 115.35944366455078, 
         "longitude": 114.604, 
-        "parent_woeid": 1, 
-        "ne_latitude": 5.04716682434082, 
+        "placetype": "timezone", 
         "iso": "BN", 
-        "sw_latitude": 4.003083229064941, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:58:12Z", 
         "latitude": 4.535, 
         "sw_longitude": 114.07144165039062, 
         "fullname": "Asia/Brunei", 
-        "date_indexed": "2010-12-02T17:58:12Z"
+        "woe:id": 28350817, 
+        "sw_latitude": 4.003083229064941
       }, 
       "id": 28350817
     }

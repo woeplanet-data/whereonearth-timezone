@@ -7848,20 +7848,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 5.264876842498779, 
         "name": "America/Boa_Vista", 
-        "woeid": 56043579, 
+        "hierarchy": [
+          "woe:timezone=56043579", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -58.870597839355476, 
         "longitude": -60.437, 
-        "parent_woeid": 23424768, 
-        "ne_latitude": 5.264876842498779, 
+        "placetype": "timezone", 
         "iso": "BR", 
-        "sw_latitude": -1.426773071289062, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:03:30Z", 
         "latitude": 1.212, 
         "sw_longitude": -64.80508422851562, 
         "fullname": "America/Boa_Vista, Brazil", 
-        "date_indexed": "2010-12-02T18:03:30Z"
+        "woe:id": 56043579, 
+        "sw_latitude": -1.426773071289062
       }, 
       "id": 56043579
     }

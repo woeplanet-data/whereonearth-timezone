@@ -3464,20 +3464,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -27.735557556152344, 
         "name": "America/Argentina/La_Rioja", 
-        "woeid": 56043543, 
+        "hierarchy": [
+          "woe:timezone=56043543", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -65.12760925292969, 
         "longitude": -67.54, 
-        "parent_woeid": 23424747, 
-        "ne_latitude": -27.735557556152344, 
+        "placetype": "timezone", 
         "iso": "AR", 
-        "sw_latitude": -31.936946868896488, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "latitude": -29.857, 
         "sw_longitude": -69.63153839111328, 
         "fullname": "America/Argentina/La_Rioja, Argentina", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "woe:id": 56043543, 
+        "sw_latitude": -31.936946868896488
       }, 
       "id": 56043543
     }

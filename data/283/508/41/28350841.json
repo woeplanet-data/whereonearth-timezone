@@ -40382,20 +40382,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 72.33141326904297, 
         "name": "Asia/Magadan", 
-        "woeid": 28350841, 
+        "hierarchy": [
+          "woe:timezone=28350841", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 163.466064453125, 
         "longitude": 151.045, 
-        "parent_woeid": 23424936, 
-        "ne_latitude": 72.33141326904297, 
+        "placetype": "timezone", 
         "iso": "RU", 
-        "sw_latitude": 43.35963821411133, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:11:11Z", 
         "latitude": 65.75, 
         "sw_longitude": 138.9031032794619, 
         "fullname": "Asia/Magadan, Russia", 
-        "date_indexed": "2010-12-02T16:11:11Z"
+        "woe:id": 28350841, 
+        "sw_latitude": 43.35963821411133
       }, 
       "id": 28350841
     }

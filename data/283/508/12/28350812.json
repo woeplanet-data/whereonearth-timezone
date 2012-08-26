@@ -1714,20 +1714,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 26.282583236694336, 
         "name": "Asia/Bahrain", 
-        "woeid": 28350812, 
+        "hierarchy": [
+          "woe:timezone=28350812", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 50.82869338989258, 
         "longitude": 50.553, 
-        "parent_woeid": 1, 
-        "ne_latitude": 26.282583236694336, 
+        "placetype": "timezone", 
         "iso": "BH", 
-        "sw_latitude": 25.54224967956543, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:12:03Z", 
         "latitude": 26.022, 
         "sw_longitude": 50.385860443115234, 
         "fullname": "Asia/Bahrain", 
-        "date_indexed": "2010-12-02T16:12:03Z"
+        "woe:id": 28350812, 
+        "sw_latitude": 25.54224967956543
       }, 
       "id": 28350812
     }

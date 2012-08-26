@@ -12158,20 +12158,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 10.736641883850098, 
         "name": "Africa/Abidjan", 
-        "woeid": 28350681, 
+        "hierarchy": [
+          "woe:timezone=28350681", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -2.494896650314331, 
         "longitude": -5.547, 
-        "parent_woeid": 1, 
-        "ne_latitude": 10.736641883850098, 
+        "placetype": "timezone", 
         "iso": "CI", 
-        "sw_latitude": 4.357067108154297, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:35:19Z", 
         "latitude": 7.547, 
         "sw_longitude": -8.599302291870117, 
         "fullname": "Africa/Abidjan", 
-        "date_indexed": "2010-12-02T09:35:19Z"
+        "woe:id": 28350681, 
+        "sw_latitude": 4.357067108154297
       }, 
       "id": 28350681
     }

@@ -22402,20 +22402,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 31.667333602905273, 
         "name": "Africa/Cairo", 
-        "woeid": 28350693, 
+        "hierarchy": [
+          "woe:timezone=28350693", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 36.2429428100586, 
         "longitude": 30.246, 
-        "parent_woeid": 1, 
-        "ne_latitude": 31.667333602905273, 
+        "placetype": "timezone", 
         "iso": "EG", 
-        "sw_latitude": 21.72538948059082, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:16:52Z", 
         "latitude": 26.696, 
         "sw_longitude": 24.698110580444336, 
         "fullname": "Africa/Cairo", 
-        "date_indexed": "2010-12-02T12:16:52Z"
+        "woe:id": 28350693, 
+        "sw_latitude": 21.72538948059082
       }, 
       "id": 28350693
     }

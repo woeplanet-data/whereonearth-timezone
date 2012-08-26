@@ -9598,20 +9598,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 4.629332542419434, 
         "name": "Africa/Nairobi", 
-        "woeid": 28350721, 
+        "hierarchy": [
+          "woe:timezone=28350721", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 41.89907836914063, 
         "longitude": 37.904, 
-        "parent_woeid": 1, 
-        "ne_latitude": 4.629332542419434, 
+        "placetype": "timezone", 
         "iso": "KE", 
-        "sw_latitude": -4.678046703338623, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:54:03Z", 
         "latitude": -0.024, 
         "sw_longitude": 33.90885925292969, 
         "fullname": "Africa/Nairobi", 
-        "date_indexed": "2010-12-02T08:54:03Z"
+        "woe:id": 28350721, 
+        "sw_latitude": -4.678046703338623
       }, 
       "id": 28350721
     }

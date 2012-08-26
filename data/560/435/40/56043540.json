@@ -11226,20 +11226,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -25.15671157836914, 
         "name": "America/Argentina/Catamarca", 
-        "woeid": 56043540, 
+        "hierarchy": [
+          "woe:timezone=56043540", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -63.58711624145508, 
         "longitude": -67.64, 
-        "parent_woeid": 23424747, 
-        "ne_latitude": -25.15671157836914, 
+        "placetype": "timezone", 
         "iso": "AR", 
-        "sw_latitude": -46.00028610229492, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "latitude": -43.946, 
         "sw_longitude": -72.13352966308594, 
         "fullname": "America/Argentina/Catamarca, Argentina", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "woe:id": 56043540, 
+        "sw_latitude": -46.00028610229492
       }, 
       "id": 56043540
     }

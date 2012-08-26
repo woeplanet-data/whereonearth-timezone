@@ -76662,20 +76662,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 69.0625, 
         "name": "Europe/Stockholm", 
-        "woeid": 28350917, 
+        "hierarchy": [
+          "woe:timezone=28350917", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 24.163278579711914, 
         "longitude": 17.551, 
-        "parent_woeid": 1, 
-        "ne_latitude": 69.0625, 
+        "placetype": "timezone", 
         "iso": "SE", 
-        "sw_latitude": 55.33711242675781, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:49:06Z", 
         "latitude": 62.198, 
         "sw_longitude": 10.986721992492676, 
         "fullname": "Europe/Stockholm", 
-        "date_indexed": "2010-12-02T16:49:06Z"
+        "woe:id": 28350917, 
+        "sw_latitude": 55.33711242675781
       }, 
       "id": 28350917
     }

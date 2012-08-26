@@ -8194,20 +8194,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 15.025909423828125, 
         "name": "America/Managua", 
-        "woeid": 28350771, 
+        "hierarchy": [
+          "woe:timezone=28350771", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -82.59207153320312, 
         "longitude": -85.424, 
-        "parent_woeid": 1, 
-        "ne_latitude": 15.025909423828125, 
+        "placetype": "timezone", 
         "iso": "NI", 
-        "sw_latitude": 10.70754337310791, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:19:13Z", 
         "latitude": 12.867, 
         "sw_longitude": -87.6903076171875, 
         "fullname": "America/Managua", 
-        "date_indexed": "2010-12-02T18:19:13Z"
+        "woe:id": 28350771, 
+        "sw_latitude": 10.70754337310791
       }, 
       "id": 28350771
     }

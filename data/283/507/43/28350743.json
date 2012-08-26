@@ -32870,20 +32870,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 12.201903343200684, 
         "name": "America/Caracas", 
-        "woeid": 28350743, 
+        "hierarchy": [
+          "woe:timezone=28350743", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -59.80377960205079, 
         "longitude": -66.589, 
-        "parent_woeid": 1, 
-        "ne_latitude": 12.201903343200684, 
+        "placetype": "timezone", 
         "iso": "VE", 
-        "sw_latitude": 0.626311123371124, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:11:50Z", 
         "latitude": 6.473, 
         "sw_longitude": -73.35407257080078, 
         "fullname": "America/Caracas", 
-        "date_indexed": "2010-12-02T16:11:50Z"
+        "woe:id": 28350743, 
+        "sw_latitude": 0.626311123371124
       }, 
       "id": 28350743
     }

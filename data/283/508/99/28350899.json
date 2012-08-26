@@ -51118,20 +51118,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 42.10761260986328, 
         "name": "Europe/Istanbul", 
-        "woeid": 28350899, 
+        "hierarchy": [
+          "woe:timezone=28350899", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 44.834999084472656, 
         "longitude": 35.432, 
-        "parent_woeid": 1, 
-        "ne_latitude": 42.10761260986328, 
+        "placetype": "timezone", 
         "iso": "TR", 
-        "sw_latitude": 35.8154182434082, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:24:07Z", 
         "latitude": 38.958, 
         "sw_longitude": 25.668500900268555, 
         "fullname": "Europe/Istanbul", 
-        "date_indexed": "2010-12-02T16:24:07Z"
+        "woe:id": 28350899, 
+        "sw_latitude": 35.8154182434082
       }, 
       "id": 28350899
     }

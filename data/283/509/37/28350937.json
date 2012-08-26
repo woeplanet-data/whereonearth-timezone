@@ -53766,20 +53766,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -29.241096496582035, 
         "name": "Pacific/Auckland", 
-        "woeid": 28350937, 
+        "hierarchy": [
+          "woe:timezone=28350937", 
+          "woe:country=23424916", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 179.10238647460938, 
         "longitude": 170.371, 
-        "parent_woeid": 23424916, 
-        "ne_latitude": -29.241096496582035, 
+        "placetype": "timezone", 
         "iso": "NZ", 
-        "sw_latitude": -52.607582092285156, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:03:14Z", 
         "latitude": -43.587, 
         "sw_longitude": -178.62815856933594, 
         "fullname": "Pacific/Auckland", 
-        "date_indexed": "2010-12-02T17:03:14Z"
+        "woe:id": 28350937, 
+        "sw_latitude": -52.607582092285156
       }, 
       "id": 28350937
     }

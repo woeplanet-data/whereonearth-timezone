@@ -88968,20 +88968,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 53.367787091227, 
         "name": "Asia/Harbin", 
-        "woeid": 56043594, 
+        "hierarchy": [
+          "woe:timezone=56043594", 
+          "woe:country=23424781", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 134.77391052246094, 
         "longitude": 127.987, 
-        "parent_woeid": 23424781, 
-        "ne_latitude": 53.367787091227, 
+        "placetype": "timezone", 
         "iso": "CN", 
-        "sw_latitude": 40.86182403564454, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:52:12Z", 
         "latitude": 47.209, 
         "sw_longitude": 121.63304322836625, 
         "fullname": "Asia/Harbin, China", 
-        "date_indexed": "2010-12-02T08:52:12Z"
+        "woe:id": 56043594, 
+        "sw_latitude": 40.86182403564454
       }, 
       "id": 56043594
     }

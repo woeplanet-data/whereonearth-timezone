@@ -1362,20 +1362,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -5.641972064971924, 
         "name": "Pacific/Funafuti", 
-        "woeid": 28350944, 
+        "hierarchy": [
+          "woe:timezone=28350944", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 179.8633575439453, 
         "longitude": 178.691, 
-        "parent_woeid": 1, 
-        "ne_latitude": -5.641972064971924, 
+        "placetype": "timezone", 
         "iso": "TV", 
-        "sw_latitude": -9.43619441986084, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "latitude": -7.472, 
         "sw_longitude": 176.0648651123047, 
         "fullname": "Pacific/Funafuti", 
-        "date_indexed": "2010-12-02T17:04:11Z"
+        "woe:id": 28350944, 
+        "sw_latitude": -9.43619441986084
       }, 
       "id": 28350944
     }

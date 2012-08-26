@@ -15018,20 +15018,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 49.23906707763672, 
         "name": "Asia/Aqtau", 
-        "woeid": 56043587, 
+        "hierarchy": [
+          "woe:timezone=56043587", 
+          "woe:country=23424871", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 56.75027465820313, 
         "longitude": 54.856, 
-        "parent_woeid": 23424871, 
-        "ne_latitude": 49.23906707763672, 
+        "placetype": "timezone", 
         "iso": "KZ", 
-        "sw_latitude": 41.24013900756836, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:54:13Z", 
         "latitude": 46.503, 
         "sw_longitude": 47.01763916015625, 
         "fullname": "Asia/Aqtau, Kazakhstan", 
-        "date_indexed": "2010-12-02T08:54:13Z"
+        "woe:id": 56043587, 
+        "sw_latitude": 41.24013900756836
       }, 
       "id": 56043587
     }

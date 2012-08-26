@@ -1566,20 +1566,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 18.757221221923828, 
         "name": "America/Tortola", 
-        "woeid": 28350803, 
+        "hierarchy": [
+          "woe:timezone=28350803", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -64.26876831054688, 
         "longitude": -64.635, 
-        "parent_woeid": 1, 
-        "ne_latitude": 18.757221221923828, 
+        "placetype": "timezone", 
         "iso": "VG", 
-        "sw_latitude": 18.31273651123047, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:56:39Z", 
         "latitude": 18.427, 
         "sw_longitude": -64.8318099975586, 
         "fullname": "America/Tortola", 
-        "date_indexed": "2010-12-02T17:56:39Z"
+        "woe:id": 28350803, 
+        "sw_latitude": 18.31273651123047
       }, 
       "id": 28350803
     }

@@ -113264,20 +113264,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 4.801639080047607, 
         "name": "Asia/Makassar", 
-        "woeid": 28350842, 
+        "hierarchy": [
+          "woe:timezone=28350842", 
+          "woe:country=23424846", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 127.1465530395508, 
         "longitude": 116.423, 
-        "parent_woeid": 23424846, 
-        "ne_latitude": 4.801639080047607, 
+        "placetype": "timezone", 
         "iso": "ID", 
-        "sw_latitude": -11.004860877990723, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:55:18Z", 
         "latitude": 0.108, 
         "sw_longitude": 113.71720123291016, 
         "fullname": "Asia/Makassar, Indonesia", 
-        "date_indexed": "2010-12-02T16:55:18Z"
+        "woe:id": 28350842, 
+        "sw_latitude": -11.004860877990723
       }, 
       "id": 28350842
     }

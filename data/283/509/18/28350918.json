@@ -12790,20 +12790,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 59.687946319580085, 
         "name": "Europe/Tallinn", 
-        "woeid": 28350918, 
+        "hierarchy": [
+          "woe:timezone=28350918", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 28.209972381591797, 
         "longitude": 25.807, 
-        "parent_woeid": 1, 
-        "ne_latitude": 59.687946319580085, 
+        "placetype": "timezone", 
         "iso": "EE", 
-        "sw_latitude": 57.51619338989258, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:43:41Z", 
         "latitude": 58.592, 
         "sw_longitude": 21.77344512939453, 
         "fullname": "Europe/Tallinn", 
-        "date_indexed": "2010-12-02T16:43:41Z"
+        "woe:id": 28350918, 
+        "sw_latitude": 57.51619338989258
       }, 
       "id": 28350918
     }

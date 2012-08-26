@@ -5086,20 +5086,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 46.767605309872, 
         "name": "America/Menominee", 
-        "woeid": 56043657, 
+        "hierarchy": [
+          "woe:timezone=56043657", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -87.26763153076172, 
         "longitude": -87.754, 
-        "parent_woeid": 23424977, 
-        "ne_latitude": 46.767605309872, 
+        "placetype": "timezone", 
         "iso": "US", 
-        "sw_latitude": 45.099403381347656, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
         "latitude": 45.93, 
         "sw_longitude": -90.41463857033106, 
         "fullname": "America/Menominee, United States", 
-        "date_indexed": "2010-12-02T19:08:31Z"
+        "woe:id": 56043657, 
+        "sw_latitude": 45.099403381347656
       }, 
       "id": 56043657
     }

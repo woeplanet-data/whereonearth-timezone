@@ -2026,20 +2026,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 20.542804718017578, 
         "name": "Pacific/Saipan", 
-        "woeid": 28350965, 
+        "hierarchy": [
+          "woe:timezone=28350965", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 146.0812225341797, 
         "longitude": 145.765, 
-        "parent_woeid": 1, 
-        "ne_latitude": 20.542804718017578, 
+        "placetype": "timezone", 
         "iso": "MP", 
-        "sw_latitude": 14.10736083984375, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:08:44Z", 
         "latitude": 15.193, 
         "sw_longitude": 144.88607788085938, 
         "fullname": "Pacific/Saipan", 
-        "date_indexed": "2010-12-02T12:08:44Z"
+        "woe:id": 28350965, 
+        "sw_latitude": 14.10736083984375
       }, 
       "id": 28350965
     }

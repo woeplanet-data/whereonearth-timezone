@@ -1362,20 +1362,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 17.729387283325195, 
         "name": "America/Antigua", 
-        "woeid": 28350734, 
+        "hierarchy": [
+          "woe:timezone=28350734", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -61.65908432006836, 
         "longitude": -61.789, 
-        "parent_woeid": 1, 
-        "ne_latitude": 17.729387283325195, 
+        "placetype": "timezone", 
         "iso": "AG", 
-        "sw_latitude": 16.927221298217773, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:58:52Z", 
         "latitude": 17.086, 
         "sw_longitude": -62.35240936279297, 
         "fullname": "America/Antigua", 
-        "date_indexed": "2010-12-02T08:58:52Z"
+        "woe:id": 28350734, 
+        "sw_latitude": 16.927221298217773
       }, 
       "id": 28350734
     }

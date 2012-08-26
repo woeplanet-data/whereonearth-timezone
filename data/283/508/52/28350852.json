@@ -43794,19 +43794,22 @@
           "Asia/Saigon"
         ], 
         "name": "Asia/Ho_Chi_Minh", 
-        "placetype": "Timezone", 
-        "woeid": 28350852, 
+        "hierarchy": [
+          "woe:timezone=28350852", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 109.46463775634766, 
         "longitude": 107.868, 
-        "parent_woeid": 1, 
-        "ne_latitude": 23.388833999633793, 
-        "iso": "VN", 
-        "sw_latitude": 8.408249855041504, 
-        "provider": "geoplanet 7.6.0", 
+        "placetype": "timezone", 
         "latitude": 15.974, 
+        "iso": "VN", 
+        "date_indexed": "2010-12-02T08:52:50Z", 
+        "ne_latitude": 23.388833999633793, 
         "sw_longitude": 102.14822387695312, 
         "fullname": "Asia/Ho_Chi_Minh", 
-        "date_indexed": "2010-12-02T08:52:50Z"
+        "woe:id": 28350852, 
+        "sw_latitude": 8.408249855041504
       }, 
       "id": 28350852
     }

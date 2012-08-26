@@ -226,20 +226,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 28.44536018371582, 
         "name": "Pacific/Midway", 
-        "woeid": 28350954, 
+        "hierarchy": [
+          "woe:timezone=28350954", 
+          "woe:country=28289407", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -177.31932067871094, 
         "longitude": -177.375, 
-        "parent_woeid": 28289407, 
-        "ne_latitude": 28.44536018371582, 
+        "placetype": "timezone", 
         "iso": "UM", 
-        "sw_latitude": 28.199665069580078, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:52:36Z", 
         "latitude": 28.21, 
         "sw_longitude": -178.314697265625, 
         "fullname": "Pacific/Midway, United States Minor Outlying Islands", 
-        "date_indexed": "2010-12-02T16:52:36Z"
+        "woe:id": 28350954, 
+        "sw_latitude": 28.199665069580078
       }, 
       "id": 28350954
     }

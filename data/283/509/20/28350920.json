@@ -264,20 +264,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 47.273529052734375, 
         "name": "Europe/Vaduz", 
-        "woeid": 28350920, 
+        "hierarchy": [
+          "woe:timezone=28350920", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 9.632194519042969, 
         "longitude": 9.554, 
-        "parent_woeid": 1, 
-        "ne_latitude": 47.273529052734375, 
+        "placetype": "timezone", 
         "iso": "LI", 
-        "sw_latitude": 47.05586242675781, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:51:00Z", 
         "latitude": 47.16, 
         "sw_longitude": 9.477805137634277, 
         "fullname": "Europe/Vaduz", 
-        "date_indexed": "2010-12-02T08:51:00Z"
+        "woe:id": 28350920, 
+        "sw_latitude": 47.05586242675781
       }, 
       "id": 28350920
     }

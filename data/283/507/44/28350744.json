@@ -4638,20 +4638,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 5.776496410369873, 
         "name": "America/Cayenne", 
-        "woeid": 28350744, 
+        "hierarchy": [
+          "woe:timezone=28350744", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -51.613948822021484, 
         "longitude": -53.078, 
-        "parent_woeid": 1, 
-        "ne_latitude": 5.776496410369873, 
+        "placetype": "timezone", 
         "iso": "GF", 
-        "sw_latitude": 2.127094030380249, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:59:14Z", 
         "latitude": 3.952, 
         "sw_longitude": -54.542510986328125, 
         "fullname": "America/Cayenne", 
-        "date_indexed": "2010-12-02T08:59:14Z"
+        "woe:id": 28350744, 
+        "sw_latitude": 2.127094030380249
       }, 
       "id": 28350744
     }

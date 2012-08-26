@@ -2990,20 +2990,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 21.97361183166504, 
         "name": "America/Grand_Turk", 
-        "woeid": 28350758, 
+        "hierarchy": [
+          "woe:timezone=28350758", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -71.08033752441408, 
         "longitude": -71.745, 
-        "parent_woeid": 1, 
-        "ne_latitude": 21.97361183166504, 
+        "placetype": "timezone", 
         "iso": "TC", 
-        "sw_latitude": 21.17003631591797, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T07:50:42Z", 
         "latitude": 21.797, 
         "sw_longitude": -72.48387145996094, 
         "fullname": "America/Grand_Turk", 
-        "date_indexed": "2010-12-02T07:50:42Z"
+        "woe:id": 28350758, 
+        "sw_latitude": 21.17003631591797
       }, 
       "id": 28350758
     }

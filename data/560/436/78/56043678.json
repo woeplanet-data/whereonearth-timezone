@@ -11308,20 +11308,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 69.64476776123047, 
         "name": "America/Whitehorse", 
-        "woeid": 56043678, 
+        "hierarchy": [
+          "woe:timezone=56043678", 
+          "woe:state=2344926", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -124.00138092041017, 
         "longitude": -132.41, 
-        "parent_woeid": 2344926, 
-        "ne_latitude": 69.64476776123047, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 60.0, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 61.789, 
         "sw_longitude": -141.0, 
         "fullname": "America/Whitehorse, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043678, 
+        "sw_latitude": 60.0
       }, 
       "id": 56043678
     }

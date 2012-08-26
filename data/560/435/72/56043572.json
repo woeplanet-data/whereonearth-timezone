@@ -3062,20 +3062,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -8.828056335449219, 
         "name": "America/Maceio", 
-        "woeid": 56043572, 
+        "hierarchy": [
+          "woe:timezone=56043572", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -35.149227142333984, 
         "longitude": -36.513, 
-        "parent_woeid": 23424768, 
-        "ne_latitude": -8.828056335449219, 
+        "placetype": "timezone", 
         "iso": "BR", 
-        "sw_latitude": -11.576112747192383, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:03:30Z", 
         "latitude": -10.295, 
         "sw_longitude": -38.24555969238281, 
         "fullname": "America/Maceio, Brazil", 
-        "date_indexed": "2010-12-02T18:03:30Z"
+        "woe:id": 56043572, 
+        "sw_latitude": -11.576112747192383
       }, 
       "id": 56043572
     }

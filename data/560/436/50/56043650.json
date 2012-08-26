@@ -236,20 +236,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 41.43387985229492, 
         "name": "America/Indiana/Knox", 
-        "woeid": 56043650, 
+        "hierarchy": [
+          "woe:timezone=56043650", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -86.46634674072266, 
         "longitude": -86.611, 
-        "parent_woeid": 23424977, 
-        "ne_latitude": 41.43387985229492, 
+        "placetype": "timezone", 
         "iso": "US", 
-        "sw_latitude": 41.171119689941406, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
         "latitude": 41.337, 
         "sw_longitude": -86.93087005615234, 
         "fullname": "America/Indiana/Knox, United States", 
-        "date_indexed": "2010-12-02T19:08:31Z"
+        "woe:id": 56043650, 
+        "sw_latitude": 41.171119689941406
       }, 
       "id": 56043650
     }

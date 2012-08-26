@@ -49028,20 +49028,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -7.114282608032227, 
         "name": "America/Rio_Branco", 
-        "woeid": 56043578, 
+        "hierarchy": [
+          "woe:timezone=56043578", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.62299346923828, 
         "longitude": -70.302, 
-        "parent_woeid": 23424768, 
-        "ne_latitude": -7.114282608032227, 
+        "placetype": "timezone", 
         "iso": "BR", 
-        "sw_latitude": -11.143052101135254, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:03:30Z", 
         "latitude": -9.128, 
         "sw_longitude": -73.98281860351562, 
         "fullname": "America/Rio_Branco, Brazil", 
-        "date_indexed": "2010-12-02T18:03:30Z"
+        "woe:id": 56043578, 
+        "sw_latitude": -11.143052101135254
       }, 
       "id": 56043578
     }

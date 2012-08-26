@@ -12716,20 +12716,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 33.28947448730469, 
         "name": "Asia/Jerusalem", 
-        "woeid": 28350832, 
+        "hierarchy": [
+          "woe:timezone=28350832", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 35.6699333190918, 
         "longitude": 35.422, 
-        "parent_woeid": 1, 
-        "ne_latitude": 33.28947448730469, 
+        "placetype": "timezone", 
         "iso": "IL", 
-        "sw_latitude": 29.491537094116214, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:53:18Z", 
         "latitude": 31.465, 
         "sw_longitude": 34.265949249267585, 
         "fullname": "Asia/Jerusalem", 
-        "date_indexed": "2010-12-02T08:53:18Z"
+        "woe:id": 28350832, 
+        "sw_latitude": 29.491537094116214
       }, 
       "id": 28350832
     }

@@ -29550,20 +29550,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 52.369361877441406, 
         "name": "Europe/Kiev", 
-        "woeid": 56043618, 
+        "hierarchy": [
+          "woe:timezone=56043618", 
+          "woe:country=23424976", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 40.20738983154297, 
         "longitude": 31.182, 
-        "parent_woeid": 23424976, 
-        "ne_latitude": 52.369361877441406, 
+        "placetype": "timezone", 
         "iso": "UA", 
-        "sw_latitude": 45.216915130615234, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:52:39Z", 
         "latitude": 48.383, 
         "sw_longitude": 22.66694450378418, 
         "fullname": "Europe/Kiev, Ukraine", 
-        "date_indexed": "2010-12-02T08:52:39Z"
+        "woe:id": 56043618, 
+        "sw_latitude": 45.216915130615234
       }, 
       "id": 56043618
     }

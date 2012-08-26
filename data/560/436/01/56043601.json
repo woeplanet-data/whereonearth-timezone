@@ -14370,20 +14370,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 29.5579138220052, 
         "name": "America/Monterrey", 
-        "woeid": 56043601, 
+        "hierarchy": [
+          "woe:timezone=56043601", 
+          "woe:country=23424900", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -97.2004168248474, 
         "longitude": -102.179, 
-        "parent_woeid": 23424900, 
-        "ne_latitude": 29.5579138220052, 
+        "placetype": "timezone", 
         "iso": "MX", 
-        "sw_latitude": 22.213886260986328, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:02:03Z", 
         "latitude": 26.043, 
         "sw_longitude": -107.1247329711914, 
         "fullname": "America/Monterrey, Mexico", 
-        "date_indexed": "2010-12-02T17:02:03Z"
+        "woe:id": 56043601, 
+        "sw_latitude": 22.213886260986328
       }, 
       "id": 56043601
     }

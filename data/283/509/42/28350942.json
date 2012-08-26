@@ -190,20 +190,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -8.553613662719727, 
         "name": "Pacific/Fakaofo", 
-        "woeid": 28350942, 
+        "hierarchy": [
+          "woe:timezone=28350942", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -171.21142578125, 
         "longitude": -171.25, 
-        "parent_woeid": 1, 
-        "ne_latitude": -8.553613662719727, 
+        "placetype": "timezone", 
         "iso": "TK", 
-        "sw_latitude": -9.381111145019531, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:53:23Z", 
         "latitude": -9.383, 
         "sw_longitude": -172.50033569335938, 
         "fullname": "Pacific/Fakaofo", 
-        "date_indexed": "2010-12-02T08:53:23Z"
+        "woe:id": 28350942, 
+        "sw_latitude": -9.381111145019531
       }, 
       "id": 28350942
     }

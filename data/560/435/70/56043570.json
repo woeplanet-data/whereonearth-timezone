@@ -32630,20 +32630,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -1.070558786392212, 
         "name": "America/Fortaleza", 
-        "woeid": 56043570, 
+        "hierarchy": [
+          "woe:timezone=56043570", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -34.790122985839844, 
         "longitude": -41.614, 
-        "parent_woeid": 23424768, 
-        "ne_latitude": -1.070558786392212, 
+        "placetype": "timezone", 
         "iso": "BR", 
-        "sw_latitude": -10.89694595336914, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:03:30Z", 
         "latitude": -5.892, 
         "sw_longitude": -48.75055694580078, 
         "fullname": "America/Fortaleza, Brazil", 
-        "date_indexed": "2010-12-02T18:03:30Z"
+        "woe:id": 56043570, 
+        "sw_latitude": -10.89694595336914
       }, 
       "id": 56043570
     }

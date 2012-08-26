@@ -128,20 +128,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -0.50430554151535, 
         "name": "Pacific/Nauru", 
-        "woeid": 28350955, 
+        "hierarchy": [
+          "woe:timezone=28350955", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 166.94528198242188, 
         "longitude": 166.922, 
-        "parent_woeid": 1, 
-        "ne_latitude": -0.50430554151535, 
+        "placetype": "timezone", 
         "iso": "NR", 
-        "sw_latitude": -0.552333354949951, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:11:23Z", 
         "latitude": -0.528, 
         "sw_longitude": 166.89903259277344, 
         "fullname": "Pacific/Nauru", 
-        "date_indexed": "2010-12-02T16:11:23Z"
+        "woe:id": 28350955, 
+        "sw_latitude": -0.552333354949951
       }, 
       "id": 28350955
     }

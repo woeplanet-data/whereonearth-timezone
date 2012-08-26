@@ -23032,20 +23032,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -22.126611709594727, 
         "name": "Africa/Johannesburg", 
-        "woeid": 28350704, 
+        "hierarchy": [
+          "woe:timezone=28350704", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 38.000465393066406, 
         "longitude": 24.68, 
-        "parent_woeid": 1, 
-        "ne_latitude": -22.126611709594727, 
+        "placetype": "timezone", 
         "iso": "ZA", 
-        "sw_latitude": -46.97893142700195, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:58:29Z", 
         "latitude": -28.479, 
         "sw_longitude": 16.45802116394043, 
         "fullname": "Africa/Johannesburg", 
-        "date_indexed": "2010-12-02T08:58:29Z"
+        "woe:id": 28350704, 
+        "sw_latitude": -46.97893142700195
       }, 
       "id": 28350704
     }

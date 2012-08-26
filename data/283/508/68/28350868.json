@@ -3542,20 +3542,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 39.73208236694336, 
         "name": "Atlantic/Azores", 
-        "woeid": 28350868, 
+        "hierarchy": [
+          "woe:timezone=28350868", 
+          "woe:country=23424925", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -25.015832901000977, 
         "longitude": -25.498, 
-        "parent_woeid": 23424925, 
-        "ne_latitude": 39.73208236694336, 
+        "placetype": "timezone", 
         "iso": "PT", 
-        "sw_latitude": 36.92616653442383, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:19:56Z", 
         "latitude": 37.805, 
         "sw_longitude": -31.26575088500977, 
         "fullname": "Atlantic/Azores, Portugal", 
-        "date_indexed": "2010-12-02T10:19:56Z"
+        "woe:id": 28350868, 
+        "sw_latitude": 36.92616653442383
       }, 
       "id": 28350868
     }

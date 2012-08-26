@@ -12246,20 +12246,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 1.439019560813904, 
         "name": "America/Guayaquil", 
-        "woeid": 28350762, 
+        "hierarchy": [
+          "woe:timezone=28350762", 
+          "woe:country=23424801", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -75.18458557128906, 
         "longitude": -78.096, 
-        "parent_woeid": 23424801, 
-        "ne_latitude": 1.439019560813904, 
+        "placetype": "timezone", 
         "iso": "EC", 
-        "sw_latitude": -4.998823165893555, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:51:52Z", 
         "latitude": -1.79, 
         "sw_longitude": -81.07859802246094, 
         "fullname": "America/Guayaquil, Ecuador", 
-        "date_indexed": "2010-12-02T17:51:52Z"
+        "woe:id": 28350762, 
+        "sw_latitude": -4.998823165893555
       }, 
       "id": 28350762
     }

@@ -9204,20 +9204,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 15.082592964172363, 
         "name": "Africa/Ouagadougou", 
-        "woeid": 28350725, 
+        "hierarchy": [
+          "woe:timezone=28350725", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 2.405394792556763, 
         "longitude": -1.557, 
-        "parent_woeid": 1, 
-        "ne_latitude": 15.082592964172363, 
+        "placetype": "timezone", 
         "iso": "BF", 
-        "sw_latitude": 9.401107788085938, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:36:24Z", 
         "latitude": 12.242, 
         "sw_longitude": -5.518916130065918, 
         "fullname": "Africa/Ouagadougou", 
-        "date_indexed": "2010-12-02T09:36:24Z"
+        "woe:id": 28350725, 
+        "sw_latitude": 9.401107788085938
       }, 
       "id": 28350725
     }

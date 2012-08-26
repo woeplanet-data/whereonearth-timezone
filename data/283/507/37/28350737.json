@@ -12184,20 +12184,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -19.29404067993164, 
         "name": "America/Asuncion", 
-        "woeid": 28350737, 
+        "hierarchy": [
+          "woe:timezone=28350737", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -54.25935363769531, 
         "longitude": -58.453, 
-        "parent_woeid": 1, 
-        "ne_latitude": -19.29404067993164, 
+        "placetype": "timezone", 
         "iso": "PY", 
-        "sw_latitude": -27.608737945556644, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:08:44Z", 
         "latitude": -23.451, 
         "sw_longitude": -62.64707565307618, 
         "fullname": "America/Asuncion", 
-        "date_indexed": "2010-12-02T12:08:44Z"
+        "woe:id": 28350737, 
+        "sw_latitude": -27.608737945556644
       }, 
       "id": 28350737
     }

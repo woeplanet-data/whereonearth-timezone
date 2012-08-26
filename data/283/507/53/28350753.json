@@ -500,20 +500,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "ne_latitude": 15.63180923461914, 
         "name": "America/Dominica", 
-        "woeid": 28350753, 
-        "provider": "geoplanet 7.6.0", 
+        "hierarchy": [
+          "woe:timezone=28350753", 
+          "woe:planet=1"
+        ], 
+        "ne_latitude": 15.63180923461914, 
         "ne_longitude": -61.2441520690918, 
         "longitude": -61.364, 
-        "placetype": "Timezone", 
+        "placetype": "timezone", 
         "iso": "DM", 
-        "date_indexed": "2010-12-02T16:32:46Z", 
-        "parent_woeid": 1, 
+        "sw_latitude": 15.20168972015381, 
+        "provider": "geoplanet 7.6.0", 
         "latitude": 15.417, 
         "sw_longitude": -61.484107971191406, 
         "fullname": "America/Dominica", 
-        "sw_latitude": 15.20168972015381
+        "woe:id": 28350753, 
+        "date_indexed": "2010-12-02T16:32:46Z"
       }, 
       "id": 28350753
     }

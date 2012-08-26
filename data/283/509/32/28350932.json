@@ -8586,20 +8586,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 7.098361015319824, 
         "name": "Indian/Maldives", 
-        "woeid": 28350932, 
+        "hierarchy": [
+          "woe:timezone=28350932", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 73.70616912841797, 
         "longitude": 73.155, 
-        "parent_woeid": 1, 
-        "ne_latitude": 7.098361015319824, 
+        "placetype": "timezone", 
         "iso": "MV", 
-        "sw_latitude": -0.692694425582886, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:35:37Z", 
         "latitude": 6.758, 
         "sw_longitude": 72.68389129638672, 
         "fullname": "Indian/Maldives", 
-        "date_indexed": "2010-12-02T09:35:37Z"
+        "woe:id": 28350932, 
+        "sw_latitude": -0.692694425582886
       }, 
       "id": 28350932
     }

@@ -10508,20 +10508,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -7.339167594909668, 
         "name": "America/Cuiaba", 
-        "woeid": 56043575, 
+        "hierarchy": [
+          "woe:timezone=56043575", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -50.232505798339844, 
         "longitude": -55.487, 
-        "parent_woeid": 23424768, 
-        "ne_latitude": -7.339167594909668, 
+        "placetype": "timezone", 
         "iso": "BR", 
-        "sw_latitude": -18.03805923461914, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:03:30Z", 
         "latitude": -12.935, 
         "sw_longitude": -61.61528015136719, 
         "fullname": "America/Cuiaba, Brazil", 
-        "date_indexed": "2010-12-02T18:03:30Z"
+        "woe:id": 56043575, 
+        "sw_latitude": -18.03805923461914
       }, 
       "id": 56043575
     }

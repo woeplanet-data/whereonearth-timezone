@@ -244,20 +244,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 31.594055175781254, 
         "name": "Asia/Gaza", 
-        "woeid": 28350826, 
+        "hierarchy": [
+          "woe:timezone=28350826", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 34.5462760925293, 
         "longitude": 35.23, 
-        "parent_woeid": 1, 
-        "ne_latitude": 31.594055175781254, 
+        "placetype": "timezone", 
         "iso": "PS", 
-        "sw_latitude": 31.222288131713867, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T12:08:38Z", 
         "latitude": 31.948, 
         "sw_longitude": 34.22038650512695, 
         "fullname": "Asia/Gaza", 
-        "date_indexed": "2010-12-02T12:08:38Z"
+        "woe:id": 28350826, 
+        "sw_latitude": 31.222288131713867
       }, 
       "id": 28350826
     }

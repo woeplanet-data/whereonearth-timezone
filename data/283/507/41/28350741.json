@@ -33718,20 +33718,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 13.390292167663574, 
         "name": "America/Bogota", 
-        "woeid": 28350741, 
+        "hierarchy": [
+          "woe:timezone=28350741", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.86983489990234, 
         "longitude": -72.959, 
-        "parent_woeid": 1, 
-        "ne_latitude": 13.390292167663574, 
+        "placetype": "timezone", 
         "iso": "CO", 
-        "sw_latitude": -4.225544452667236, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:57:37Z", 
         "latitude": 4.116, 
         "sw_longitude": -81.72811126708984, 
         "fullname": "America/Bogota", 
-        "date_indexed": "2010-12-02T17:57:37Z"
+        "woe:id": 28350741, 
+        "sw_latitude": -4.225544452667236
       }, 
       "id": 28350741
     }

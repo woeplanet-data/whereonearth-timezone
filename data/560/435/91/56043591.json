@@ -1134,20 +1134,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 9.402889251708984, 
         "name": "Pacific/Kwajalein", 
-        "woeid": 56043591, 
+        "hierarchy": [
+          "woe:timezone=56043591", 
+          "woe:country=23424932", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 167.77549743652344, 
         "longitude": 167.485, 
-        "parent_woeid": 23424932, 
-        "ne_latitude": 9.402889251708984, 
+        "placetype": "timezone", 
         "iso": "MH", 
-        "sw_latitude": 8.711889266967773, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:35:37Z", 
         "latitude": 9.392, 
         "sw_longitude": 166.81771850585938, 
         "fullname": "Pacific/Kwajalein, Marshall Islands", 
-        "date_indexed": "2010-12-02T09:35:37Z"
+        "woe:id": 56043591, 
+        "sw_latitude": 8.711889266967773
       }, 
       "id": 56043591
     }

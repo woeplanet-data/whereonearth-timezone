@@ -12062,20 +12062,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 14.686416625976564, 
         "name": "Asia/Phnom_Penh", 
-        "woeid": 28350847, 
+        "hierarchy": [
+          "woe:timezone=28350847", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 107.62772369384766, 
         "longitude": 104.984, 
-        "parent_woeid": 1, 
-        "ne_latitude": 14.686416625976564, 
+        "placetype": "timezone", 
         "iso": "KH", 
-        "sw_latitude": 9.90625, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:11:23Z", 
         "latitude": 12.548, 
         "sw_longitude": 102.33999633789062, 
         "fullname": "Asia/Phnom_Penh", 
-        "date_indexed": "2010-12-02T16:11:23Z"
+        "woe:id": 28350847, 
+        "sw_latitude": 9.90625
       }, 
       "id": 28350847
     }

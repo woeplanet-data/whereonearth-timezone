@@ -48,20 +48,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 64.07440158784296, 
         "name": "America/Dawson", 
-        "woeid": 56043677, 
+        "hierarchy": [
+          "woe:timezone=56043677", 
+          "woe:state=2344926", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -139.36164359975726, 
         "longitude": -136.805, 
-        "parent_woeid": 2344926, 
-        "ne_latitude": 64.07440158784296, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 64.04293641197658, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 64.822, 
         "sw_longitude": -139.45848302451103, 
         "fullname": "America/Dawson, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043677, 
+        "sw_latitude": 64.04293641197658
       }, 
       "id": 56043677
     }

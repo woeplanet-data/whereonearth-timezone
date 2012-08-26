@@ -3614,20 +3614,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 30.103698730468754, 
         "name": "Asia/Kuwait", 
-        "woeid": 28350839, 
+        "hierarchy": [
+          "woe:timezone=28350839", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 48.43147277832031, 
         "longitude": 47.494, 
-        "parent_woeid": 1, 
-        "ne_latitude": 30.103698730468754, 
+        "placetype": "timezone", 
         "iso": "KW", 
-        "sw_latitude": 28.52461051940918, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:53:01Z", 
         "latitude": 29.314, 
         "sw_longitude": 46.556461334228516, 
         "fullname": "Asia/Kuwait", 
-        "date_indexed": "2010-12-02T08:53:01Z"
+        "woe:id": 28350839, 
+        "sw_latitude": 28.52461051940918
       }, 
       "id": 28350839
     }

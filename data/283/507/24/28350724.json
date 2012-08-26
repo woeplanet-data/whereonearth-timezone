@@ -10030,20 +10030,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 27.298072814941406, 
         "name": "Africa/Nouakchott", 
-        "woeid": 28350724, 
+        "hierarchy": [
+          "woe:timezone=28350724", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -4.827674388885498, 
         "longitude": -10.951, 
-        "parent_woeid": 1, 
-        "ne_latitude": 27.298072814941406, 
+        "placetype": "timezone", 
         "iso": "MR", 
-        "sw_latitude": 14.715546607971191, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:11:57Z", 
         "latitude": 21.007, 
         "sw_longitude": -17.06652069091797, 
         "fullname": "Africa/Nouakchott", 
-        "date_indexed": "2010-12-02T16:11:57Z"
+        "woe:id": 28350724, 
+        "sw_latitude": 14.715546607971191
       }, 
       "id": 28350724
     }

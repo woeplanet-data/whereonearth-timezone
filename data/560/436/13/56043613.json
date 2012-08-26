@@ -26814,20 +26814,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 61.064437866210945, 
         "name": "Europe/Volgograd", 
-        "woeid": 56043613, 
+        "hierarchy": [
+          "woe:timezone=56043613", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 53.92832946777344, 
         "longitude": 41.325, 
-        "parent_woeid": 23424936, 
-        "ne_latitude": 61.064437866210945, 
+        "placetype": "timezone", 
         "iso": "RU", 
-        "sw_latitude": 45.17283248901367, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:11:11Z", 
         "latitude": 60.088, 
         "sw_longitude": 41.15637969970704, 
         "fullname": "Europe/Volgograd, Russia", 
-        "date_indexed": "2010-12-02T16:11:11Z"
+        "woe:id": 56043613, 
+        "sw_latitude": 45.17283248901367
       }, 
       "id": 56043613
     }

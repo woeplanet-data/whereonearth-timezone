@@ -404,20 +404,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -10.415778160095215, 
         "name": "Indian/Christmas", 
-        "woeid": 28350927, 
+        "hierarchy": [
+          "woe:timezone=28350927", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 105.7195816040039, 
         "longitude": 105.629, 
-        "parent_woeid": 1, 
-        "ne_latitude": -10.415778160095215, 
+        "placetype": "timezone", 
         "iso": "CX", 
-        "sw_latitude": -10.575860977172852, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:40:29Z", 
         "latitude": -10.496, 
         "sw_longitude": 105.53894805908203, 
         "fullname": "Indian/Christmas", 
-        "date_indexed": "2010-12-02T17:40:29Z"
+        "woe:id": 28350927, 
+        "sw_latitude": -10.575860977172852
       }, 
       "id": 28350927
     }

@@ -22474,20 +22474,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -25.998416900634766, 
         "name": "Australia/Adelaide", 
-        "woeid": 28350877, 
+        "hierarchy": [
+          "woe:timezone=28350877", 
+          "woe:country=23424748", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 141.00425720214844, 
         "longitude": 135.001, 
-        "parent_woeid": 23424748, 
-        "ne_latitude": -25.998416900634766, 
+        "placetype": "timezone", 
         "iso": "AU", 
-        "sw_latitude": -38.064666748046875, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:47:57Z", 
         "latitude": -32.16, 
         "sw_longitude": 128.9898681640625, 
         "fullname": "Australia/Adelaide, Australia", 
-        "date_indexed": "2010-12-02T17:47:57Z"
+        "woe:id": 28350877, 
+        "sw_latitude": -38.064666748046875
       }, 
       "id": 28350877
     }

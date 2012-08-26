@@ -11332,20 +11332,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 2.223161697387695, 
         "name": "America/Manaus", 
-        "woeid": 56043581, 
+        "hierarchy": [
+          "woe:timezone=56043581", 
+          "woe:state=2344847", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -56.305686950683594, 
         "longitude": -64.467, 
-        "parent_woeid": 2344847, 
-        "ne_latitude": 2.223161697387695, 
+        "placetype": "timezone", 
         "iso": "BR", 
-        "sw_latitude": -9.838335037231445, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:03:30Z", 
         "latitude": -3.175, 
         "sw_longitude": -70.06802368164062, 
         "fullname": "America/Manaus, Brazil", 
-        "date_indexed": "2010-12-02T18:03:30Z"
+        "woe:id": 56043581, 
+        "sw_latitude": -9.838335037231445
       }, 
       "id": 56043581
     }

@@ -270,20 +270,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -20.03936195373535, 
         "name": "Australia/Lindeman", 
-        "woeid": 28350881, 
+        "hierarchy": [
+          "woe:timezone=28350881", 
+          "woe:country=23424748", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 149.06446838378906, 
         "longitude": 149.071, 
-        "parent_woeid": 23424748, 
-        "ne_latitude": -20.03936195373535, 
+        "placetype": "timezone", 
         "iso": "AU", 
-        "sw_latitude": -20.460416793823242, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:47:57Z", 
         "latitude": -20.481, 
         "sw_longitude": 148.87394714355472, 
         "fullname": "Australia/Lindeman, Australia", 
-        "date_indexed": "2010-12-02T17:47:57Z"
+        "woe:id": 28350881, 
+        "sw_latitude": -20.460416793823242
       }, 
       "id": 28350881
     }

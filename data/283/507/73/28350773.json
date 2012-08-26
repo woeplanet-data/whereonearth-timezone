@@ -1278,20 +1278,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 14.87881851196289, 
         "name": "America/Martinique", 
-        "woeid": 28350773, 
+        "hierarchy": [
+          "woe:timezone=28350773", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -60.81550979614258, 
         "longitude": -61.023, 
-        "parent_woeid": 1, 
-        "ne_latitude": 14.87881851196289, 
+        "placetype": "timezone", 
         "iso": "MQ", 
-        "sw_latitude": 14.392262458801271, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:06:00Z", 
         "latitude": 14.636, 
         "sw_longitude": -61.23011779785157, 
         "fullname": "America/Martinique", 
-        "date_indexed": "2010-12-02T17:06:00Z"
+        "woe:id": 28350773, 
+        "sw_latitude": 14.392262458801271
       }, 
       "id": 28350773
     }

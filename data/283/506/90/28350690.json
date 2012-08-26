@@ -7424,20 +7424,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -9.367541313171387, 
         "name": "Africa/Blantyre", 
-        "woeid": 28350690, 
+        "hierarchy": [
+          "woe:timezone=28350690", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 35.91682052612305, 
         "longitude": 34.295, 
-        "parent_woeid": 1, 
-        "ne_latitude": -9.367541313171387, 
+        "placetype": "timezone", 
         "iso": "MW", 
-        "sw_latitude": -17.125, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:40:29Z", 
         "latitude": -13.246, 
         "sw_longitude": 32.6739501953125, 
         "fullname": "Africa/Blantyre", 
-        "date_indexed": "2010-12-02T17:40:29Z"
+        "woe:id": 28350690, 
+        "sw_latitude": -17.125
       }, 
       "id": 28350690
     }

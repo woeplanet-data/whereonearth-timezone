@@ -10278,20 +10278,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 8.55756664276123, 
         "name": "America/Guyana", 
-        "woeid": 28350763, 
+        "hierarchy": [
+          "woe:timezone=28350763", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -56.48025131225586, 
         "longitude": -58.938, 
-        "parent_woeid": 1, 
-        "ne_latitude": 8.55756664276123, 
+        "placetype": "timezone", 
         "iso": "GY", 
-        "sw_latitude": 1.175080299377441, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:33:25Z", 
         "latitude": 4.866, 
         "sw_longitude": -61.384761810302734, 
         "fullname": "America/Guyana", 
-        "date_indexed": "2010-12-02T16:33:25Z"
+        "woe:id": 28350763, 
+        "sw_latitude": 1.175080299377441
       }, 
       "id": 28350763
     }

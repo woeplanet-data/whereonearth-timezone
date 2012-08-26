@@ -7442,20 +7442,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 26.39205551147461, 
         "name": "Asia/Taipei", 
-        "woeid": 28350857, 
+        "hierarchy": [
+          "woe:timezone=28350857", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 122.00044250488281, 
         "longitude": 121.024, 
-        "parent_woeid": 1, 
-        "ne_latitude": 26.39205551147461, 
+        "placetype": "timezone", 
         "iso": "TW", 
-        "sw_latitude": 20.697500228881836, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:17:33Z", 
         "latitude": 23.6, 
         "sw_longitude": 116.70666503906249, 
         "fullname": "Asia/Taipei", 
-        "date_indexed": "2010-12-02T16:17:33Z"
+        "woe:id": 28350857, 
+        "sw_latitude": 20.697500228881836
       }, 
       "id": 28350857
     }

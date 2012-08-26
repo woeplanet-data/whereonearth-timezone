@@ -914,20 +914,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 13.37783432006836, 
         "name": "America/St_Vincent", 
-        "woeid": 28350798, 
+        "hierarchy": [
+          "woe:timezone=28350798", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -61.1138801574707, 
         "longitude": -61.196, 
-        "parent_woeid": 1, 
-        "ne_latitude": 13.37783432006836, 
+        "placetype": "timezone", 
         "iso": "VC", 
-        "sw_latitude": 12.530170440673828, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T09:57:22Z", 
         "latitude": 13.248, 
         "sw_longitude": -61.45925521850586, 
         "fullname": "America/St_Vincent", 
-        "date_indexed": "2010-12-02T09:57:22Z"
+        "woe:id": 28350798, 
+        "sw_latitude": 12.530170440673828
       }, 
       "id": 28350798
     }

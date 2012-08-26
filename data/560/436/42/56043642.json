@@ -8478,20 +8478,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 42.28816604614258, 
         "name": "Asia/Tashkent", 
-        "woeid": 56043642, 
+        "hierarchy": [
+          "woe:timezone=56043642", 
+          "woe:country=23424980", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 73.13227844238281, 
         "longitude": 70.575, 
-        "parent_woeid": 23424980, 
-        "ne_latitude": 42.28816604614258, 
+        "placetype": "timezone", 
         "iso": "UZ", 
-        "sw_latitude": 39.488494873046875, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:18:54Z", 
         "latitude": 41.056, 
         "sw_longitude": 66.6080322265625, 
         "fullname": "Asia/Tashkent, Uzbekistan", 
-        "date_indexed": "2010-12-02T18:18:54Z"
+        "woe:id": 56043642, 
+        "sw_latitude": 39.488494873046875
       }, 
       "id": 56043642
     }

@@ -23518,20 +23518,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 59.80001831054688, 
         "name": "America/Juneau", 
-        "woeid": 56043667, 
+        "hierarchy": [
+          "woe:timezone=56043667", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -132.36460876464844, 
         "longitude": -133.167, 
-        "parent_woeid": 23424977, 
-        "ne_latitude": 59.80001831054688, 
+        "placetype": "timezone", 
         "iso": "US", 
-        "sw_latitude": 57.014739990234375, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
         "latitude": 57.619, 
         "sw_longitude": -137.93621155839185, 
         "fullname": "America/Juneau, United States", 
-        "date_indexed": "2010-12-02T19:08:31Z"
+        "woe:id": 56043667, 
+        "sw_latitude": 57.014739990234375
       }, 
       "id": 56043667
     }

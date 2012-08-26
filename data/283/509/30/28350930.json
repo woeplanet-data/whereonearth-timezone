@@ -14038,20 +14038,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -37.79072189331055, 
         "name": "Indian/Kerguelen", 
-        "woeid": 28350930, 
+        "hierarchy": [
+          "woe:timezone=28350930", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 77.59880828857422, 
         "longitude": 40.386, 
-        "parent_woeid": 1, 
-        "ne_latitude": -37.79072189331055, 
+        "placetype": "timezone", 
         "iso": "TF", 
-        "sw_latitude": -50.02026367187501, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:53:34Z", 
         "latitude": -22.341, 
         "sw_longitude": 50.170257568359375, 
         "fullname": "Indian/Kerguelen", 
-        "date_indexed": "2010-12-02T08:53:34Z"
+        "woe:id": 28350930, 
+        "sw_latitude": -50.02026367187501
       }, 
       "id": 28350930
     }

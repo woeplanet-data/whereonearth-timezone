@@ -426,20 +426,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 17.42011833190918, 
         "name": "America/St_Kitts", 
-        "woeid": 28350795, 
+        "hierarchy": [
+          "woe:timezone=28350795", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -62.54326629638672, 
         "longitude": -62.746, 
-        "parent_woeid": 1, 
-        "ne_latitude": 17.42011833190918, 
+        "placetype": "timezone", 
         "iso": "KN", 
-        "sw_latitude": 17.0953426361084, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:52:18Z", 
         "latitude": 17.318, 
         "sw_longitude": -62.86956024169922, 
         "fullname": "America/St_Kitts", 
-        "date_indexed": "2010-12-02T08:52:18Z"
+        "woe:id": 28350795, 
+        "sw_latitude": 17.0953426361084
       }, 
       "id": 28350795
     }

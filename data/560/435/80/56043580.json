@@ -32228,20 +32228,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -4.122894763946533, 
         "name": "America/Eirunepe", 
-        "woeid": 56043580, 
+        "hierarchy": [
+          "woe:timezone=56043580", 
+          "woe:state=2344847", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -67.55774295028569, 
         "longitude": -69.355, 
-        "parent_woeid": 2344847, 
-        "ne_latitude": -4.122894763946533, 
+        "placetype": "timezone", 
         "iso": "BR", 
-        "sw_latitude": -9.537873335882754, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:03:30Z", 
         "latitude": -3.835, 
         "sw_longitude": -73.7989273071289, 
         "fullname": "America/Eirunepe, Brazil", 
-        "date_indexed": "2010-12-02T18:03:30Z"
+        "woe:id": 56043580, 
+        "sw_latitude": -9.537873335882754
       }, 
       "id": 56043580
     }

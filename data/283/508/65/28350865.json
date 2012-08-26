@@ -66694,20 +66694,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 74.68438720703125, 
         "name": "Asia/Yakutsk", 
-        "woeid": 28350865, 
+        "hierarchy": [
+          "woe:timezone=28350865", 
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 135.8431655918813, 
         "longitude": 120.729, 
-        "parent_woeid": 23424936, 
-        "ne_latitude": 74.68438720703125, 
+        "placetype": "timezone", 
         "iso": "RU", 
-        "sw_latitude": 48.8524169921875, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:11:11Z", 
         "latitude": 61.422, 
         "sw_longitude": 105.52082824707031, 
         "fullname": "Asia/Yakutsk, Russia", 
-        "date_indexed": "2010-12-02T16:11:11Z"
+        "woe:id": 28350865, 
+        "sw_latitude": 48.8524169921875
       }, 
       "id": 28350865
     }

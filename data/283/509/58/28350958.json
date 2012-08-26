@@ -12702,20 +12702,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -19.103805541992188, 
         "name": "Pacific/Noumea", 
-        "woeid": 28350958, 
+        "hierarchy": [
+          "woe:timezone=28350958", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 172.06138610839844, 
         "longitude": 165.507, 
-        "parent_woeid": 1, 
-        "ne_latitude": -19.103805541992188, 
+        "placetype": "timezone", 
         "iso": "NC", 
-        "sw_latitude": -22.714639663696293, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:02:10Z", 
         "latitude": -21.242, 
         "sw_longitude": 158.1976318359375, 
         "fullname": "Pacific/Noumea", 
-        "date_indexed": "2010-12-02T17:02:10Z"
+        "woe:id": 28350958, 
+        "sw_latitude": -22.714639663696293
       }, 
       "id": 28350958
     }

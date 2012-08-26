@@ -4914,20 +4914,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -52.665374755859375, 
         "name": "America/Argentina/Ushuaia", 
-        "woeid": 56043550, 
+        "hierarchy": [
+          "woe:timezone=56043550", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -63.80696105957032, 
         "longitude": -68.064, 
-        "parent_woeid": 23424747, 
-        "ne_latitude": -52.665374755859375, 
+        "placetype": "timezone", 
         "iso": "AR", 
-        "sw_latitude": -55.06131362915039, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "latitude": -53.86, 
         "sw_longitude": -68.61320495605469, 
         "fullname": "America/Argentina/Ushuaia, Argentina", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "woe:id": 56043550, 
+        "sw_latitude": -55.06131362915039
       }, 
       "id": 56043550
     }

@@ -4324,20 +4324,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": -28.409984588623047, 
         "name": "America/Argentina/San_Juan", 
-        "woeid": 56043547, 
+        "hierarchy": [
+          "woe:timezone=56043547", 
+          "woe:country=23424747", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -66.73048400878906, 
         "longitude": -68.648, 
-        "parent_woeid": 23424747, 
-        "ne_latitude": -28.409984588623047, 
+        "placetype": "timezone", 
         "iso": "AR", 
-        "sw_latitude": -32.398529052734375, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:42:05Z", 
         "latitude": -30.503, 
         "sw_longitude": -70.56177520751953, 
         "fullname": "America/Argentina/San_Juan, Argentina", 
-        "date_indexed": "2010-12-02T17:42:05Z"
+        "woe:id": 56043547, 
+        "sw_latitude": -32.398529052734375
       }, 
       "id": 56043547
     }

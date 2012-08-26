@@ -47986,20 +47986,23 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 23.594924926757812, 
         "name": "America/Havana", 
-        "woeid": 28350765, 
+        "hierarchy": [
+          "woe:timezone=28350765", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -74.13177490234375, 
         "longitude": -77.807, 
-        "parent_woeid": 1, 
-        "ne_latitude": 23.594924926757812, 
+        "placetype": "timezone", 
         "iso": "CU", 
-        "sw_latitude": 19.828083038330078, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:58:58Z", 
         "latitude": 21.511, 
         "sw_longitude": -84.95742797851562, 
         "fullname": "America/Havana", 
-        "date_indexed": "2010-12-02T08:58:58Z"
+        "woe:id": 28350765, 
+        "sw_latitude": 19.828083038330078
       }, 
       "id": 28350765
     }

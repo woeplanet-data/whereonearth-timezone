@@ -7672,20 +7672,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 2.632479190826416, 
         "name": "America/Santarem", 
-        "woeid": 56043576, 
+        "hierarchy": [
+          "woe:timezone=56043576", 
+          "woe:state=2344857", 
+          "woe:country=23424768", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -51.760805144148705, 
         "longitude": -55.328, 
-        "parent_woeid": 2344857, 
-        "ne_latitude": 2.632479190826416, 
+        "placetype": "timezone", 
         "iso": "BR", 
-        "sw_latitude": -9.71702373038477, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T18:03:30Z", 
         "latitude": -3.525, 
         "sw_longitude": -58.97208786010742, 
         "fullname": "America/Santarem, Brazil", 
-        "date_indexed": "2010-12-02T18:03:30Z"
+        "woe:id": 56043576, 
+        "sw_latitude": -9.71702373038477
       }, 
       "id": 56043576
     }

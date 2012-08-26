@@ -100,20 +100,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 41.17278289794922, 
         "name": "America/Indiana/Winamac", 
-        "woeid": 56043651, 
+        "hierarchy": [
+          "woe:timezone=56043651", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -86.4665298461914, 
         "longitude": -86.672, 
-        "parent_woeid": 23424977, 
-        "ne_latitude": 41.17278289794922, 
+        "placetype": "timezone", 
         "iso": "US", 
-        "sw_latitude": 40.909332275390625, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
         "latitude": 41.065, 
         "sw_longitude": -86.93095397949219, 
         "fullname": "America/Indiana/Winamac, United States", 
-        "date_indexed": "2010-12-02T19:08:31Z"
+        "woe:id": 56043651, 
+        "sw_latitude": 40.909332275390625
       }, 
       "id": 56043651
     }

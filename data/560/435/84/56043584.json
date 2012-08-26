@@ -11990,20 +11990,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 2.083333253860474, 
         "name": "Asia/Pontianak", 
-        "woeid": 56043584, 
+        "hierarchy": [
+          "woe:timezone=56043584", 
+          "woe:country=23424846", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": 115.75659942626953, 
         "longitude": 111.644, 
-        "parent_woeid": 23424846, 
-        "ne_latitude": 2.083333253860474, 
+        "placetype": "timezone", 
         "iso": "ID", 
-        "sw_latitude": -3.570055484771729, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T16:55:18Z", 
         "latitude": -0.442, 
         "sw_longitude": 108.01760864257812, 
         "fullname": "Asia/Pontianak, Indonesia", 
-        "date_indexed": "2010-12-02T16:55:18Z"
+        "woe:id": 56043584, 
+        "sw_latitude": -3.570055484771729
       }, 
       "id": 56043584
     }

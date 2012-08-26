@@ -15624,20 +15624,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 37.0042610168457, 
         "name": "America/Phoenix", 
-        "woeid": 56043666, 
+        "hierarchy": [
+          "woe:timezone=56043666", 
+          "woe:country=23424977", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -109.04574584960938, 
         "longitude": -111.93, 
-        "parent_woeid": 23424977, 
-        "ne_latitude": 37.0042610168457, 
+        "placetype": "timezone", 
         "iso": "US", 
-        "sw_latitude": 31.328807830810543, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T19:08:31Z", 
         "latitude": 34.168, 
         "sw_longitude": -114.81461334228517, 
         "fullname": "America/Phoenix, United States", 
-        "date_indexed": "2010-12-02T19:08:31Z"
+        "woe:id": 56043666, 
+        "sw_latitude": 31.328807830810543
       }, 
       "id": 56043666
     }

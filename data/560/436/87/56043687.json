@@ -1494,20 +1494,25 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 60.0, 
         "name": "America/Regina", 
-        "woeid": 56043687, 
+        "hierarchy": [
+          "woe:timezone=56043687", 
+          "woe:state=2344925", 
+          "woe:country=23424775", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -101.35955047607422, 
         "longitude": -105.684, 
-        "parent_woeid": 2344925, 
-        "ne_latitude": 60.0, 
+        "placetype": "timezone", 
         "iso": "CA", 
-        "sw_latitude": 48.99030303955078, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T10:24:38Z", 
         "latitude": 54.499, 
         "sw_longitude": -110.0, 
         "fullname": "America/Regina, Canada", 
-        "date_indexed": "2010-12-02T10:24:38Z"
+        "woe:id": 56043687, 
+        "sw_latitude": 48.99030303955078
       }, 
       "id": 56043687
     }

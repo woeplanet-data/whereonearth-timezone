@@ -25298,20 +25298,24 @@
       "type": "Feature", 
       "properties": {
         "lang": "ENG", 
-        "placetype": "Timezone", 
+        "ne_latitude": 28.002498626708984, 
         "name": "America/Mazatlan", 
-        "woeid": 28350774, 
+        "hierarchy": [
+          "woe:timezone=28350774", 
+          "woe:country=23424900", 
+          "woe:planet=1"
+        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne_longitude": -103.94493103027344, 
         "longitude": -106.585, 
-        "parent_woeid": 23424900, 
-        "ne_latitude": 28.002498626708984, 
+        "placetype": "timezone", 
         "iso": "MX", 
-        "sw_latitude": 18.346208572387695, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T17:02:03Z", 
         "latitude": 23.822, 
         "sw_longitude": -115.21237182617188, 
         "fullname": "America/Mazatlan, Mexico", 
-        "date_indexed": "2010-12-02T17:02:03Z"
+        "woe:id": 28350774, 
+        "sw_latitude": 18.346208572387695
       }, 
       "id": 28350774
     }
