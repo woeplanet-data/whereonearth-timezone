@@ -7,8 +7,11 @@ import logging
 import os
 import os.path
 import csv
+import geojson
 import json
 import pprint
+import shapely.geometry
+import utils
 
 def crawl(p):
 
@@ -33,15 +36,23 @@ def export(path, writer):
 
     f = data['features'][0]
     props = f['properties']
-
-    # TO DO: trim decimal points and simplify
-
+    
     geom = f['geometry']
+    poly = shapely.geometry.asShape(geom)
+    poly = poly.simplify(.25)
+
+    # There must be an easier/better way but whatever...
+    # (20131215/straup)
+
+    f['geometry'] = poly
+    f = json.loads(geojson.dumps(f))
+
+    geom = utils.geometry2carbonite(f['geometry'])
 
     out = {
         'woeid': props['woe:id'],
         'tzid': props['fullname'],
-        'geom': json.dumps(geom)
+        'geom': geom,
         }
 
     writer.writerow(out)
